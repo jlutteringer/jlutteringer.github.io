@@ -14,10 +14,9 @@ _Hit Dice - _ 1d10
 ### Abilities
 | Level | Proficiency | Features                                  |
 | ----- | -----       |----------------------------------         |
-| 1     | +1          | Tactical Maneuvers (1), Overwatch         |
-| 2     | +1          | Soldier's Endurance, Tech Hardpoint (low) |
+| 1     | +2          | Tactical Maneuvers (1), Overwatch         |
+| 2     | +2          | Soldier's Endurance, Tech Hardpoint (low) |
 | 3     | +2          | Run and Gun, Tech Hardpoint (medium)      |
-| 4     | +2          | Extra Attack                              |
 
 _Tactical Maneuvers_  
 The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter.
@@ -31,18 +30,29 @@ The Commando can use a bonus action to restore his heath by `1d10 + CON` three t
 _Run and Gun_  
 The Commando can use the dash action as a bonus action.
 
-_Extra Attack_  
-The Commando gains an extra attack when using the attack action.
-
 ## Marauder
 ### Details
 _Primary Attribute - _ Strength  
 _Weapon Proficiency - _ Heavy  
-_Armor Proficiency - _ Medium  
+_Armor Proficiency - _ None  
 _Hit Dice - _ 1d12 
 
 ### Abilities
-_Rage_
+| Level | Proficiency | Features                            |
+| ----- | -----       |----------------------------------   |
+| 1     | +2          | Rage, Ignore Pain, Athletics(1)     |
+| 2     | +2          | Tar'duru Zealot, Ancient Pact       |
+| 3     | +2          | Khydrian Drift                      |
+
+_Rage_  
+
+_Ignore Pain_  
+
+_Tar'duru Zealot_  
+
+_Ancient Pact_  
+
+_Khydrian Drift_  
 
 ## Heavy
 ### Details
@@ -57,7 +67,6 @@ _Hit Dice - _ 1d12
 | 1     | +1          | Overshield                          |
 | 2     | +1          | Protocols (Oppression, Immortality) |
 | 3     | +2          | Unstoppable, Tech Hardpoint (low)   |
-| 4     | +2          | Overdrive |
 
 _Overshield_  
 
@@ -165,7 +174,6 @@ _Armor Proficiency - _ Medium
 _Hit Dice - _ 1d8
 
 ### Abilities
-_Overshield_
 
 
 ## Adept
@@ -186,7 +194,7 @@ _Hit Dice - _ 1d6
 | 4     | +2          | Torrent of Will                  |
 
 _Prescience_  
-At the beginning of each day, the adept rolls 2d20 and records the results. At any time, the adept can replace the result of any attack roll, ability check, or saving throw with the result of one of the stored rolls, even after the roll has already occured. Using the result this way consumes it.
+At the beginning of each day, the adept rolls `2d20` and records the results. At any time, the adept can replace the result of any attack roll, ability check, or saving throw with the result of one of the stored rolls, even after the roll has already occured. Using the result this way consumes it.
 
 _Victory Rush_  
 Whenever the adept kills an opponent, he heals for `1d10 + WILL`. This effect cannot occur more than once per round.
@@ -204,7 +212,5 @@ _Indomitable_
 Once per encounter, the adept may use this ability to gain advantage on any saving throw roll.
 
 _Torrent of Will_
-
-
 
 # Advanced Classes

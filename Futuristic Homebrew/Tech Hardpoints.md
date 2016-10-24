@@ -26,6 +26,8 @@ _Cardio Module_
 
 _Gravity Boots_  
 
+_Optical Sight_  
+
 ## Medium Power
 
 _Tactical Visor_  
