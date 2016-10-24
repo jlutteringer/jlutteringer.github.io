@@ -12,24 +12,27 @@ _Hit Dice - _ 1d10
 * G43 9mm Pistol
 
 ### Abilities
-| Level | Proficiency | Features                         |
-| ----- | -----       |----------------------------------|
-| 1     | +1          | Soldier's Endurance, Overwatch   |
-| 2     | +1          | Tech Hardpoint (medium)          |
-| 3     | +2          | Run and Gun, Tech Hardpoint (low)|
-| 4     | +2          | Squad Tactics                    |
+| Level | Proficiency | Features                                  |
+| ----- | -----       |----------------------------------         |
+| 1     | +1          | Tactical Maneuvers (1), Overwatch         |
+| 2     | +1          | Soldier's Endurance, Tech Hardpoint (low) |
+| 3     | +2          | Run and Gun, Tech Hardpoint (medium)      |
+| 4     | +2          | Extra Attack                              |
+
+_Tactical Maneuvers_  
+The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter.
+
+_Overwatch (Tatical Maneuver)_  
+The Commando uses a tactical maneuver to enter Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
 
 _Soldier's Endurance_  
 The Commando can use a bonus action to restore his heath by `1d10 + CON` three times per rest.
 
-_Overwatch_  
-Once per encounter, the Commando can use his action to enter Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
-
 _Run and Gun_  
 The Commando can use the dash action as a bonus action.
 
-_Squad Tactics_  
-Whenever the Commando attacks an enemy with advantage, he grants the next ally who attacks that same enemy advantage as well until the start of the Commando's next turn.
+_Extra Attack_  
+The Commando gains an extra attack when using the attack action.
 
 ## Marauder
 ### Details
@@ -49,19 +52,23 @@ _Armor Proficiency - _ Heavy
 _Hit Dice - _ 1d12
 
 ### Abilities
-| Level | Proficiency | Features                         |
-| ----- | -----       |----------------------------------|
-| 1     | +1          | Oppression, Tech Hardpoint (high)|
-| 2     | +1          | Tech Hardpoint (medium)          |
-| 3     | +2          | Run and Gun, Tech Hardpoint (low)|
-| 4     | +2          | Squad Tactics                    |
+| Level | Proficiency | Features                            |
+| ----- | -----       |----------------------------------   |
+| 1     | +1          | Overshield                          |
+| 2     | +1          | Protocols (Oppression, Immortality) |
+| 3     | +2          | Unstoppable, Tech Hardpoint (low)   |
+| 4     | +2          | Overdrive |
 
-_Oppression_    
+_Overshield_  
+
+_Oppression Protocol_  
+
+_Immortality Protocol_  
 
 _Unstoppable_  
 The Heavy cannot be flanked.
 
-_Immortality Protocol_  
+_Overdrive_
 
 ## Hunter
 ### Details
