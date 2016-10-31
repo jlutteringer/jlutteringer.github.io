@@ -1,129 +1,248 @@
-# Base Classes
+# General Abilities
+_Unstoppable_  
+This unit cannot be flanked.
 
+# Base Classes
 ## Commando
-### Details
-_Primary Attribute - _ Agility  
-_Weapon Proficiency - _ Medium  
-_Armor Proficiency - _ Heavy  
-_Hit Dice - _ 1d10
+| Details | |
+|-|-|
+| Primary Attribute | Agility |
+| Weapon Proficiency | Medium |
+| Armor Proficiency | Heavy |
+| Hit Dice | d10 |
 
 ### Starting Equipment
-* M4 Carbine
-* G43 9mm Pistol
+* Carbine
+* Handgun
+* Silencer
 
 ### Abilities
-| Level | Proficiency | Features                                  |
-| ----- | -----       |----------------------------------         |
-| 1     | +2          | Tactical Maneuvers (1), Overwatch         |
-| 2     | +2          | Soldier's Endurance, Tech Hardpoint (low) |
-| 3     | +2          | Run and Gun, Tech Hardpoint (medium)      |
+| Level | Proficiency | Features                                                                      |
+| ----- | -----       |----------------------------------                                             |
+| 1     | +2          | Tactical Maneuvers (2), Overwatch, Tech Hardpoint (low)                       |
+| 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (low) |
+| 3     | +2          | Run and Gun, Tech Hardpoint (medium)                                          |
 
 _Tactical Maneuvers_  
-The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter.
+The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter. Only one tactical maneuver can be used per turn.
 
 _Overwatch (Tatical Maneuver)_  
+* Action: Standard
+* Endurance Cost: Low
+
 The Commando uses a tactical maneuver to enter Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
 
 _Soldier's Endurance_  
-The Commando can use a bonus action to restore his heath by `1d10 + CON` three times per rest.
+* Action: Bonus
+* Endurance Cost: Medium
 
-_Run and Gun_  
-The Commando can use the dash action as a bonus action.
+The Commando can use a bonus action to trigger a healing surge during combat.
 
+_Run and Gun (Tatical Maneuver)_  
+* Action: Bonus
+* Endurance Cost: Low
+
+The Commando gains the effects of the dash, disengage, and dodge actions.
+
+---
 ## Marauder
-### Details
-_Primary Attribute - _ Strength  
-_Weapon Proficiency - _ Heavy  
-_Armor Proficiency - _ None  
-_Hit Dice - _ 1d12 
+| Details | |
+|-|-|
+| Primary Attribute | Strength |
+| Weapon Proficiency | Heavy |
+| Armor Proficiency | None |
+| Hit Dice | d12 |
+
+### Starting Equipment
+* Heavy Claymore
 
 ### Abilities
-| Level | Proficiency | Features                            |
-| ----- | -----       |----------------------------------   |
-| 1     | +2          | Rage, Ignore Pain, Athletics(1)     |
-| 2     | +2          | Tar'duru Zealot, Ancient Pact       |
-| 3     | +2          | Khydrian Drift                      |
+| Level | Proficiency | Features                           |
+| ----- | -----       |----------------------------------  |
+| 1     | +2          | Rage, Ignore Pain, Athletics (1)   |
+| 2     | +2          | Mubarak Disciplines (Tier 1)       |
+| 3     | +2          | Khydrian Drift                     |
 
 _Rage_  
+Whenever the Marauder takes damage or deals damage with a standard attack, he gains rage points equal to the amount of damage taken or the amount of damage dealt. These rage points only last for the duration of an encounter, and can be spent on unique Marauder abilities. A Marauder's rage cap is equivalent to his current endurance.
 
 _Ignore Pain_  
+* Action: Full
+* Duration: Encounter
+* Endurance Cost: Low
 
-_Tar'duru Zealot_  
+The Marauder consumes all of his current rage, gaining temporary hp equivalent to the amount of rage consumed.
 
-_Ancient Pact_  
+_Mubarak Disciplines_  
+The Marauder chooses to specialize in one of three ancient battle disciplines, gaining new abilities as he gains levels.
+
+* Tal'dari Zealot
+    * Tier 1
+        * Gain: Dual Wield Specialization
+        * Gain: Zephyr Strike
+* Arbiter of Zala'nosh
+    * Tier 1
+        * Gain: Armor Specialization (Heavy Shield)
+        * Gain: Titan's Grip
+        * Gain: Hand of Zala'nosh
+        * Gain: Unstoppable
+* Harbinger of Chaos
+    * Tier 1
+        * Gain: Weapon Specialization (Heavy)
+        * Gain: Fire Strike
+        * Gain: Endless Rage
+
+_Zephyr Strike_  
+* Action: Standard
+* Rage Cost: Medium
+
+// TODO
+
+_Titan's Grip_  
+The Marauder may simultaneously wield both a two handed melee weapon in his main hand and a shield in his off hand, however while equipped in this manner his speed is reduced by one square.
+
+_Hand of Zala'nosh_  
+* Action: Full
+* Endurance Cost: High
+* Requires Equipped: Shield
+* Duration: Channeled
+
+The Marauder interposes his shield in between his allies and his foes, granting full cover to both himself and all allies in a short cone behind him. Additionally, if the Marauder has any temporary hit points from Ignore Pain, they will also shield allies who take damage while under the protective barrier. 
+
+While channeling, the Marauder cannot move, change direction, or take any action. Moving the shield requires recasting the ability.
+
+_Fire Strike_  
+* Action: Standard
+* Rage Cost: High
+
+//TODO
+
+_Endless Rage_  
+//TODO
 
 _Khydrian Drift_  
+//TODO
 
+---
 ## Heavy
-### Details
-_Primary Attribute - _ Constitution  
-_Weapon Proficiency - _ Heavy  
-_Armor Proficiency - _ Heavy  
-_Hit Dice - _ 1d12
+| Details | |
+|-|-|
+| Primary Attribute | Constitution |
+| Weapon Proficiency | Heavy |
+| Armor Proficiency | Heavy |
+| Hit Dice | d12 |
+
+### Starting Equipment
+// TODO
 
 ### Abilities
 | Level | Proficiency | Features                            |
 | ----- | -----       |----------------------------------   |
-| 1     | +1          | Overshield                          |
-| 2     | +1          | Protocols (Oppression, Immortality) |
+| 1     | +2          | Mechanized Chassis, Overshield, Tech Hardpoint (low) |
+| 2     | +2          | Protocols (Oppression, Immortality), Tech Hardpoint (medium) |
 | 3     | +2          | Unstoppable, Tech Hardpoint (low)   |
 
+_Mechanized Chassis_  
+While in the Mechanized Chassis, the heavy gains the following attributes:
+* The Heavy has advantage on all `STR` ability checks.
+* One equipped item has its encumbrance reduced to 0.
+* The Heavy cannot be flanked.
+
 _Overshield_  
+* Action: Full
+* Endurance Cost: Medium
+* Duration: Until Cancelled
+
+The Heavy creates an Overshield with a `5` square diameter, which protects all allies inside. The Overshield's hit points are equivalent to `50%` of the Heavy's max `health`.
 
 _Oppression Protocol_  
+* Action: Full
+* Duration: Until Cancelled
+
+// TODO
 
 _Immortality Protocol_  
+* Action: Full
+* Duration: Until Cancelled
 
-_Unstoppable_  
-The Heavy cannot be flanked.
+While in the immortality protocol, the heavy gains the following attributes:
+* The Heavy adds his `CON` modifier to his soak value in addition to other modifiers.
+* //TODO
 
-_Overdrive_
+_Overdrive_  
+//TODO
 
+---
 ## Hunter
-### Details
-_Primary Attribute - _ Agility  
-_Weapon Proficiency - _ Light  
-_Armor Proficiency - _ Light  
-_Hit Dice - _ 1d8
+| Details | |
+|-|-|
+| Primary Attribute | Agility |
+| Weapon Proficiency | Light |
+| Armor Proficiency | Light |
+| Hit Dice | d8 |
 
 ### Abilities
-_Battle Momentum_
+| Level | Proficiency | Features                                        | FM1 | FM2 | FM3 |
+| ----- | -----       |----------------------------------               |-----|-----|-----|
+| 1     | +2          | Augmentation, Battle Momentum, Finishing Moves  | 1   | 0   | 0   |
+| 2     | +2          | Cunning Action, Premeditation                   | 2   | 0   | 0   |
+| 3     | +2          | Personal Cloak                                  | 2   | 0   | 0   |
+
+_Augmentation_  
+// TODO
+
+_Battle Momentum_  
+// TODO
+
+_Finishing Moves_  
+// TODO
 
 _Cunning Action_  
+The Hunter can Dash, Disengage, or Hide as a bonus action.
+
+_Premediation_  
+* Action: Bonus
+* Duration: Encounter
+* Endurance Cost: High
+
+The Hunter immediately gains three points of Battle Momentum.
 
 _Personal Cloak_  
+// TODO
 
+---
 ## Scoundrel
-### Notes
-_Primary Attribute - _ Agility  
-_Weapon Proficiency - _ Medium  
-_Armor Proficiency - _ Light  
-_Hit Dice - _ 1d8
+| Details | |
+|-|-|
+| Primary Attribute | Agility |
+| Weapon Proficiency | Medium |
+| Armor Proficiency | Medium |
+| Hit Dice | d8 |
 
 ### Abilities
-| Level | Proficiency | Features                         | TS1 | TS2 |
-| ----- | -----       |----------------------------------|:---:|----:|
-| 1     | +1          | Opportunist, Sneak Attack        |0    |0    |
-| 2     | +1          | Evasion                          |0    |0    |
-| 3     | +2          | Omni Tool                        |2    |0    |
-| 4     | +2          | Caduceus Blaster                 |3    |0    |  
+| Level | Proficiency | Features                         |
+| ----- | -----       |----------------------------------|
+| 1     | +1          | Opportunist, Omni Tool, Tech Hardpoint (low)           |
+| 2     | +1          | Sneak Attack, Peerless Skill (2)                     |
+| 3     | +2          | Killzone                            |
+| 4     | +2          |                      |
 
 _Opportunist_  
 On the first round of any combat, the Scoundrel may take an additional turn at the beginning of the round.
 
+_Omni Tool_  
+Every Scoundrel comes equipped with an Omni Tool, which allows for advanced operation of various electronics.
+
 _Sneak Attack_  
+
+_Peerless Skill_
+
+_Killzone_
 
 _Evasion_  
 Scoundrels can use their reaction to half the damage of any incoming attack.
 
-_Omni Tool_  
-Every Scoundrel comes equipped with an Omni Tool, which allows for advanced operation of various electronics. 
-
-The Omni Tool also comes charged with tech power, which allows the use of tech abilities. The scoundrel begins with 7 + INT tech power at level 3, and gains 3 + INT per level. Tech power regenerates on a long rest.
-
-Tech abilities are slotted into tech slots, which increase as the specialist gains in expertise. To swap out abilities, the specialist must visit a tech lab and spend time and credits per slot changed.
-
-
+---
 ## Specialist
 ### Details
 _Primary Attribute - _ Intelligence  
@@ -136,7 +255,7 @@ _Hit Dice - _ 1d6
 ### Abilities
 | Level | Proficiency | Features                         | TS1 | TS2 |
 | ----- | -----       |----------------------------------|:---:|----:|
-| 1     | +1          | Specialist Droid, Omni Tool      |2    |0    |
+| 1     | +1          | Tech Casting, Specialist Droid, Omni Tool      |2    |0    |
 | 2     | +1          | Neural Link                      |3    |0    |
 | 3     | +2          | Energy Transferrence             |3    |1    |
 | 4     | +2          | Caduceus Blaster                 |4    |1    |
@@ -166,6 +285,7 @@ The specialist is able to use tech abilities through either his Omni Tool, or th
 _Caduceus Blaster_  
 The droid unlocks use of it's Caduceus Blaster, which allows it to make ranged attacks. For the purpose of calculating its to-hit and damage, use the specialist's INT.
 
+---
 ## Officer
 ### Details
 _Primary Attribute - _ Prescence  
@@ -175,7 +295,7 @@ _Hit Dice - _ 1d8
 
 ### Abilities
 
-
+---
 ## Adept
 _"The secrets of Khydrian Artifacts are a pathway to many abilities some consider to be unnatural."_
 
@@ -212,5 +332,3 @@ _Indomitable_
 Once per encounter, the adept may use this ability to gain advantage on any saving throw roll.
 
 _Torrent of Will_
-
-# Advanced Classes
