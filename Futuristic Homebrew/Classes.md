@@ -4,7 +4,7 @@ This unit cannot be flanked.
 
 # Base Classes
 ## Commando
-| Details | Something |
+| Details | |
 |----|----|
 | Primary Attribute | Agility |
 | Weapon Proficiency | Medium |
@@ -47,7 +47,7 @@ The Commando gains the effects of the dash, disengage, and dodge actions.
 ---
 ## Marauder
 | Details | |
-|-|-|
+|----|----|
 | Primary Attribute | Strength |
 | Weapon Proficiency | Heavy |
 | Armor Proficiency | None |
@@ -126,7 +126,7 @@ _Khydrian Drift_
 ---
 ## Heavy
 | Details | |
-|-|-|
+|----|----|
 | Primary Attribute | Constitution |
 | Weapon Proficiency | Heavy |
 | Armor Proficiency | Heavy |
@@ -175,7 +175,7 @@ _Overdrive_
 ---
 ## Hunter
 | Details | |
-|-|-|
+|----|----|
 | Primary Attribute | Agility |
 | Weapon Proficiency | Light |
 | Armor Proficiency | Light |
@@ -213,7 +213,7 @@ _Personal Cloak_
 ---
 ## Scoundrel
 | Details | |
-|-|-|
+|----|----|
 | Primary Attribute | Agility |
 | Weapon Proficiency | Medium |
 | Armor Proficiency | Medium |
@@ -244,11 +244,12 @@ Scoundrels can use their reaction to half the damage of any incoming attack.
 
 ---
 ## Specialist
-### Details
-_Primary Attribute - _ Intelligence  
-_Weapon Proficiency - _ Light  
-_Armor Proficiency - _ None  
-_Hit Dice - _ 1d6
+| Details | |
+|----|----|
+| Primary Attribute | Intelligence |
+| Weapon Proficiency | Light |
+| Armor Proficiency | None |
+| Hit Dice | d6 |
 
 ### Starting Equipment
 
@@ -287,11 +288,12 @@ The droid unlocks use of it's Caduceus Blaster, which allows it to make ranged a
 
 ---
 ## Officer
-### Details
-_Primary Attribute - _ Prescence  
-_Weapon Proficiency - _ Medium  
-_Armor Proficiency - _ Medium  
-_Hit Dice - _ 1d8
+| Details | |
+|----|----|
+| Primary Attribute | Prescence |
+| Weapon Proficiency | Medium |
+| Armor Proficiency | Medium |
+| Hit Dice | d8 |
 
 ### Abilities
 
@@ -299,11 +301,12 @@ _Hit Dice - _ 1d8
 ## Adept
 _"The secrets of Khydrian Artifacts are a pathway to many abilities some consider to be unnatural."_
 
-### Details
-_Primary Attribute - _ Willpower  
-_Weapon Proficiency - _ Light  
-_Armor Proficiency - _ None  
-_Hit Dice - _ 1d6
+| Details | |
+|----|----|
+| Primary Attribute | Willpower |
+| Weapon Proficiency | Light |
+| Armor Proficiency | None |
+| Hit Dice | d6 |
 
 ### Abilities
 | Level | Proficiency | Features                         |
