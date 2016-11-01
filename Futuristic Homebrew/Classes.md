@@ -5,7 +5,7 @@ This unit cannot be flanked.
 # Base Classes
 ## Commando
 | Details | Something |
-|-|-|
+|----|----|
 | Primary Attribute | Agility |
 | Weapon Proficiency | Medium |
 | Armor Proficiency | Heavy |
