@@ -12,10 +12,14 @@
 _Handgun_  
 1d4 (medium, ballistic)
 
+Concealment - You always succede on checks to hide this weapon on your person.
+
 _Sub Machine Gun_  
 1d6 (medium, ballistic)
 
-_Phaser_   
+
+
+_Phaser_  
 1d6 (medium, energy)
 
 _Short Blade_  
@@ -24,21 +28,27 @@ _Short Blade_
 _Dagger_  
 1d4 (melee, physical)
 
+Concealment - You always succede on checks to hide this weapon on your person.
+
 _Stun Stick_  
 1d4 (melee, energy)
 
+Stun - Can stun/disorient enemy on hit?
+
 ### Medium Weapons
 _Carbine_  
-1d8 (medium, ballistic)
+1d8 (long, ballistic)
 
 _Shotgun_  
 1d12 (short, ballistic)
 
-_Hunting Rifle_  
-1d10 (long, ballistic, cumbersome)
+Bullet Storm - Can attack an adjacent target for free if you hit on an attack.
+
+_Sniper Rifle_  
+1d10 (extreme, ballistic, cumbersome)
 
 _Battle Rifle_  
-1d10 (medium, energy)
+1d10 (long, energy)
 
 _Long Blade_  
 1d10 (melee, physical)
@@ -59,7 +69,7 @@ _Minigun_
 _Flamethrower_  
 2d6 (short, fire)
 
-_Sniper Rifle_  
+_Heavy Sniper Rifle_  
 1d12 (extreme, ballistic, cumbersome)
 
 _Heavy Battle Rifle_  
