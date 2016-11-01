@@ -256,10 +256,10 @@ Scoundrels can use their reaction to half the damage of any incoming attack.
 ### Abilities
 | Level | Proficiency | Features                         | TS1 | TS2 |
 | ----- | -----       |----------------------------------|:---:|----:|
-| 1     | +1          | Tech Casting, Specialist Droid, Omni Tool      |2    |0    |
-| 2     | +1          | Neural Link                      |3    |0    |
-| 3     | +2          | Energy Transferrence             |3    |1    |
-| 4     | +2          | Caduceus Blaster                 |4    |1    |
+| 1     | +1          | Tech Casting, Specialist Droid, Omni Tool      |3    |0    |
+| 2     | +1          | Neural Link                      |4    |0    |
+| 3     | +2          | Energy Transferrence             |4    |1    |
+| 4     | +2          | Caduceus Blaster                 |4    |2    |
 
 _Specialist Droid_  
 The Specialist begins with a standard Specialist Droid. The droid gains in power along with the specialist and moves seperately, but on the same turn at the direction of the specialist. The droid has player death mechanics and if it is destroyed the specialst must either repair it or purchase another.
