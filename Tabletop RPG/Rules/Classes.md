@@ -2,6 +2,50 @@
 _Unstoppable_  
 This unit cannot be flanked.
 
+_Omni Tool_  
+
+_Tech Hardpoint_  
+
+## Proficiencies
+
+_Armor Proficiency_  
+
+_Weapon Proficiency_  
+
+## Specializations
+_Armor Specialization_  
+
+_Weapon Specialization_  
+
+_Dual Wield Specialization_  
+
+
+# Class Overview
+* _Commando [`AGI`]_  
+    Mobile ranged support & dps which controls the battlefield through tactical maneuvers and employs advanced technology and weapons to devastate his enemies.
+    * _Marine [`PRES`]_  
+    The epitome of the perfect super soldier. Augmented to perform superhuman feats of strength, and trained in sophisticated battle disciplines, the Marine takes ultimate control of the battlfield and makes a natural party leader.
+    * _Bounty Hunter [`INT`]_  
+    Able to handle almost any situation, the Bounty Hunter brings the most devastating technology to bear, including Javelin Missile Systems and Jetpacks. With his aresnal of explosives and gadgets, the Bounty Hunter is a true one man army, obliterating foes from afar.
+* _Marauder [`STR`]_  
+    * _Warblade_  
+    * _Mystic [`WILL`]_  
+* _Heavy [`STR`]_  
+    * _Immortal_  
+    * _Juggernaut_  
+* _Scoundrel [`AGI`]_  
+    * _Outrider [`WILL`]_  
+    * _Assassin [`INT`]_  
+* _Hunter [`AGI`]_  
+    * _Jager_  
+    * _Sword Saint [`WILL`]_  
+* _Specialist [`INT`]_  
+    * _Medic_  
+    * _Operator_  
+* _Adept [`WILL`]_  
+    * _Templar_  
+    * _Warlock_  
+
 # Base Classes
 ## Commando
 | Details | |
@@ -17,11 +61,11 @@ This unit cannot be flanked.
 * Silencer
 
 ### Abilities
-| Level | Proficiency | Features                                                                      |
-| ----- | -----       |----------------------------------                                             |
-| 1     | +2          | Tactical Maneuvers (2), Overwatch, Tech Hardpoint (low)                       |
-| 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (low) |
-| 3     | +2          | Run and Gun, Tech Hardpoint (medium)                                          |
+| Level | Proficiency | Features                                                                         |
+| ----- | -----       |----------------------------------                                                |
+| 1     | +2          | Tactical Maneuvers (2), Overwatch, Tech Hardpoint (low)                          |
+| 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (medium) |
+| 3     | +2          | Run and Gun, Tech Hardpoint (low)                                                |
 
 _Tactical Maneuvers_  
 The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter. Only one tactical maneuver can be used per turn.
@@ -61,17 +105,17 @@ The Commando gains the effects of the dash, disengage, and dodge actions.
 | ----- | -----       |----------------------------------  |
 | 1     | +2          | Rage, Ignore Pain, Athletics (1)   |
 | 2     | +2          | Mubarak Disciplines (Tier 1)       |
-| 3     | +2          | Khydrian Drift                     |
+| 3     | +2          | Warrior's Fury                     |
 
 _Rage_  
-Whenever the Marauder takes damage or deals damage with a standard attack, he gains rage points equal to the amount of damage taken or the amount of damage dealt. These rage points only last for the duration of an encounter, and can be spent on unique Marauder abilities. A Marauder's rage cap is equivalent to his current endurance.
+Each time the Marauder deals damage with a standard attack, or takes damage from an attack he gains `1` point of rage. These rage points can be used to excecute special abilities. Rage points are depleted at the end of combat.
 
 _Ignore Pain_  
 * Action: Full
 * Duration: Encounter
 * Endurance Cost: Low
 
-The Marauder consumes all of his current rage, gaining temporary hp equivalent to the amount of rage consumed.
+The Marauder consumes all of his current rage, gaining temporary hp equivalent to `3x` rage consumed.
 
 _Mubarak Disciplines_  
 The Marauder chooses to specialize in one of three ancient battle disciplines, gaining new abilities as he gains levels.
@@ -84,22 +128,24 @@ The Marauder chooses to specialize in one of three ancient battle disciplines, g
     * Tier 1
         * Gain: Armor Specialization (Heavy Shield)
         * Gain: Titan's Grip
-        * Gain: Hand of Zala'nosh
         * Gain: Unstoppable
+    * Tier 2
+        * Gain: Hand of Zala'nosh
 * Harbinger of Chaos
     * Tier 1
         * Gain: Weapon Specialization (Heavy)
-        * Gain: Fire Strike
-        * Gain: Endless Rage
+        * Gain: Inferno Strike
 
 _Zephyr Strike_  
-* Action: Standard
-* Rage Cost: Medium
+* Action: Bonus
+* Duration: Turn
+* Rage Cost: High
+* Range: Long
 
-// TODO
+The Marauder's body becomes one with the wind, and he materializes at a location within range. For the duration of the turn, the Marauder has advantage on attacks and spells.
 
 _Titan's Grip_  
-The Marauder may simultaneously wield both a two handed melee weapon in his main hand and a shield in his off hand, however while equipped in this manner his speed is reduced by one square.
+The Marauder may simultaneously wield both a two handed melee weapon in his main hand and a shield in his off hand, however while equipped in this manner his speed is reduced by `one` square.
 
 _Hand of Zala'nosh_  
 * Action: Full
@@ -111,16 +157,18 @@ The Marauder interposes his shield in between his allies and his foes, granting 
 
 While channeling, the Marauder cannot move, change direction, or take any action. Moving the shield requires recasting the ability.
 
-_Fire Strike_  
-* Action: Standard
+_Inferno Strike_  
+* Action: Full
 * Rage Cost: High
+* Area of Effect: Line (3)
+* Range: Long
 
-//TODO
+Primal fire surrounds the Marauder's weapon, surging forward in a line as the warrior hefts his weapon, striking all enemies in the area of effect. Enemies struck take fire damage equivalent to weapon damage and are stunned for `1d4` rounds.
 
-_Endless Rage_  
-//TODO
+_Warrior's Fury_  
+* Action: Bonus
+* Endurance Cost: Very High
 
-_Khydrian Drift_  
 //TODO
 
 ---
@@ -182,11 +230,11 @@ _Overdrive_
 | Hit Dice | d8 |
 
 ### Abilities
-| Level | Proficiency | Features                                        | FM1 | FM2 | FM3 |
-| ----- | -----       |----------------------------------               |-----|-----|-----|
-| 1     | +2          | Augmentation, Battle Momentum, Finishing Moves  | 1   | 0   | 0   |
-| 2     | +2          | Cunning Action, Premeditation                   | 2   | 0   | 0   |
-| 3     | +2          | Personal Cloak                                  | 2   | 0   | 0   |
+| Level | Proficiency | Features                                        |
+| ----- | -----       |----------------------------------               |
+| 1     | +2          | Augmentation, Battle Momentum, Finishing Moves  |
+| 2     | +2          | Cunning Action, Premeditation                   |
+| 3     | +2          | Personal Cloak                                  |
 
 _Augmentation_  
 // TODO
@@ -219,25 +267,41 @@ _Personal Cloak_
 | Armor Proficiency | Medium |
 | Hit Dice | d8 |
 
+### Starting Equipment
+* Sniper Rifle
+* Handgun
+* Silencer
+* Omni Tool
+
 ### Abilities
-| Level | Proficiency | Features                         |
-| ----- | -----       |----------------------------------|
-| 1     | +1          | Opportunist, Omni Tool, Tech Hardpoint (low)           |
-| 2     | +1          | Sneak Attack, Peerless Skill (2)                     |
-| 3     | +2          | Killzone                            |
-| 4     | +2          |                      |
+| Level | Proficiency | Features                                       |
+| ----- | -----       |----------------------------------              |
+| 1     | +2          | Opportunist, Omni Tool, Tech Hardpoint (`Low`) |
+| 2     | +2          | Sneak Attack (`2d6`), Peerless Skill (`2`)     |
+| 3     | +2          | Killzone                                       |
 
 _Opportunist_  
 On the first round of any combat, the Scoundrel may take an additional turn at the beginning of the round.
 
-_Omni Tool_  
-Every Scoundrel comes equipped with an Omni Tool, which allows for advanced operation of various electronics.
-
 _Sneak Attack_  
+* Action: Bonus
+* Duration: Turn
+* Endurance Cost: Low
 
-_Peerless Skill_
+The Scoundrel takes advantage of an opponent's weakness at every opportunity. As a bonus action, the Scoundrel targets an opponent for a sneak attack. When the Scoundrel attacks ,and hits, that target this turn and has advantage on the attack, or the opponent is adjacent to an ally of the Scoundrel, the Soundrel deals additional sneak attack damage.
 
-_Killzone_
+_Peerless Skill_  
+The Scoundrel gains a bonus rank in the given number of skills.
+
+_Killzone_  
+* Action: Full
+* Duration: Round
+* Endurance Cost: High
+* Concentration
+* Area of Effect: Cone
+* Range: Weapon
+
+The Scoundrel marks a cone in front of him as a Killzone with a range equivalent to the range of his equipped weapon and concentrates on the shot. At the beginnig of his next turn, he unleashed a devastating volley of shots, firing once at every target in the area. These shots deal weapon damage and also apply sneak attack damage to targets struck in this manner.
 
 _Evasion_  
 Scoundrels can use their reaction to half the damage of any incoming attack.
@@ -256,20 +320,18 @@ Scoundrels can use their reaction to half the damage of any incoming attack.
 ### Abilities
 | Level | Proficiency | Features                         | TS1 | TS2 |
 | ----- | -----       |----------------------------------|:---:|----:|
-| 1     | +1          | Tech Casting, Specialist Droid, Omni Tool      |3    |0    |
-| 2     | +1          | Neural Link                      |4    |0    |
-| 3     | +2          | Energy Transferrence             |4    |1    |
-| 4     | +2          | Caduceus Blaster                 |4    |2    |
+| 1     | +1          | Specialist Droid, Omni Tool      |0    |0    |
+| 2     | +1          | Tech Casting, Neural Link        |3    |0    |
+| 3     | +2          | Energy Transferrence             |3    |1    |
+| 4     | +2          | Caduceus Blaster                 |4    |1    |
 
 _Specialist Droid_  
 The Specialist begins with a standard Specialist Droid. The droid gains in power along with the specialist and moves seperately, but on the same turn at the direction of the specialist. The droid has player death mechanics and if it is destroyed the specialst must either repair it or purchase another.
 
 _Omni Tool_  
-Every Specialist comes equipped with an Omni Tool, which allows for advanced operation of various electronics. 
+Every Specialist comes equipped with an Omni Tool, which allows for advanced operation of various electronics.
 
-The Omni Tool also comes charged with tech power, which allows the use of tech abilities. The specialist begins with 10 + INT tech power at level 1, and gains 5 + INT per level. Tech power regenerates on a long rest.
-
-Tech abilities are slotted into tech slots, which increase as the specialist gains in expertise. To swap out abilities, the specialist must visit a tech lab and spend time and credits per slot changed.
+_Tech Casting_  
 
 ### Specialist Droid
 #### Details
@@ -287,17 +349,6 @@ _Caduceus Blaster_
 The droid unlocks use of it's Caduceus Blaster, which allows it to make ranged attacks. For the purpose of calculating its to-hit and damage, use the specialist's INT.
 
 ---
-## Officer
-| Details | |
-|----|----|
-| Primary Attribute | Prescence |
-| Weapon Proficiency | Medium |
-| Armor Proficiency | Medium |
-| Hit Dice | d8 |
-
-### Abilities
-
----
 ## Adept
 _"The secrets of Khydrian Artifacts are a pathway to many abilities some consider to be unnatural."_
 
@@ -311,27 +362,16 @@ _"The secrets of Khydrian Artifacts are a pathway to many abilities some conside
 ### Abilities
 | Level | Proficiency | Features                         |
 | ----- | -----       |----------------------------------|
-| 1     | +1          | Prescience, Victory Rush         |
-| 2     | +1          | Presence of Mind, Force Lance, Metastasis     |
-| 3     | +2          | Indomitable                      |
-| 4     | +2          | Torrent of Will                  |
+| 1     | +2          | Prescience, Metastasis |
+| 2     | +2          | Presence of Mind |
+| 3     | +2          |                       |
+| 4     | +2          |                   |
 
 _Prescience_  
 At the beginning of each day, the adept rolls `2d20` and records the results. At any time, the adept can replace the result of any attack roll, ability check, or saving throw with the result of one of the stored rolls, even after the roll has already occured. Using the result this way consumes it.
 
-_Victory Rush_  
-Whenever the adept kills an opponent, he heals for `1d10 + WILL`. This effect cannot occur more than once per round.
+_Metastasis_  
+At the beginning of each day, the adept gains a pool of temporary hit points equal to `10 + WILL`. Whenever the adept kill an opponent, this shield gains an additional `1d10 + WILL`. The shield caps out at it's original value.
 
 _Presence of Mind_  
-The adept's Khydrian senses begin to awaken. As a bonus action, the adept can enter a state of intense concentration. While concentrating, his damaging attacks deal an additional `1d6 + WILL` damage, as he strikes with greater precision. Additionally, while in this stance he gains access to the ABILITY NAME ability. Entering and maintaining this state strains the adept's endurance. When he enters the state he immediately takes `1d8 + 3` damage, and maintaining the state drains `1d6 + 1` hp for every subsequent round.
-
-_Force Lance_  
-The adept projects three lances of pure force energy, which streak towards a target with perfect precison. Each lance strikes for `1d10 + WILL` force damage. After casting, the adept immediately loses concentration, and exits Presence of Mind. Force Lance can only be used once per encounter.
-
-_Metastasis_  
-Beginning each day, the adept gains a pool of shield points equal to `1d10 + WILL`. Victory Rushes that heal over the adept's max hp will add to this pool, up to a maxium of `10 * LVL`.
-
-_Indomitable_
-Once per encounter, the adept may use this ability to gain advantage on any saving throw roll.
-
-_Torrent of Will_
+The adept's Khydrian senses begin to awaken.
