@@ -48,7 +48,7 @@ _Emp Launcher_
 
 _Net Launcher_  
 
-_Aim Stabalizer_
+_Aim Stabilizer_
 
 _Eradu Strength Amplifier_    
 
