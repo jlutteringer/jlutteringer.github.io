@@ -73,16 +73,16 @@ _Dual Wield Specialization_
 | 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (low)    |
 | 3     | +2          | Run and Gun, Tech Hardpoint (medium)                                             |
 
-_Tactical Maneuvers_  
+#### Tactical Maneuvers
 The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter. Only one tactical maneuver can be used per turn.
 
-_Overwatch (Tatical Maneuver)_  
+#### Overwatch (Tatical Maneuver)
 * Action: Standard
 * Endurance Cost: Low
 
 The Commando uses a tactical maneuver to enter Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
 
-_Soldier's Endurance_  
+#### Soldier's Endurance 
 * Action: Bonus
 * Endurance Cost: Medium
 * Can use a bonus action to trigger a healing surge in combat.
@@ -90,7 +90,7 @@ _Soldier's Endurance_
 
 The Commando can use a bonus action to trigger a healing surge during combat.
 
-_Run and Gun (Tatical Maneuver)_  
+#### Run and Gun (Tatical Maneuver) 
 * Action: Bonus
 * Endurance Cost: Low
 
@@ -115,23 +115,23 @@ The Commando gains the effects of the dash, disengage, and dodge actions.
 | 2     | +2          | Mubarak Disciplines (Tier 1)       |
 | 3     | +2          | Warrior's Fury                     |
 
-_Rage_  
+#### Rage
 Each time the Marauder deals damage with a standard attack, or takes damage from an attack he gains `1` point of rage. These rage points can be used to excecute special abilities. Rage points are depleted at the end of combat.
 
-_Rage Costs_  
+#### Rage Costs
 * Low: 1
 * Medium: 3
 * High: 5
 * Very High: 10
 
-_Ignore Pain_  
+#### Ignore Pain  
 * Action: Full
 * Duration: Encounter
 * Endurance Cost: Low
 
 The Marauder consumes all of his current rage, gaining temporary hp equivalent to `3x` rage consumed.
 
-_Mubarak Disciplines_  
+#### Mubarak Disciplines 
 The Marauder chooses to specialize in one of three ancient battle disciplines, gaining new abilities as he gains levels.
 
 * Tal'dari Zealot
@@ -150,7 +150,7 @@ The Marauder chooses to specialize in one of three ancient battle disciplines, g
         * Gain: Weapon Specialization (Heavy)
         * Gain: Inferno Strike
 
-_Zephyr Strike_  
+#### Zephyr Strike
 _"Soft o'er the shrouds aerial whispers breathe, that seemed but zephyrs to the train beneath."_  
 * Action: Bonus
 * Duration: Turn
@@ -159,10 +159,10 @@ _"Soft o'er the shrouds aerial whispers breathe, that seemed but zephyrs to the 
 
 The Marauder's body becomes one with the wind, and he materializes at a location within range. For the duration of the turn, the Marauder has advantage on attacks and spells.
 
-_Titan's Grip_  
+#### Titan's Grip 
 The Marauder may simultaneously wield both a two handed melee weapon in his main hand and a shield in his off hand, however while equipped in this manner his speed is reduced by `one` square.
 
-_Hand of Zala'nosh_  
+#### Hand of Zala'nosh 
 * Action: Full
 * Endurance Cost: High
 * Requires Equipped: Shield
@@ -172,7 +172,7 @@ The Marauder interposes his shield in between his allies and his foes, granting 
 
 While channeling, the Marauder cannot move, change direction, or take any action. Moving the shield requires recasting the ability.
 
-_Inferno Strike_  
+#### Inferno Strike  
 _"He makes the winds his messengers, flaming fire his ministers."_
 
 * Action: Full
@@ -187,7 +187,7 @@ _"He makes the winds his messengers, flaming fire his ministers."_
 
 Primal fire surrounds the Marauder's weapon, surging ahead in a line as the warrior hefts it forward, striking all enemies in the area of effect. Enemies are engulfed in a roiling torrent of supernatural flame, a testament to the Mubarak faith and power.
 
-_Warrior's Fury_  
+#### Warrior's Fury 
 _"Ideals are peaceful. History is violent."_
 
 * Action: Bonus
@@ -217,7 +217,7 @@ The Marauder channels deep seeded rage, becoming an unstoppable juggernaut of fu
 | 2     | +2          | Mechanized Protocols, Immortality Protocol     |
 | 3     | +2          | Oppression Protocol, Tech Hardpoint (medium)   |
 
-_Mechanized Chassis_  
+#### Mechanized Chassis
 While there are many variants of Power Armor, they are all based on a similar mechansized chassis and share many similar attributes. Those common attributes are listed below.
 
 * Entering and exiting the mechanized chassis is a full round action.
@@ -230,28 +230,28 @@ While there are many variants of Power Armor, they are all based on a similar me
 
 Entering and exiting the mechanized chassis is a full round action.
 
-_Basic Power Armor_  
+#### Basic Power Armor
 Basic Power Armor provides the following benefits.
 * One equipped item can be mounted to the armor itself, reducing its encumbrance to 0. However, this item cannot be removed from the chassis.
 * Increases AC by `2`.
 * `1` Protocol hardpoint.
 
-_Overshield_  
+#### Overshield 
 * Action: Full
 * Endurance Cost: Medium
 * Duration: Until Cancelled
 
 The Heavy creates an Overshield with a `5` square diameter, which protects all allies inside. The Overshield's hit points are equivalent to `50%` of the Heavy's max `health`. The Heavy can only maintain one Overshield at a time.
 
-_Mechanized Protocols_  
+#### Mechanized Protocols 
 //TODO
 
-_Oppression Protocol_  
+#### Oppression Protocol
 * Activation: Full Round
 * Successful basic attacks disorient the target.
 * Increase movement speed by `2`.
 
-_Immortality Protocol_  
+#### Immortality Protocol
 * Activation: Full Round
 * Add `CON` modifier to soak value in addition to other attributes.
 * Reduce movement speed by `2`.
@@ -272,26 +272,26 @@ _Immortality Protocol_
 | 2     | +2          | Cunning Action, Premeditation                   |
 | 3     | +2          | Personal Cloak                                  |
 
-_Augmentation_  
+#### Augmentation
 // TODO
 
-_Battle Momentum_  
+#### Battle Momentum  
 // TODO
 
-_Finishing Moves_  
+#### Finishing Moves
 // TODO
 
-_Cunning Action_  
+#### Cunning Action 
 The Hunter can Dash, Disengage, or Hide as a bonus action.
 
-_Premediation_  
+#### Premediation  
 * Action: Bonus
 * Duration: Encounter
 * Endurance Cost: High
 
 The Hunter immediately gains three points of Battle Momentum.
 
-_Personal Cloak_  
+#### Personal Cloak
 // TODO
 
 ---
@@ -316,20 +316,20 @@ _Personal Cloak_
 | 2     | +2          | Sneak Attack (`2d6`), Peerless Skill (`2`)     |
 | 3     | +2          | Killzone, Tech Hardpoint (`Medium`)            |
 
-_Opportunist_  
+#### Opportunist
 On the first round of any combat, the Scoundrel may take an additional turn at the beginning of the round.
 
-_Sneak Attack_  
+#### Sneak Attack
 * Action: Bonus
 * Duration: Turn
 * Endurance Cost: Low
 
 The Scoundrel takes advantage of an opponent's weakness at every opportunity. As a bonus action, the Scoundrel targets an opponent for a sneak attack. When the Scoundrel attacks ,and hits, that target this turn and has advantage on the attack, or the opponent is adjacent to an ally of the Scoundrel, the Soundrel deals additional sneak attack damage.
 
-_Peerless Skill_  
+#### Peerless Skill
 The Scoundrel gains a bonus rank in the given number of skills.
 
-_Killzone_  
+#### Killzone
 * Action: Full
 * Duration: Round
 * Endurance Cost: High
@@ -339,7 +339,7 @@ _Killzone_
 
 The Scoundrel marks a cone in front of him as a Killzone with a range equivalent to the range of his equipped weapon and concentrates on the shot. At the beginnig of his next turn, he unleashed a devastating volley of shots, firing once at every target in the area. These shots deal weapon damage and also apply sneak attack damage to targets struck in this manner.
 
-_Evasion_  
+#### Evasion
 Scoundrels can use their reaction to half the damage of any incoming attack.
 
 ---
@@ -355,6 +355,7 @@ Scoundrels can use their reaction to half the damage of any incoming attack.
 * Submachine Gun
 * Omni Tool
 * Duster
+* Ocular Enhancement
 
 ### Abilities
 | Level | Proficiency | Features                                                 | TC1 | TC2 |
@@ -373,7 +374,7 @@ The Specialist begins with a standard Specialist Droid. The droid gains in power
 | Type | Mechanical |
 | Statistics | STR: `-1` AGI: `+2` CON: `+2` WILL: `+0` INT: `+0` PRES: `+0` |
 | Skills | Stealth (Proficient), Perception (Proficient) |
-| Cadeucius Blaster | Basic Attack: `1d6 (INT)`, Energy, Medium |
+| Cadeucius Blaster | Basic Attack: `1d6 + INT (INT)`, Energy, Medium |
 | Cauterize | While under the effect of `Neural Link`, consecutive hits on the same target deal double damage. For example, three consecutive strikes would deal `1x`, `2x`, and `4x` damage respectively. |
 
 #### Tech Casting  
@@ -382,7 +383,11 @@ Specialists are equipped with an advanced Omni Tool which allows the usage of sp
 The Specialist begins with `20 + (4 x INT)` energy, and gains `5 + INT` additional energy every `5` levels. These energy points are reset after a long rest.
 
 #### Neural Link  
-The specialist is able to observe through the senses of his droid as an action. During this time, the Specialist is incapacitated but has complete remote control of his droid. Cancelling the neural link is a free action, but cannot be done on the same turn as activation. Additionally, the Specialist Droid gains the `WILL`, `INT`, and `PRES` stats and proficiencies of the Specialist while the link is active, and the droid is able to perform Omni Tool actions.
+The specialist is able to observe through the senses of his droid as an action. During this time, the Specialist is incapacitated but has complete remote control of his droid. Cancelling the neural link is a free action, but cannot be done on the same turn as activation. 
+
+Additionally, the Specialist Droid gains the `WILL`, `INT`, and `PRES` stats and proficiencies of the Specialist while the link is active, and the droid is able to perform Omni Tool actions.
+
+Finally, Specialist Droids will often have special abilities that are only activated while under the direct control of the Specialist through Neural Link. These abilities will be documented accoringly in the Specialist Droid stat block.
 
 #### Energy Transferrence
 The specialist is able to use tech abilities through either his Omni Tool, or the Specialist Droid. If an ability is used through the Specialist Droid, it uses both the droid and the specialist's action. Additionally, positive effects which effect the Specialist are duplicated and also effect the Specialist Droid.
@@ -405,16 +410,54 @@ _"The secrets of Khydrian Artifacts are a pathway to many abilities some conside
 | 3     | +2          | Khydrian Casting                 |2    |2    |
 
 #### Prescience 
-At the beginning of each day, the adept rolls `2d20` and records the results. At any time, the adept can replace the result of any attack roll, ability check, or saving throw with the result of one of the stored rolls, even after the roll has already occured. Using the result this way consumes it.
+At the beginning of each day, the Adept rolls `2d20` and records the results. At any time, the Adept can replace the result of any attack roll, ability check, or saving throw with the result of one of the stored rolls, even after the roll has already occured. Using the result this way consumes it.
 
 #### Metastasis
-At the beginning of each day, the adept gains a pool of temporary hit points equal to `10 + WILL`.
+At the beginning of each day, the Adept gains a pool of temporary hit points equal to `5 + WILL (scaling)`. If the Adept gains additional Metastasis points through other means, it cannot go above this cap.
 
 #### Impulse
-// TODO
+* Action: Standard, Instant
+* Damage: `1d4 + INT (INT)`, Force, Long, Constitution
+* On a sucessful hit and if the target deals damage on its next turn to any target, the Adept gains `Metastasis` points equal to the damage dealt. If the target has multiple attacks this effect only applies to the first.
 
 #### Cantrips
 // TODO
 
+_Telekenesis_  
+* Spell Type: Force
+* Target: Object
+* Mage Hand effect.
+
+_Shield_  
+* Action: Standard
+* Spell Type: Force
+* Target: Self
+* Gain `1d8 + INT` temporary shield points which last until the start of your next turn.
+
+_Burden_  
+* Action: Standard
+* Spell Type: Force
+* Target: Creature
+* Attack: `(INT)`, Long, Constitution
+* Half the target's movement speed for `1d4` rounds.
+
+_Boon_  
+* Action: Standard
+* Spell Type: Force
+* Target: Creature
+* Range: Short
+* Double the target's movement speed for `1d4` rounds.
+
+_Bound_  
+* Action: Standard
+* Spell Type: Force
+* Target: Creature
+* Range: Short
+* Double the target's jump distance for `1d4` rounds.
+
 #### Presence of Mind
-// TODO
+When the Adept's Metastasis shield is at it's maximum, he can consume it to various effect as a bonus action.
+* Gain an additional `Prescience` charge.
+* Heal any target equal to the amount of shield points consumed.
+* Add the shield points consumed as damage to the next damaging spell cast.
+* Gain `1d4 + INT` endurance.
