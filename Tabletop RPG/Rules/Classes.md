@@ -70,8 +70,8 @@ _Dual Wield Specialization_
 | Level | Proficiency | Features                                                                         |
 | ----- | -----       |----------------------------------                                                |
 | 1     | +2          | Tactical Maneuvers (2), Overwatch, Tech Hardpoint (low)                          |
-| 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (medium) |
-| 3     | +2          | Run and Gun, Tech Hardpoint (low)                                                |
+| 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (low)    |
+| 3     | +2          | Run and Gun, Tech Hardpoint (medium)                                             |
 
 _Tactical Maneuvers_  
 The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter. Only one tactical maneuver can be used per turn.
@@ -214,8 +214,8 @@ The Marauder channels deep seeded rage, becoming an unstoppable juggernaut of fu
 | Level | Proficiency | Features                            |
 | ----- | -----       |----------------------------------   |
 | 1     | +2          | Mechanized Chassis, Basic Power Armor, Overshield, Tech Hardpoint (low) |
-| 2     | +2          | Mechanized Protocols, Immortality Protocol, Tech Hardpoint (medium)     |
-| 3     | +2          | Oppression Protocol, Tech Hardpoint (low)   |
+| 2     | +2          | Mechanized Protocols, Immortality Protocol     |
+| 3     | +2          | Oppression Protocol, Tech Hardpoint (medium)   |
 
 _Mechanized Chassis_  
 While there are many variants of Power Armor, they are all based on a similar mechansized chassis and share many similar attributes. Those common attributes are listed below.
@@ -352,37 +352,41 @@ Scoundrels can use their reaction to half the damage of any incoming attack.
 | Hit Dice | d6 |
 
 ### Starting Equipment
-// TODO
+* Submachine Gun
+* Omni Tool
+* Duster
 
 ### Abilities
-| Level | Proficiency | Features                         | TC1 | TC2 |
-| ----- | -----       |----------------------------------|:---:|----:|
-| 1     | +2          | Specialist Droid, Omni Tool      |0    |0    |
-| 2     | +2          | Tech Casting, Neural Link        |2    |0    |
-| 3     | +2          | Energy Transferrence             |3    |1    |
+| Level | Proficiency | Features                                                 | TC1 | TC2 |
+| ----- | -----       |----------------------------------                        |:---:|----:|
+| 1     | +2          | Specialist Droid, Omni Tool, Tech Hardpoint (`Low`)      |0    |0    |
+| 2     | +2          | Tech Casting, Neural Link                                |2    |0    |
+| 3     | +2          | Energy Transferrence                                     |3    |1    |
 
-_Specialist Droid_  
+#### Specialist Droid 
 The Specialist begins with a standard Specialist Droid. The droid gains in power along with the specialist and moves seperately, but on the same turn, and at the direction of the specialist. The droid has player death mechanics and if it is destroyed the specialst must either repair it or purchase another.
 
 | Features | |
 |----|----|
 | Hit Dice | d4 (INT) |
-| AC | 10 + INT |
+| AC | 12 + INT |
 | Type | Mechanical |
 | Statistics | STR: `-1` AGI: `+2` CON: `+2` WILL: `+0` INT: `+0` PRES: `+0` |
-| Skills | Stealth (Proficient) |
+| Skills | Stealth (Proficient), Perception (Proficient) |
 | Cadeucius Blaster | Basic Attack: `1d6 (INT)`, Energy, Medium |
+| Cauterize | While under the effect of `Neural Link`, consecutive hits on the same target deal double damage. For example, three consecutive strikes would deal `1x`, `2x`, and `4x` damage respectively. |
 
-_Tech Casting_  
-// TODO
+#### Tech Casting  
+Specialists are equipped with an advanced Omni Tool which allows the usage of special Tech Abilities. These abilities are slotted into tech slots, and consume a new resource, energy, whenever they are used. The standard Omni Tool starts with a maximum of `6` tech slots, and can only hold a limited number in each tier which is defined in the abilities table above. Tech Abilities are physical items which can be bought or found, however upon reaching level 2, the Specialist may pick `4` of these items from the Tier 1 listing - a results of his intensive technology training.
 
-_Neural Link_  
-The specialist is able to observe through the senses of his droid as an action. During this time, the Specialist is incapacitated but has complete remote control of his droid. Cancelling the neural link is a free action. Additionally, the Specialist Droid gains the `WILL`, `INT`, and `PRES` stats and proficiencies of the Specialist while the link is active, and the droid is able to perform Omni Tool actions.
+The Specialist begins with `20 + (4 x INT)` energy, and gains `5 + INT` additional energy every `5` levels. These energy points are reset after a long rest.
 
-_Energy Transferrence_  
-The specialist is able to use tech abilities through either his Omni Tool, or the Specialist Droid. If an ability is used through the Specialist Droid, it uses both the droid and the specialist's action. Additionally, positive effects which effect the Specialist also affect the Specialist Droid.
+#### Neural Link  
+The specialist is able to observe through the senses of his droid as an action. During this time, the Specialist is incapacitated but has complete remote control of his droid. Cancelling the neural link is a free action, but cannot be done on the same turn as activation. Additionally, the Specialist Droid gains the `WILL`, `INT`, and `PRES` stats and proficiencies of the Specialist while the link is active, and the droid is able to perform Omni Tool actions.
 
----
+#### Energy Transferrence
+The specialist is able to use tech abilities through either his Omni Tool, or the Specialist Droid. If an ability is used through the Specialist Droid, it uses both the droid and the specialist's action. Additionally, positive effects which effect the Specialist are duplicated and also effect the Specialist Droid.
+
 ## Adept
 _"The secrets of Khydrian Artifacts are a pathway to many abilities some consider to be unnatural."_
 
@@ -400,17 +404,17 @@ _"The secrets of Khydrian Artifacts are a pathway to many abilities some conside
 | 2     | +2          | Cantrips, Presence of Mind       |2    |0    |
 | 3     | +2          | Khydrian Casting                 |2    |2    |
 
-_Prescience_  
+#### Prescience 
 At the beginning of each day, the adept rolls `2d20` and records the results. At any time, the adept can replace the result of any attack roll, ability check, or saving throw with the result of one of the stored rolls, even after the roll has already occured. Using the result this way consumes it.
 
-_Metastasis_  
+#### Metastasis
 At the beginning of each day, the adept gains a pool of temporary hit points equal to `10 + WILL`.
 
-_Impulse_  
+#### Impulse
 // TODO
 
-_Cantrips_  
+#### Cantrips
 // TODO
 
-_Presence of Mind_  
+#### Presence of Mind
 // TODO
