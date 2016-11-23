@@ -35,22 +35,17 @@ _Dual Wield Specialization_
     Able to handle almost any situation, the Bounty Hunter brings the most devastating technology to bear, including Javelin Missile Systems and Jetpacks. With his aresnal of explosives and gadgets, the Bounty Hunter is a true one man army, obliterating foes from afar.
 * _Marauder [`STR`]_  
     * _Warblade_  
-    * _Mystic [`WILL`]_  
 * _Heavy [`STR`]_  
     * _Immortal_  
     * _Juggernaut_  
 * _Scoundrel [`AGI`]_  
     * _Outrider [`WILL`]_  
     * _Assassin [`INT`]_  
-* _Hunter [`AGI`]_  
-    * _Jager_  
-    * _Sword Saint [`WILL`]_  
 * _Specialist [`INT`]_  
     * _Medic_  
     * _Operator_  
 * _Adept [`WILL`]_  
     * _Templar_  
-    * _Warlock_  
 
 # Base Classes
 ## Commando
@@ -96,7 +91,6 @@ The Commando can use a bonus action to trigger a healing surge during combat.
 
 The Commando gains the effects of the dash, disengage, and dodge actions.
 
----
 ## Marauder
 | Details | |
 |----|----|
@@ -198,7 +192,6 @@ _"Ideals are peaceful. History is violent."_
 
 The Marauder channels deep seeded rage, becoming an unstoppable juggernaut of fury.
 
----
 ## Heavy
 | Details | |
 |----|----|
@@ -256,45 +249,6 @@ The Heavy creates an Overshield with a `5` square diameter, which protects all a
 * Add `CON` modifier to soak value in addition to other attributes.
 * Reduce movement speed by `2`.
 
----
-## Hunter
-| Details | |
-|----|----|
-| Primary Attribute | Agility |
-| Weapon Proficiency | Light |
-| Armor Proficiency | Light |
-| Hit Dice | d8 |
-
-### Abilities
-| Level | Proficiency | Features                                        |
-| ----- | -----       |----------------------------------               |
-| 1     | +2          | Augmentation, Battle Momentum, Finishing Moves  |
-| 2     | +2          | Cunning Action, Premeditation                   |
-| 3     | +2          | Personal Cloak                                  |
-
-#### Augmentation
-// TODO
-
-#### Battle Momentum  
-// TODO
-
-#### Finishing Moves
-// TODO
-
-#### Cunning Action 
-The Hunter can Dash, Disengage, or Hide as a bonus action.
-
-#### Premediation  
-* Action: Bonus
-* Duration: Encounter
-* Endurance Cost: High
-
-The Hunter immediately gains three points of Battle Momentum.
-
-#### Personal Cloak
-// TODO
-
----
 ## Scoundrel
 | Details | |
 |----|----|
@@ -324,7 +278,7 @@ On the first round of any combat, the Scoundrel may take an additional turn at t
 * Duration: Turn
 * Endurance Cost: Low
 
-The Scoundrel takes advantage of an opponent's weakness at every opportunity. As a bonus action, the Scoundrel targets an opponent for a sneak attack. When the Scoundrel attacks ,and hits, that target this turn and has advantage on the attack, or the opponent is adjacent to an ally of the Scoundrel, the Soundrel deals additional sneak attack damage.
+The Scoundrel takes advantage of an opponent's weakness at every opportunity. As a bonus action, the Scoundrel targets an opponent for a sneak attack. When the Scoundrel attacks and hits that target this turn and has advantage on the attack, or if the opponent is adjacent to an ally of the Scoundrel, the Soundrel deals additional sneak attack damage.
 
 #### Peerless Skill
 The Scoundrel gains a bonus rank in the given number of skills.
@@ -339,10 +293,6 @@ The Scoundrel gains a bonus rank in the given number of skills.
 
 The Scoundrel marks a cone in front of him as a Killzone with a range equivalent to the range of his equipped weapon and concentrates on the shot. At the beginnig of his next turn, he unleashed a devastating volley of shots, firing once at every target in the area. These shots deal weapon damage and also apply sneak attack damage to targets struck in this manner.
 
-#### Evasion
-Scoundrels can use their reaction to half the damage of any incoming attack.
-
----
 ## Specialist
 | Details | |
 |----|----|
