@@ -53,13 +53,14 @@ _Rank 3_
 * CON modifier added to hit point recovery rolls
 * CON modifier added to concentration checks
 * CON modifier added to CON saving throws
+* Affects the number of body augmentations a character can have
 
 ## Willpower
 * WILL modifier added to Khydrian Ability attack and damage rolls
 * WILL modifier added to all saving throws
 
 ### Insight
-### Cool
+### Netrunning
 
 ## Intelligence
 * INT modifier added to Tech Ability attack and damage rolls
@@ -76,5 +77,13 @@ _Rank 3_
 * PRES modifier added to PRES saving throws
 
 ### Perception
+#### Rank 1
+* 50% PROF modifier added to Perception checks.
+* When suprised, roll a DC `15` Perception check to act normally instead.
+
 ### Charisma
+#### Rank 1
+* 50% PROF modifier added to Perception checks.
+* A
+
 ### Performance

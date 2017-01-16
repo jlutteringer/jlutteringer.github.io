@@ -3,8 +3,18 @@
 ## Armor
 
 ### Light Armor
+
+#### Padded Armor
+#### Leather Armor??
+#### Kevlar Armor
+#### Hardened Kevlar Armor
+#### Composite Armor
+
+
 ### Medium Armor
 ### Heavy Armor
+
+#### 
 
 ## Weapons
 
