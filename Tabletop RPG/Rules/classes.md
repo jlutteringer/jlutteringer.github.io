@@ -1,8 +1,3 @@
-# Stunts
-
-## Standard Stunts
-
-
 # General Abilities
 _Unstoppable_  
 This unit cannot be flanked.
@@ -59,7 +54,7 @@ _Dual Wield Specialization_
 | Primary Attribute | Agility |
 | Weapon Proficiency | Medium |
 | Armor Proficiency | Heavy |
-| Hit Dice | d10 |
+| Base Health | 24 |
 
 ### Starting Equipment
 * Carbine
@@ -69,32 +64,33 @@ _Dual Wield Specialization_
 ### Abilities
 | Level | Proficiency | Features                                                                         |
 | ----- | -----       |----------------------------------                                                |
-| 1     | +2          | Tactical Maneuvers (2), Overwatch, Tech Hardpoint (low)                          |
+| 1     | +2          | Tactical Visor, Overwatch                                                        |
 | 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (low)    |
 | 3     | +2          | Run and Gun, Tech Hardpoint (medium)                                             |
 
-#### Tactical Maneuvers
-The Commando gains tactical maneuver points, which he can use to execute special abilities in combat. Tatical manuvers points are expended on abililities, and a refreshed at the end of each encounter. Only one tactical maneuver can be used per turn.
+#### Tactical Visor [grid]
+// TODO
 
-#### Overwatch (Tatical Maneuver)
+#### Overwatch
 * Action: Standard
-* Endurance Cost: Low
+* Endurance Cost: Medium
 
 The Commando uses a tactical maneuver to enter Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
 
 #### Soldier's Endurance 
 * Action: Bonus
 * Endurance Cost: Medium
-* Can use a bonus action to trigger a healing surge in combat.
-* Gains bonus healing surges.
+* Triggers healing surge in combat. Healing surges triggered this way do not consume charges.
 
-The Commando can use a bonus action to trigger a healing surge during combat.
+// FLUFF
 
-#### Run and Gun (Tatical Maneuver) 
+#### Run and Gun
 * Action: Bonus
 * Endurance Cost: Low
+* Gain the effects of the dash, disengage, and dodge actions.
+* Can move after making ranged attacks.
 
-The Commando gains the effects of the dash, disengage, and dodge actions.
+// FLUFF
 
 ## Marauder
 | Details | |
@@ -102,7 +98,7 @@ The Commando gains the effects of the dash, disengage, and dodge actions.
 | Primary Attribute | Strength |
 | Weapon Proficiency | Heavy |
 | Armor Proficiency | None |
-| Hit Dice | d12 |
+| Hit Dice | 30 |
 
 ### Starting Equipment
 * Heavy Claymore
@@ -124,7 +120,7 @@ Each time the Marauder deals damage with a standard attack, or takes damage from
 * Very High: 10
 
 #### Ignore Pain  
-* Action: Full
+* Action: Standard
 * Duration: Encounter
 * Endurance Cost: Low
 
@@ -203,7 +199,7 @@ The Marauder channels deep seeded rage, becoming an unstoppable juggernaut of fu
 | Primary Attribute | Constitution |
 | Weapon Proficiency | Heavy |
 | Armor Proficiency | Heavy |
-| Hit Dice | d12 |
+| Hit Dice | 30 |
 
 ### Starting Equipment
 // TODO
@@ -239,18 +235,16 @@ Basic Power Armor provides the following benefits.
 * Endurance Cost: Medium
 * Duration: Until Cancelled
 
-The Heavy creates an Overshield with a `5` square diameter, which protects all allies inside. The Overshield's hit points are equivalent to `50%` of the Heavy's max `health`. The Heavy can only maintain one Overshield at a time.
+The Heavy creates an Overshield with a `3` square diameter, which protects all allies inside. The Overshield's hit points are equivalent to `50%` of the Heavy's max `health` and the barrier has no AC. While active, the barrier intercepts all ranged attacks on characters inside the barrier, while allowing them to attack from inside. It does not restrict movement in any way. The Heavy can only maintain one Overshield at a time.
 
 #### Mechanized Protocols 
 //TODO
 
 #### Oppression Protocol
-* Activation: Full Round
 * Successful basic attacks disorient the target.
 * Increase movement speed by `2`.
 
 #### Immortality Protocol
-* Activation: Full Round
 * Add `CON` modifier to soak value in addition to other attributes.
 * Reduce movement speed by `2`.
 
@@ -259,8 +253,8 @@ The Heavy creates an Overshield with a `5` square diameter, which protects all a
 |----|----|
 | Primary Attribute | Agility |
 | Weapon Proficiency | Medium |
-| Armor Proficiency | Medium |
-| Hit Dice | d8 |
+| Armor Proficiency | Light |
+| Base Health | 20 |
 
 ### Starting Equipment
 * Sniper Rifle
@@ -304,7 +298,7 @@ The Scoundrel marks a cone in front of him as a Killzone with a range equivalent
 | Primary Attribute | Intelligence |
 | Weapon Proficiency | Light |
 | Armor Proficiency | None |
-| Hit Dice | d6 |
+| Base Health | 16 |
 
 ### Starting Equipment
 * Submachine Gun
@@ -320,11 +314,11 @@ The Scoundrel marks a cone in front of him as a Killzone with a range equivalent
 | 3     | +2          | Energy Transferrence                                     |3    |1    |
 
 #### Specialist Droid 
-The Specialist begins with a standard Specialist Droid. The droid gains in power along with the specialist and moves seperately, but on the same turn, and at the direction of the specialist. The droid has player death mechanics and if it is destroyed the specialst must either repair it or purchase another.
+The Specialist begins with a standard Specialist Droid. The droid gains in power along with the specialist and moves seperately, but on the same turn, and at the direction of the specialist.
 
 | Features | |
 |----|----|
-| Hit Dice | d4 (INT) |
+| Base Health | 12 (INT) |
 | AC | 12 + INT |
 | Type | Mechanical |
 | Statistics | STR: `-1` AGI: `+2` CON: `+2` WILL: `+0` INT: `+0` PRES: `+0` |
@@ -332,19 +326,19 @@ The Specialist begins with a standard Specialist Droid. The droid gains in power
 | Cadeucius Blaster | Basic Attack: `1d6 + INT (INT)`, Energy, Medium |
 | Cauterize | While under the effect of `Neural Link`, consecutive hits on the same target deal double damage. For example, three consecutive strikes would deal `1x`, `2x`, and `4x` damage respectively. |
 
-#### Tech Casting  
+#### Tech Casting [grid]
 Specialists are equipped with an advanced Omni Tool which allows the usage of special Tech Abilities. These abilities are slotted into tech slots, and consume a new resource, energy, whenever they are used. The standard Omni Tool starts with a maximum of `6` tech slots, and can only hold a limited number in each tier which is defined in the abilities table above. Tech Abilities are physical items which can be bought or found, however upon reaching level 2, the Specialist may pick `4` of these items from the Tier 1 listing - a results of his intensive technology training.
 
 The Specialist begins with `20 + (4 x INT)` energy, and gains `5 + INT` additional energy every `5` levels. These energy points are reset after a long rest.
 
-#### Neural Link  
+#### Neural Link [grid]
 The specialist is able to observe through the senses of his droid as an action. During this time, the Specialist is incapacitated but has complete remote control of his droid. Cancelling the neural link is a free action, but cannot be done on the same turn as activation. 
 
 Additionally, the Specialist Droid gains the `WILL`, `INT`, and `PRES` stats and proficiencies of the Specialist while the link is active, and the droid is able to perform Omni Tool actions.
 
 Finally, Specialist Droids will often have special abilities that are only activated while under the direct control of the Specialist through Neural Link. These abilities will be documented accoringly in the Specialist Droid stat block.
 
-#### Energy Transferrence
+#### Energy Transferrence [grid]
 The specialist is able to use tech abilities through either his Omni Tool, or the Specialist Droid. If an ability is used through the Specialist Droid, it uses both the droid and the specialist's action. Additionally, positive effects which effect the Specialist are duplicated and also effect the Specialist Droid.
 
 ## Adept
@@ -355,7 +349,7 @@ _"The secrets of Khydrian Artifacts are a pathway to many abilities some conside
 | Primary Attribute | Willpower |
 | Weapon Proficiency | Light |
 | Armor Proficiency | None |
-| Hit Dice | d6 |
+| Hit Dice | 16 |
 
 ### Abilities
 | Level | Proficiency | Features                         | C   | KC1 |
@@ -368,15 +362,16 @@ _"The secrets of Khydrian Artifacts are a pathway to many abilities some conside
 At the beginning of each day, the Adept rolls `2d20` and records the results. At any time, the Adept can replace the result of any attack roll, ability check, or saving throw with the result of one of the stored rolls, even after the roll has already occured. Using the result this way consumes it.
 
 #### Metastasis
-At the beginning of each day, the Adept gains a pool of temporary hit points equal to `5 + WILL (scaling)`. If the Adept gains additional Metastasis points through other means, it cannot go above this cap.
+At the beginning of each day, the Adept gains a pool of temporary hit points equal to `5 + WILL [scaling]`. If the Adept gains additional Metastasis points through other means, it cannot go above this cap. Unlike most temporary hit points, whenever the Adept takes damage, he can choose to take damage from this pool or from his normal health pool.
 
 #### Impulse
 * Action: Standard, Instant
 * Damage: `1d4 + INT (INT)`, Force, Long, Constitution
-* On a sucessful hit and if the target deals damage on its next turn to any target, the Adept gains `Metastasis` points equal to the damage dealt. If the target has multiple attacks this effect only applies to the first.
+* On a sucessful hit the target takes damage and is marked with void fluctuations. On the target's next turn, if it deals damage, the Adept gains `Metastasis` points equal to the damage dealt. If the target has multiple attacks this effect only applies to the first.
 
 #### Cantrips
-// TODO
+_Light_
+* Light effect.
 
 _Telekenesis_  
 * Spell Type: Force
@@ -386,8 +381,8 @@ _Telekenesis_
 _Shield_  
 * Action: Standard
 * Spell Type: Force
-* Target: Self
-* Gain `1d8 + INT` temporary shield points which last until the start of your next turn.
+* Target: Creature
+* Target gains `1d8 + INT` temporary shield points which last until the start of your next turn.
 
 _Burden_  
 * Action: Standard
@@ -396,7 +391,7 @@ _Burden_
 * Attack: `(INT)`, Long, Constitution
 * Half the target's movement speed for `1d4` rounds.
 
-_Boon_  
+_Haste_  
 * Action: Standard
 * Spell Type: Force
 * Target: Creature
