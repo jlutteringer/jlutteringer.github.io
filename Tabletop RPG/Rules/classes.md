@@ -89,6 +89,7 @@ The Commando uses a tactical maneuver to enter Overwatch until the start of his 
 * Endurance Cost: Low
 * Gain the effects of the dash, disengage, and dodge actions.
 * Can move after making ranged attacks.
+* Ignore cumbersome property of weapons.
 
 // FLUFF
 
@@ -226,7 +227,7 @@ Entering and exiting the mechanized chassis is a full round action.
 
 #### Basic Power Armor
 Basic Power Armor provides the following benefits.
-* One equipped item can be mounted to the armor itself, reducing its encumbrance to 0. However, this item cannot be removed from the chassis.
+* One equipped item can be mounted to the armor itself, reducing its encumbrance to 0 and ignoring the cumbersome property. However, this item cannot be removed from the chassis.
 * Increases AC by `2`.
 * `1` Protocol hardpoint.
 

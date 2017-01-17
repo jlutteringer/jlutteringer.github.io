@@ -7,7 +7,7 @@
 * STR modifier added to melee weapon attack and damage rolls
 * STR modifier added to soak value
 * Affects how much a character can carry
-* Required to effectively wield some weapons and armor
+* Affects the encumbrance limit
 
 ### Athletics
 _Rank 1_  
@@ -49,8 +49,8 @@ _Rank 3_
 ### Stealth
 
 ## Constitution
-* CON modfieir added to hit point rolls on level up
-* CON modifier added to hit point recovery rolls
+* CON modifier added to base health
+* CON modifier added to healing surge rolls
 * CON modifier added to concentration checks
 * CON modifier added to CON saving throws
 * Affects the number of body augmentations a character can have
@@ -60,7 +60,7 @@ _Rank 3_
 * WILL modifier added to all saving throws
 
 ### Insight
-### Netrunning
+### Grid Drifting
 
 ## Intelligence
 * INT modifier added to Tech Ability attack and damage rolls
@@ -84,6 +84,5 @@ _Rank 3_
 ### Charisma
 #### Rank 1
 * 50% PROF modifier added to Perception checks.
-* A
 
 ### Performance
