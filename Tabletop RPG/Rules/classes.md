@@ -6,6 +6,9 @@ _Omni Tool_
 
 _Tech Hardpoint_  
 
+#### Peerless Skill
+The Scoundrel gains a bonus rank in the given number of skills.
+
 _Endurance Costs_  
 * Low: 2
 * Medium: 4
@@ -280,9 +283,6 @@ On the first round of any combat, the Scoundrel may take an additional turn at t
 
 The Scoundrel takes advantage of an opponent's weakness at every opportunity. As a bonus action, the Scoundrel targets an opponent for a sneak attack. When the Scoundrel attacks and hits that target this turn and has advantage on the attack, or if the opponent is adjacent to an ally of the Scoundrel, the Soundrel deals additional sneak attack damage.
 
-#### Peerless Skill
-The Scoundrel gains a bonus rank in the given number of skills.
-
 #### Killzone
 * Action: Full
 * Duration: Round
@@ -371,10 +371,10 @@ At the beginning of each day, the Adept gains a pool of temporary hit points equ
 * On a sucessful hit the target takes damage and is marked with void fluctuations. On the target's next turn, if it deals damage, the Adept gains `Metastasis` points equal to the damage dealt. If the target has multiple attacks this effect only applies to the first.
 
 #### Cantrips
-_Light_
+_Light_  
 * Light effect.
 
-_Telekenesis_  
+_Telekenesis_    
 * Spell Type: Force
 * Target: Object
 * Mage Hand effect.
@@ -412,3 +412,108 @@ When the Adept's Metastasis shield is at it's maximum, he can consume it to vari
 * Heal any target equal to the amount of shield points consumed.
 * Add the shield points consumed as damage to the next damaging spell cast.
 * Gain `1d4 + INT` endurance.
+
+## Hunter
+| Details | |
+|----|----|
+| Primary Attribute | Agility |
+| Weapon Proficiency | Light |
+| Armor Proficiency | Light |
+| Base Health | 16 |
+
+### Abilities
+| Level | Proficiency | Features                                        |
+| ----- | -----       |----------------------------------               |
+| 1     | +2          | Augmentation, Battle Momentum, Finishing Moves  |
+| 2     | +2          | Cunning Action, Premeditation                   |
+| 3     | +2          | Personal Cloak                                  |
+
+#### Augmentation
+* Movement speed increased by `2` squares
+* Unrestricted vertical movement at half speed
+* Peerless Skill (`Stealth`)
+* Significantly reduced fall damage
+
+#### Battle Momentum  
+* Duration: Encounter
+* Combo point mechanic which enables Finishing moves
+* Maximum of `5` total advantages
+* Always combined with a melee weapon attack
+* Basic Types:
+    * Aggressive Advantage (A)
+    * Defensive Advantage (D)
+    * Tactical Advantage (T)
+    * Wild Advantage (W) - Wild Advantage can take the type of any Aggressive, Defensive, or Tactical Advantage
+    * Special Advantage (S) - Special Advantage is an advantage type only gained through advanced abilities
+
+##### Power Strike (A)
+* On hit: Weapon attack deals an additional `1d8` damage
+* Gain Aggressive Advantage
+
+##### Deflect (D)
+* Duration: Encounter
+* Charges: 1
+* Next time you take damage, reduce it by half. This damage reduction is applied before soak reduction.
+* Gain Defensive Advantage
+
+##### Reposition (T)
+* Duration: Round
+* On hit: Switch positions with your target
+* You do not provoke attacks of opportunity
+* You cannot be flanked
+* Gain Tactical Advantage
+
+#### Finishing Moves
+* Endurance Cost: Medium
+* Always combined with a melee weapon attack
+* Abilities which consume Battle Momentum tokens to devastating effect
+
+##### Sunder (AAA)
+* On hit: Weapon attack deals an additional `2d8 + AGI` damage
+* On hit: For `1d4` rounds, whenever you strike the target gain an Aggressive Advantage
+* On miss: Gain 2 Aggressive Advantage
+
+##### Shuffle (AAD)
+* Gain 2 Wild Advantage
+
+##### Shuffle (AAT)
+* Gain 2 Wild Advantage
+
+##### Defensive Stance (DDD)
+* For `1d4` rounds, add your `AGI` to your soak value
+* For `1d4` rounds, whenever you take damage, gain a Defensive Advantage
+
+##### Shuffle (DDA)
+* Gain 2 Wild Advantage
+
+##### Shuffle (DDT)
+* Gain 2 Wild Advantage
+
+##### Adaptation (TTT)
+* Gain 3 Wild Advantage
+* For `1d4` rounds, whenever you gain a Wild or Tactical Advantage, gain an additional Wild Advantage
+
+##### Shuffle (TTA)
+* Gain 2 Wild Advantage
+
+##### Cadency (TTD)
+* Your next 2 Finishing Moves cost no Endurance
+* Gain 1 Tactical Advantage
+
+##### Shuffle (ADT)
+* Gain 2 Wild Advantage
+
+#### Cunning Action 
+The Hunter can Dash, Disengage, or Hide as a bonus action.
+
+#### Premediation  
+* Action: Bonus
+* Duration: Encounter
+* Endurance Cost: High
+* The Hunter immediately gains 2 Wild Advantage
+
+#### Personal Cloak
+* Action: Full
+* Duration: 10 Minutes
+* Endurance Cost: High
+* Gain Cloak for the duration.

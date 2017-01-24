@@ -100,7 +100,6 @@ _Minigun_
 _Flamethrower_  
 2d6 (melee, fire, encumbrance[4], area[cone[4]])
 
-* [Specialization] Terror Doctrine: Whenever you kill an enemy with a flamethrower, reduce the enemy force's morale by one and immediately trigger a morale check.
 
 _Gravity Hammer_  
 2d8 (melee, physical, encumbrance[4])
@@ -109,5 +108,3 @@ _Gravity Hammer_
 
 _Claymore_  
 2d6 (reach, physical, encumbrance[3])
-
-* [Specialization] Glory: Whenever you kill an enemy, raise the morale of your party by one.
