@@ -367,7 +367,7 @@ At the beginning of each day, the Adept gains a pool of temporary hit points equ
 
 #### Impulse
 * Action: Standard, Instant
-* Damage: `1d4 + INT (INT)`, Force, Long, Constitution
+* Damage: `1d4 + INT (INT)`, Force, Medium, Constitution
 * On a sucessful hit the target takes damage and is marked with void fluctuations. On the target's next turn, if it deals damage, the Adept gains `Metastasis` points equal to the damage dealt. If the target has multiple attacks this effect only applies to the first.
 
 #### Cantrips
@@ -383,7 +383,7 @@ _Shield_
 * Action: Standard
 * Spell Type: Force
 * Target: Creature
-* Target gains `1d8 + INT` temporary shield points which last until the start of your next turn.
+* Target gains `1d6 + INT` temporary shield points which last until the start of your next turn.
 
 _Burden_  
 * Action: Standard
@@ -408,7 +408,7 @@ _Bound_
 
 #### Presence of Mind
 When the Adept's Metastasis shield is at it's maximum, he can consume it to various effect as a bonus action.
-* Gain an additional `Prescience` charge.
+* Gain an additional `Prescience` charge. Immediately roll and record the value.
 * Heal any target equal to the amount of shield points consumed.
 * Add the shield points consumed as damage to the next damaging spell cast.
 * Gain `1d4 + INT` endurance.
