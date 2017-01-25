@@ -59,6 +59,12 @@ _Dual Wield Specialization_
 | Armor Proficiency | Heavy |
 | Base Health | 24 |
 
+A silver haired soldier, battle rifle in hand, barks his orders over the chaos of the battle around them and rallies his men into a daring charge. Bullets and shrapnel sing through the air and the troop surges through a cloud of thick black smoke towards a fortified outcrop. Brilliant red shines through the cloud and bullets whiz from the smoke, striking each target right between the eyes.
+
+Behind enemy lines, a woman dressed in dark composite armor balances her sniper rifle along the edge of a steep drop. With a ringing shot, she fells an armored trooper and signals that battle has been joined. Tossing the weapon aside and leaping into the fray, she breaks her fall with jet boots and draws a short automatic shotgun - ready to do some damage.
+
+
+
 ### Starting Equipment
 * Carbine
 * Handgun
@@ -72,13 +78,18 @@ _Dual Wield Specialization_
 | 3     | +2          | Run and Gun, Tech Hardpoint (medium)                                             |
 
 #### Tactical Visor [grid]
-// TODO
+* Action: Standard
+* Endurance Cost: High
+* Duration: Round
+* Target: Self
 
 #### Overwatch
 * Action: Standard
-* Endurance Cost: Medium
+* Endurance: Medium
+* Duration: Round
+* Target: Burst[Weapon]
 
-The Commando uses a tactical maneuver to enter Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
+The Commando enters Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
 
 #### Soldier's Endurance 
 * Action: Bonus
