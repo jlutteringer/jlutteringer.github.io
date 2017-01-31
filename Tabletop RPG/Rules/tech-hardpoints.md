@@ -28,11 +28,9 @@ _Gravity Boots_
 
 _Optical Sight_  
 
-## Medium Power
+_Grid Integrated Visor_  
 
-_Tactical Visor_  
-TODO
-As a bonus action, the Commando marks a target with his tactical visor. The marked target takes an additional `1d6` damage from the Commando's attacks. The Commando can only have one marked target at a time. Additonally, the visor mitigates sight-based effects like smoke or stealth, and those effects will confer no disadvantage to the Commando's attacks while the target remains marked.
+## Medium Power
 
 _Grenade Launcher_  
 TODO

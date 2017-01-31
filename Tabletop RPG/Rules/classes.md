@@ -52,18 +52,18 @@ _Dual Wield Specialization_
 
 # Base Classes
 ## Commando
+A silver haired soldier, battle rifle in hand, barks his orders over the chaos of battle and rallies his men into a daring charge. Bullets and shrapnel sing through the air and the troop surges through a cloud of thick black smoke towards a fortified outcrop. Brilliant red shines through the cloud and bullets whiz from the smoke, striking each target right between the eyes.
+
+Behind enemy lines, a woman dressed in dark composite armor balances her sniper rifle along the edge of a steep drop. With a ringing shot, she fells an armored trooper and signals that battle has been joined. Tossing the weapon aside and leaping into the fray, she breaks her fall with jet boots and draws a short automatic shotgun - ready to do some damage.
+
+Commando's are the versatile leaders of the battlefield, controlling enemy combatants with heavy supressing fire and enboldening allies with adaptive battle tactics. With access to tech hardpoints and weapon specializations, Commando's can fill many squad roles and are some of the most deadly and manuverable soldiers in combat.
+
 | Details | |
 |----|----|
 | Primary Attribute | Agility |
 | Weapon Proficiency | Medium |
 | Armor Proficiency | Heavy |
 | Base Health | 24 |
-
-A silver haired soldier, battle rifle in hand, barks his orders over the chaos of the battle around them and rallies his men into a daring charge. Bullets and shrapnel sing through the air and the troop surges through a cloud of thick black smoke towards a fortified outcrop. Brilliant red shines through the cloud and bullets whiz from the smoke, striking each target right between the eyes.
-
-Behind enemy lines, a woman dressed in dark composite armor balances her sniper rifle along the edge of a steep drop. With a ringing shot, she fells an armored trooper and signals that battle has been joined. Tossing the weapon aside and leaping into the fray, she breaks her fall with jet boots and draws a short automatic shotgun - ready to do some damage.
-
-
 
 ### Starting Equipment
 * Carbine
@@ -79,24 +79,43 @@ Behind enemy lines, a woman dressed in dark composite armor balances her sniper 
 
 #### Tactical Visor [grid]
 * Action: Standard
-* Endurance Cost: High
-* Duration: Round
-* Target: Self
+* Endurance: High
+* Duration: 10 Rounds
+* Effect: Empowered Rounds
+    * Target: Self
+    * Basic attacks deal an additional `1d8 [AGI]` damage
+    * Ignore vision-based effects such as smoke or blur which would give the soldier's attacks disadvantage
+* Effect: Advanced Targeting
+    * Target: Creature
+    * Basic attacks from the caster have advantage against the affected target
+* Passive Effects
+    * Provides the same function as a Grid Integrated Visor
+    * Confers disadvantage on stealth checks while equipped
+    * Confers darkvision to the wearer
+
+The Tactical Visor is an integral part to the Commando's combat technology package. Although the visor comes in many styles, it typically covers the eyes and nose with a heavy face plate. Built into the plate is an elongated infrared optical sensor which covers the eyes, giving a bright red glow while active.
+
+The visor is fully grid integrated and assists the soldier in weapon targeting and precision. Additionally, infrared senseors give the wearer normal vision in low light conditions. 
+
+When activated, the visor can be used to target a specific enemy. This targeting gives the Commando advantage on his attacks against that target for the duration. Additionally, the Commando's attacks will deal additional damage whenever he strikes any opponent while the effect remains active.
 
 #### Overwatch
 * Action: Standard
 * Endurance: Medium
 * Duration: Round
-* Target: Burst[Weapon]
+* Range: Melee
+* Target: Area[Burst[Weapon]]
+* Any creature which does not have cover and is moving in the area immediately triggers an opportunity attack from the Commando. This opportunity attack does not consume a reaction. If a target is hit in this manner, they immediately lose all remaining movement.
 
-The Commando enters Overwatch until the start of his next turn. While in Overwatch, the Commando can take opportunity attacks on any target that takes a move action in his line of sight and is not in cover. These opportunity attacks do not consume his reaction.
+The Commando applies supressive fire over an area, locking down all combatants. For the duration, if any enemy moves out of cover they immedaitely trigger the Commando's opportunity attack. The stopping power of these shots is so great that it causes the vicim to lose all of their remaining movement once struck.
 
 #### Soldier's Endurance 
 * Action: Bonus
-* Endurance Cost: Medium
-* Triggers healing surge in combat. Healing surges triggered this way do not consume charges.
+* Triggers healing surge in combat.
+* Passive Effects
+    * The soldier gains additional healing surges
 
-// FLUFF
+The Commando's conditioning makes him especially durable in combat and allows him to recover from wounds suprisingly quickly.
 
 #### Run and Gun
 * Action: Bonus
