@@ -90,7 +90,7 @@ Commando's are the versatile leaders of the battlefield, controlling enemy comba
     * Basic attacks from the caster have advantage against the affected target
 * Passive Effects
     * Provides the same function as a Grid Integrated Visor
-    * Confers disadvantage on stealth checks while equipped
+    * Confers disadvantage on stealth checks
     * Confers darkvision to the wearer
 
 The Tactical Visor is an integral part to the Commando's combat technology package. Although the visor comes in many styles, it typically covers the eyes and nose with a heavy face plate. Built into the plate is an elongated infrared optical sensor which covers the eyes, giving a bright red glow while active.
@@ -119,12 +119,12 @@ The Commando's conditioning makes him especially durable in combat and allows hi
 
 #### Run and Gun
 * Action: Bonus
-* Endurance Cost: Low
+* Endurance: Low
 * Gain the effects of the dash, disengage, and dodge actions.
 * Can move after making ranged attacks.
 * Ignore cumbersome property of weapons.
 
-// FLUFF
+Commandos are the most mobile and versatile ranged combatants on the battlefield. By pushing himself to his limits, the Commando can move at an incredible speed, making lightning strikes and avoiding enemy fire.
 
 ## Marauder
 | Details | |
@@ -248,13 +248,13 @@ The Marauder channels deep seeded rage, becoming an unstoppable juggernaut of fu
 #### Mechanized Chassis
 While there are many variants of Power Armor, they are all based on a similar mechansized chassis and share many similar attributes. Those common attributes are listed below.
 
-* Entering and exiting the mechanized chassis is a full round action.
-* Advantage on all `STR` ability checks.
-* Double carrying capacity.
-* Cannot be flanked.
-* Unable to benefit from cover.
-* Treated as a mechanical unit.
-* No penalty for using ranged weapons while engaged in melee.
+* Entering and exiting the mechanized chassis is a full round action
+* Advantage on all `STR` ability checks
+* Double carrying capacity
+* Cannot be flanked
+* Unable to benefit from cover
+* Treated as both a mechanical and biological unit
+* No penalty for using ranged weapons while engaged in melee
 
 Entering and exiting the mechanized chassis is a full round action.
 

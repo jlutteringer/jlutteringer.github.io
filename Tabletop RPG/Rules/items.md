@@ -4,12 +4,34 @@
 
 ### Light Armor
 #### Padded Armor
+AC 12 + AGI
+
 #### Leather Armor
+AC 14 + AGI(max 3)
+
 #### Kevlar Armor
+AC 15 + AGI(max 3)
+stealth disadvantage
+
+#### Shield
+AC +2
 
 ### Heavy Armor
 #### Hardened Kevlar Armor
+AC 16
+stealth disadvantage
+
 #### Composite Armor
+AC 18
+stealth disadvantage
+
+#### Phase Plate Armor
+AC 20
+stealth disadvantage
+
+#### Tower Shield
+AC +3
+stealth disadvantage
 
 ## Weapons
 ### General Properties
@@ -57,7 +79,7 @@ _Hand Cannon_
 _Carbine_  
 1d8 (long, ballistic, two-handed, encumbrance[1])
 
-* [Specialization] Armor Piercing Rounds: Attacks with a Carbine have the piercing property.
+* [Specialization] Explosive Rounds: Attacks with a Carbine have an explosive damage type.
 
 _Automatic Rifle_
 1d10 (medium, ballistic, two-handed, encumbrance[2])
