@@ -89,10 +89,13 @@ Watcher's theme: https://soundcloud.com/inoue-konoha/08-winterspell
 Unbeknownst to most, Ketlam Glade serves as the strongold of the cult. In fact, Harkam Cathedral perched above serves as the lair of the Planetar Zuriel, servant of Talos. That being said, nearly all members of the village are either directly involved with or sympethic to the cult, and will attempt to hamper the progress of the players if they are overtly hostile to the Cult of the Unseeing Eye.
 
 #### The Clearing
+> The small party gathered at midday in the middle of the grassy clearing. It would be a picturesque scene if not for the standoff which currently unfolded. An unknown man, flanked by two robed cultists, stood opposite four familiar faces - the same four from the Delmirth tavern the night before. It seemed the party was already engaged in some sort of negotion.
+
+> Read the Zealot description
+
+> Caliphus was truely an imposing figure. Shirtless, inked tattos snaked across his skin; symbols of his religion and a testament to his faith, and he wore deep scars; symbols of his prowess in battle. Power radiated from him. There are precious few in this world who bear such abilities, a living conduit of divine power, and indisputable proof that the Stormlord survived his avatar's destruction at the hands of man.
 
 Caliphus' theme: https://soundcloud.com/k-s-lovencrone/dark-ages-two-steps-from-hell
-
-> TODO
 
 The clearing has about a 100ft radius, with Caliphus and the recruits from the tavern gatherd at the center. With a `DC 15` perception check, players will notice ten other figures which remain hidden, spaced around the clearing at the edge of the wooded area. These are ten other Zealots which will advance into the clearing at Caliphus' gesture to do his bidding.
 
@@ -102,30 +105,17 @@ The players will meet the group from the Delmirth tavern along with Visier Calip
 
 On completion of the task, Caliphus will direct the party nothwest, towards the Baram Moors, about a days journey on foot from the town.
 
-## Baram Moors
-> The woods quickly gave way to gentle, rolling hills, and it wasn't long before the twisting grasses had swallowed the road entirely. The dense fog appeared next, coating the landscape in a pale mist. Before long, the land had turned to soup, and your quick march had becoming mired in stinking mud which sucked at your boots. The moors were swamp, and certainly no place to call home. It suprised you how such uncivilized lands could exist so close to jewel of Orleans.
+#### Captured
+> It took some time for your eyes to adjust to the light, as your blindfolds were ripped off by the cultist soldiers. Whatever was next in store - Caliphus wanted you to see it. The stone floored chamber was massive, it's vaulted cieling reaching at least a hunded feet into the sky. The chamber was more or less rectangular, and your party had been halted at the near midpoint. Thin, cathedral windows draped themselves along the walls, bathing the chamber in brilliant sunlight. There was no mistaking it, the aged stonework gave the secret immediately, this was the sanctum of Harkam Cathedral. Sure enough, the worn symbol of the Morning Lord watch over you, boldly carved against the stone of the far wall.  
+> The chamber was empty, save for a thin obelisk which protruded from the floor at the center and rose to almost thirty feet. It unmistakably dominated the room. The structure was deep black, and appeared to either be carved from obsidian or scorched by flame beyond recognition. It's surface was covered in complex arcane symbols which burned with a sinister red glow. You felt it, then. Rage. Dread. Hopelessnes. It was a familiar feeling, burned into your mind only days past as you looked down at the scene unfolding beneath the Republic's sewers. The answer came to you almost as quickly, burning itself in your mind all the same. A seal and a name - Emrakul. This is what the Unseeing Eye sought so desperately, and what was buried beneath the palace at the center of Verns.
+> The thunderous clap which shook the room next sent you sprawling backwards and a shimmering portal burst into existence before the obelisk. Beyond it was a landscape which had become all too familar and desert sands were tossed haphazardly into the cathedral by the arid windswells which ran across the dunes beyond. The figure which stepped from that threshold dwarfed any man. Standing at almost ten feet and clad in ebony robes, his mere presence sent Caliphus dropping to a knee. Brilliant wings of white feather unfurled from the creature's back and he spoke, voice booming in the holy sanctum...
 
-### Random Ecounters
-* (5) Shekkothal - Shambling Mound
-* (15) Quicksand
-* (15) Dense Fog
-* (15) Roaming Undead - Skeletons & Zombies
+Zuriel's theme: https://soundcloud.com/narrisnor/forze-dell-oscurita
 
-### Outlying Areas
+If captured, the players will be taken to confront Zuriel in the sanctum of Harkam Cathedral, and come face to face with one of the opened seals. Zuriel will note that the players are strong of spirit, and instruct Caliphus to bestow the with their masters' gift in order to see what they may know about the impending plot.
 
-There are several noticable landmarks which surround the moors, and offer glimpses into it's history and current predicament.
-#### Anderhail
+Caliphus, accompanied by two guards will place the players in cells, but select on of them for the process of Eldrazi Conscription. The player will be throw bound and unarmed into a shallow pit with about 15ft walls and a 30ft diameter. A manipulator will then be throw into the pit with them, and they will have to find some way to survive. If they are coerced by the creature, the character will be effectively removed from play, and will willing volunteer all of the secrets that the players have gathered thus far.
 
-#### Anderhail Mausoleum
-
-#### Anderhail Cemetery
-
-#### The Quarry
-
-#### Woodson Lodge
-
-#### The Overlook
-
-### Spire Zizziax
+If the players are unable to make some manner of escape in the Cathedral, they will be transferred by horseback to the cult's operations in Baram Moors, with the intent to use them as blood sacrifices to enhance the ritual. The players will be transported, bound, by a contengient of eight Zealots, who will rendevous with Chancellor Marik outside the main gates of Spire Zizziax.
 
 ## The Ritual
