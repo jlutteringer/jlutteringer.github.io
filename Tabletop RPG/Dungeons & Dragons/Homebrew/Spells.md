@@ -1,0 +1,4 @@
+# Spells
+## Cantrips
+
+### Falcon Strike

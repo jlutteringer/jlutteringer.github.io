@@ -26,8 +26,19 @@
 
 # The Unseeing Eye
 
+## Cultist
+
+| Features | |
+|----|----|
+| Base Health | 7 |
+| AC | 12 |
+| Prof | `+2` |
+| Statistics | STR: `+0` DEX: `+2` CON: `+0` INT: `-1` WIS: `+0` CHA: `+1` |
+| Skills | DEX, CHA |
+| Dagger | Basic Attack: `1d4 + 2 (+4)` |
+
 ## Zealot
-> This human his clad in dark robes, with a light suit of mail underneath. At his side brandishes an ornamental short spear, which inlaid with gold trim and intricate runic carvings. The symbol of Talos, the Stormlord, is brazenly carved into the unusually broad blade of the weapon. The man's face is hidden by a metallic mask, one that bears stark resemblance to that of some of the other masked figures you have seen in the past.
+> This human his clad in dark robes, with a light suit of mail underneath. At his side brandishes an ornamental short spear, which inlaid with gold trim and intricate runic carvings. The symbol of Talos, the Stormlord, is brazenly carved into the unusually broad blade of the weapon. The man's face is hidden by a metallic mask, one that bears stark resemblance to that of some of thpe other masked figures you have seen in the past.
 
 | Features | |
 |----|----|
@@ -38,6 +49,10 @@
 | Skills | DEX, CON |
 | Ceremonial Spear | Basic Attack: `1d10 + 3 (+6)` |
 | Counter | Whenever the Zealot recieves damage from a melee attack, he may make a counterattack using his reaction. |
+
+## Warlock
+
+
 
 # The Eldrazi
 
@@ -86,3 +101,22 @@
 | Pack Tactics | The Manipulator gets advantage on attacks when adjacent to a friendly target. |
 | Conscription | On a successful barbed tail attack against an incapacitated opponent, the manipulator can, as a bouns action, conscript its target to join the Eldrazi hivemind. The target makes a DC 10 constitution saving throw, on a success it takes 5d6 damage as the Manipulator tries to burrow into its spine, on a failed save the Manipulator latches onto the targets spine. For every turn the Manipulator is attached, the target must make a DC 15 Wisdom save. Upon death or a failed save, the target becomes a pawn of the Eldrazi. |
 | Speed | 40 |
+
+## Eldrazi Prowler
+> Like a great many of the Eldrazi, this creature is a combination of vaguely humanoid characteristics with a truely alien frame. The creature sprints at great speed, propelled by six muscular hand-like legs which unite at a plated abdomen that makes up the majority of the creature's body. In its front, another six clawed hands sprout from it's chest, an undeniably human feature which makes the beast all the more unsettling. Like many of these Eldritch horrors, the beast bears a faceless head which scans back and fourth, surveying the landscape through some unexplainable means. Six long and muscular tentacles extrude from the creature's back, writing togther in a wriggling mass as the thing stalks its prey.
+
+| Features | |
+|----|----|
+| Base Health | 120 |
+| AC | 16 |
+| Prof | `+4` |
+| Statistics | STR: `+3` DEX: `+3` CON: `+3` INT: `+3` WIS: `+1` CHA: `-1` |
+| Skills | DEX, INT |
+| Size | Large |
+| Claw | Basic Attack: `1d8 + 2 (+4)` |
+| Tentacle | Basic Attack: `1d6 + 1 (+3)` |
+| Speed | 60 |
+| Multiattack | Description |
+| Ethereal Form | Description |
+| Grasping Tendrils | Descripton |
+| Conscription | Description |

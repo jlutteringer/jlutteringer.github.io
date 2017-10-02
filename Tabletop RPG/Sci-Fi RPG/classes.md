@@ -107,13 +107,13 @@ When activated, the visor can be used to target a specific enemy. This targeting
 * Target: Area[Burst[Weapon]]
 * Any creature which does not have cover and is moving in the area immediately triggers an opportunity attack from the Commando. This opportunity attack does not consume a reaction. If a target is hit in this manner, they immediately lose all remaining movement.
 
-The Commando applies supressive fire over an area, locking down all combatants. For the duration, if any enemy moves out of cover they immedaitely trigger the Commando's opportunity attack. The stopping power of these shots is so great that it causes the vicim to lose all of their remaining movement once struck.
+The Commando applies supressive fire over an area, locking down all combatants. For the duration, if any enemy moves out of cover they immedaitely trigger the Commando's opportunity attack. The stopping power of these shots is so great that it causes the vicim to lose all of their remaining movement if struck.
 
 #### Soldier's Endurance 
 * Action: Bonus
 * Triggers healing surge in combat.
 * Passive Effects
-    * The soldier gains additional healing surges
+    * The soldier gains additional healing surges.
 
 The Commando's conditioning makes him especially durable in combat and allows him to recover from wounds suprisingly quickly.
 

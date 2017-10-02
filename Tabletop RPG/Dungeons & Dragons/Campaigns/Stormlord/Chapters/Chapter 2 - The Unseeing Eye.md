@@ -119,3 +119,56 @@ Caliphus, accompanied by two guards will place the players in cells, but select 
 If the players are unable to make some manner of escape in the Cathedral, they will be transferred by horseback to the cult's operations in Baram Moors, with the intent to use them as blood sacrifices to enhance the ritual. The players will be transported, bound, by a contengient of eight Zealots, who will rendevous with Chancellor Marik outside the main gates of Spire Zizziax.
 
 ## The Ritual
+
+### Midway Fortifications
+Rhys Auralian and Arik Stevens had rode up to the Midway Fortification, in expectation of the players returning from the Baram Moor. Rhys will inform the party that Erik Loghain failed to approve her suggestion of sending reinforcing Knights North to the Moor, so she and Stevens had defied orders and road northward through the night, bringing horses and fresh supplies. Naturally, the two will express curiosity towards the players accomplishments, asking about anything they managed to discover.
+
+After the initial meeting, Rhys will suggest that the party return to the capital post-haste. Additionally, she will give Stevens orders to ride North to Ahugin Breach, and request General Angolis' mounted Reiksguard to ride South and reinforce Verns. If pressed, she will reveal that she lacks a specific threat in mind, but simply has a feeling that the theater of this saga has shifted Southward.
+
+### Verns
+Having stopped Chancellor Marik and the Unseeing Eye from siphoning magical energy from the specter of Liam Zizziax, the players will find on their return to Verns that the dark barrier which had consumed much of the Northern districts of the city had vanished. The North side of the city will see increased military prescence as the party nears the Glass Half Full tavern, where it all begain.
+
+### The Glass Half Full
+
+Encounter: Chancellor Marik
+
+The Phylactery
+
+Phase 1 - The Unseeing Eye
+
+| Marik's Shield | |
+|----|----|
+| Base Health | 40 |
+| AC | 15 |
+
+The phase begins with 2 Zealots and 2 Cultists in the room. Each round, an additional Zealot and two Cultists reinforce. The player's can seal the door mechanism, breach Marik's shield, or survive three rounds to progress to the next phase.
+
+Phase 2 - Unlimited Power
+
+| Jacobin Marogue | |
+|----|----|
+| Base Health | 35 |
+| AC | 15 |
+| Prof | `+3` |
+| Statistics | STR: `0` DEX: `+2` CON: `+1` INT: `+4` WIS: `+2` CHA: `+2` |
+| Skills | DEX, INT, WIS |
+| Speed | 30, Flying (Perfect) |
+| Rival | This creature has two initiative slots. |
+| Eldritch Blast | Basic Attack: `1d10 + 4 (+7)`, Multiattack: 2 |
+
+* Shield (2)
+* Mirror Image (1)
+* Hold Person + 1 (1)
+* Evards Black Tentacles (1)
+
+Phase 3 - Conscription
+
+| Ulamog's Hunger | |
+|----|----|
+| Base Health | 150 |
+| AC | 16 |
+| Prof | `+3` |
+| Statistics | STR: `+4` DEX: `+1` CON: `+4` INT: `+1` WIS: `+1` CHA: `-1` |
+| Skills | STR, CON, CHA |
+| Rival | This creature has two initiative slots. |
+| Eldritch Blast | Basic Attack: `1d10 + 4 (+7)`, Multiattack: 2 |

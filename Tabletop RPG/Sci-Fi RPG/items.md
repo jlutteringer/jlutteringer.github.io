@@ -95,7 +95,7 @@ _Shotgun_
 _Sniper Rifle_  
 1d12 (extreme, ballistic, cumbersome, two-handed, encumbrance[3])
 
-* [Specialization] Advanced Scoping: The dropoff range of the sniper rifle is infinite. The weapon can strike a target at any range, but attacks with disadvantage.
+* [Specialization] Advanced Scoping: The dropoff range of the sniper rifle is infinite. The weapon can strike a target at any range, but attacks with disadvantage outside of normal range bands.
 
 _Long Blade_  
 1d10 (melee, physical, two-handed, encumbrance[1])
