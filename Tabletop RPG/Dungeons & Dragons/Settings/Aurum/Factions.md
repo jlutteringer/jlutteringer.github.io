@@ -29,6 +29,9 @@ The Shadow Thieves are one of the largest criminal organizations in the Realm. L
 The Branded are a rebel organization on Antion who oppose the Republic's presence there and want to see Antion returned to an independent city state. They are mostly natives to Antion, and believe that the citizens of Antion should be in control of its own desity. Members are typically initiated with a circular branding around the wrist. The Branded get their name from an insurgent group that fought off Orleaian troops during the civil war, and kept Antion independent until the close of the civil war, when it was forced to submit to the Republic under the surrender of the Alluivan Gulf region. Since the surrender, many of the original Branded were imprisoned or executed, but it is rumored that their leader. Brant Eiseman, was one of the original freedom fighters and clashed openly with Orlesian soldiers. In the last 15 years, the Branded have worked to politically undermine the current Republic-appointed govoner, and to disrupt Republic operations without direct conflict. Lately, however, they have been in open conflict with the Blackfist pirates who have taken defacto control of most of the city in order to protect the general populace, and have been protesting the Republic's lack of protection. The populace generally views the Branded as protectors of the people, but reckless.
 
 ## Council of Faceless Lords
+The Council of Faceless Lords rules Avernus in cooperation with the Avernian High Council. The group of eight is nominated by the strongest political houses in Taris and meets regularly. The identity of each member is only known to a select few, and each member hides his identity during the meeting. 
+
+## Avernian High Council
 
 ## The White Hand
 
