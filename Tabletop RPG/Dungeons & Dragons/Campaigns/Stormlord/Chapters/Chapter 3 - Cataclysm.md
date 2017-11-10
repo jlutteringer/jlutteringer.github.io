@@ -1,0 +1,154 @@
+# Cataclysm
+> The sun's bright glare stung your eyes as armored knights pulled you from the sewers, their muffled shouts ringing through the mind's fog which enveloped you. The Order of the Vigilant Eye rushed you to a nearby garrison and it was there, as the clerics began their poking and prodding, that your senses began to return. The Cult of the Unseeing Eye unravelled - their plans foiled. But this time victory came at a great cost.  
+
+> Steve Silversky gave his life in the final hour, not as a soldier dying for his nation, but simply as a man impressed into heroism, trying to do right by his comrades. There were others, too. Countless civilians had still yet to be found and many brave knights had already given their lives to battle the cult in the sewers below. It was a phyrric victory, to be sure. One that would be burned into the public consciousness for decades to come.
+
+## Loghain's Revolt
+With only moments left to recover, Rhys Auralian will interrupt the cleric's work, informating the players that Erik Loghain had ordered the bulk of northern garrison south to the Circle of Mages. She will indicate that upon discovering circumstancial evidenct tieing Septimus Blern to the cult, Loghain plans to sieze control of the tower and bring the man to justice by any means necessary. Finally, she believes that the group might be able to intervene and sway the commander's opinion if they so choose.
+
+If the players fail to intervene, Loghain will succeed in taking the tower and the `Witch Hunt` outcome will occur.
+
+If they leave immediately, the players will meet Loghain and his forces who have been delayed moving to the south of Verns. Loghain will have been delayed by High Chancellor Alerack, Seeker Alvina Thropp, and Seeker Monis Shinar at the bridge into the Merchant Quarter. The trio will be in the midst of attempting to convince Loghain to abandon his march to the Mage Circle. It is as this point the players can choose a side, and attempt to convice Loghain that he is misguided.
+
+If unimpeded, Loghain will eventually lay siege to the Circle of Mages and without intervention by the players will breach the gate of the circle and the `Witch Hunt` outcome will occur.
+
+If impeded, Loghain will withdraw but the Circle still faces threats. As part of gathering his forces, Loghain worked the citizens of Verns up into a frenzy. Blaming the mages for the actions of the cult, an angry mob assembles outside of the Circle. If left unimpeded the `Verns' Riots` outcome will occur.
+
+If the players are able to subvert all of the various threats to the circle, Verns will still be subject to some rioting but the Circle will largely be safe and the `Septimus' Escape` outcome will occur.
+
+### Events
+Below is a listing of some random encounters which can occur during a revolt. As the players explore Verns during the revolt roll to determine events.
+
+#### Drunken Riots
+> The drunken shouts and curses preceeded the the torchlight and heavy footsteps of the group of commoners which advanced towards you. Rage burned behind their blackend silouettes as they brandished all manner of improvised weaponry: pitchforks, clubs, and the like. As if offended by its very presence, the crowd gathers around a nearby storefront, screaming drunken profanity before bathing the threshold in flames.
+
+`3d6` beligerent, drunken rioters patrol the streets. They are loud and wield torches, making it easy to spot them from a distance. If the party wishes, it will probably be easy to avoid them but it is clear that the rioters are trouble, looting and destroying property and harassing anyone out on the street. That being said, they are still ordinary citizens and are open to being reasoned with.
+
+#### Lost Child
+> DESCRIBE ME
+
+The party comes across an empty street ravaged by the riots. Amidst the smoke-filled air and the burned out houses they find a small girl, Elizah Maclan, crying. Elizah informs the party that she got separated from her family in all the chaos. Elizah's family worked for the Circle, not a mages but as scribes and have been killed in the riots. There is no easy answer here on what to do as Elizah is too young to provide much in the way of detail on extended family.
+
+#### Vigilantes
+> The screams came first. A man's paniced cry for help echoes down the emptied city streets. You come accross a vile scene. The dark silouettes of men chuckle grimly as they hoist an elven mage high into the air, tied to a long, thick beam - a makeshift funeral pyre. Others join them, longswords at their hips, and begin to lay scrap wood at the base. Torchlight frames the scene, an imminent omen of its end.
+
+The party comes across a group of rioters who have captured a mage, Sa'maesh Tharanadril, who works nearby at the Circle. The rioters are lead by a man named Fineas Dirketh and they have strung Tharanadril on a verticle pyre. As the party interrupts the rioters are gathering scrap wood for the pyre while Tharanadril calls for help. Dirketh and his crew are criminals using the riots as an excuse to loot and murder. As such they will be more difficult to reason with.
+
+With a `DC 12` perception check, make a note that these rioters are well armed and not just some common rabble.
+
+With a `DC 15` perception check, the party can notice that Dirketh and his men have probably staked out this square for awhile and have posted lookouts and bowmen in several of the nearby buildings - engaging them here in combat will be a difficult fight.
+
+If Sa'maesh Tharanadril survives he will offer to join the party.
+
+#### Magic Misfire
+> A dramatic crack of an explosion pierces cacophany of the mayhem which has consumed the streets. Just up ahead you are stunned by a blinding flash, illuminating the alleyway in firelight. The cries of pain come next, forshadowing a grizly scene at the square up ahead.
+
+> A man clad in robes stands defiant at the far end of the square, the better part of which has now been reduced to burning pitch. Civilians, armed with an assortment of weaponry, cower behind the rubble which now fills the streets. Several bodies are close at hand, their features seared away by magic flames.
+
+The players come across a battle between some rioters and a Circle mage, Elnior Mustafus. This part of the city has been blackened and scorched by a recent fireball and the rioters have taken cover in the rubble while the mage rains death down upon them. Shortly after the player's arrive, a spell misfires while the mage is defending himself, transporting everyone involved to an alien landscape.
+
+> A wounded civilian gathers what's left of his courage and sprints from his place of relative saftey, brandishing a rusted dirk. The man's wild scream howls over the crackling lumber and he charges the spellcaster, driven by nought but bloodlust. Another spell streaks through the night, bathing the cortyard in an emerald glow. A second flash overwhelms the first, drowning your vision in piercing white. In the chaos you hear the mage let out a pained yell and then suddenly your surroundings slip away from you. Blinded and disoriented, you find nothing but air beneath your feet and a scream wells in your lungs as you futilly grasp for some sort of purhase.
+
+> As far as you recall, it took only moments for your senses to return. As you shield your eyes from the bright daylight which washes over you, it is immediately apparent that you are no longer in Verns. You stand atop what looks like a huge, pinkish-crystal shard which is somehow suspended in mid air. Around you, many other sister shards float in a similar manner, suspended by nothingness. Blue skies surroud you on top and bottom, with nothing resembling a landmass in sight. In the distance, fluffy white clouds spindle through the sky like strung out cottonballs. This is truely an alien place.
+
+> The others are here, too. Scattered about the constellation of crystals, every member of your party is accounted for, including the group of rioters and the mage who presumably brought you to this place. The spellcaster in question sits with his keens splayed, and holds a hand to his side - wounded somehow in this great calamity.
+
+> Finally, you see something else on the horizon. A fleet of proud ships, who sail through the sky without the need for wind or water. Hanging from the masts, translucent sails sparkle in the daylight made of fabric of a thoroughly unfamiliar construction. The ships sail not for you but rather travel though this fantasy world towards some unknown destination, their hulls pushing the pinkish crystals out of their paths with the slightest of ease.
+
+The spell misfire lands the party in a pocket dimension similar to the astral plane. Large, pinkish crystals serve as the only solid ground as the float around a void of blue sky and puffy white mist, closely resembling clouds. In the distance a Githyanki fleet streaks through the sky, their large ships of the line just pushing the crystals out of the way.
+
+With a `DC 15` arcana check a player can recognise the ships as Githyanki vessles and recall some details about the Githyanki themselves.
+
+If the party lacks familarity with the Githyanki, Elnior informs them with some light details and explains that the Githyanki fleet might be the best chance of returning to the material plane. He says the Githyanki have specialized mages who they call navigators, and that they posess the power to switch between planes. With the help of a Navigator, or with the use of a Navigator's staff, Elnior belives he can return the party back from whence they came.
+
+If Elnior Mustafus survives he will offer to join the party.
+
+#### Witch Hunters
+A group of disgruntled soldiers patrol the city looking for rogue mages, either taking them to the stockades or provided and expedited sentencing. If the party is spotted, these soldiers will suspect them of harboring spellcasters and threaten to take the whole group in for questioning. One easy out, if the party mentions their involvement in stopping the cult one of the soldiers will vouch for recognition and the group will let the party pass without further hassle.
+
+#### Tavern Fire!
+> DESCRIBE ME
+
+Rioters have set a tavern on fire, sending the clientelle into mayhem!
+
+### Outcome - Witch Hunt
+> Few things were beyond the reach of the Republic's Legions and the Circle of Mages was no exception. Legionairres battered their way through the gates with little resistance as the Republic turned against itself. It was a bloodbath. The men were fueled by rage, on an quest for vengeance to bring Septimus Blern and his co-conspirators to justice. Erik Loghain cared little for the mages of the Circle and he cast a wide net. Innocent mages were dragged from the colleges and put to death in the streets by packs of vigilante soldiers.
+
+> The mob, its hatred fuled by months of fear, finally had an enemy to fight. Loghain ordered his men to step aside and the populace ran rampant. The south of Verns burned as the inquisition spilled out from the Circle, consuming the surrounding neighborhoods. There was little in the way of mercy - for all looked guilty by the light of the pyre.
+
+> The night concluded, a stark blaze against the inky backdrop of night as the Circle Tower burned, twisted flames licking its majestic scaffold.
+
+* Circle of Mages is breached and badly damaged
+* Public executions of mages run rampant
+* Septimus Blern is found and killed
+* King Heclair strips Loghain of his rank and promotes Rhys Auralian to temporary commander of the northern garrison
+* Avernus withdraws its forces
+* The Orlesian Rose is dissolved
+* King Heclair states his intent to resign as governor
+
+### Outcome - Verns' Riots
+> The Repiblic Legions had abandoned thier posts at the Circle. Although denyed his moment of triumph, Loghain would throw his enemy to the dogs, a raving mob which he himself instilled by pinning the actions of the Cult of the Unseeing Eye on the Circle. The fight at the circle gates was quick and decisive. Fearing for their lives, sorcerors send plumes of fire streaking into the crowds. In mere moments, hundreds had been incinerated and the crowds were sent into full retreat.
+
+> The mob, its hatred fuled by months of fear, finally had an enemy to fight. Loghain ordered his men to step aside and the populace ran rampant. The south of Verns burned as the inquisition spilled out from the Circle, consuming the surrounding neighborhoods. There was little in the way of mercy - for all looked guilty by the light of the pyre.
+
+* Circle of Mages is secure
+* Many rioters are killed by magic
+* Public executions of mages are prevalent
+* Septimus Blern escapes
+* King Heclair strips Loghain of his rank and promotes Rhys Auralian to temporary commander of the northern garrison
+* Avernus withdraws its forces
+
+### Outcome - Septimus' Escape
+> The Repiblic Legions had abandoned thier posts at the Circle. Although denyed his moment of triumph, Loghain would throw his enemy to the dogs, a raving mob which he himself instilled by pinning the actions of the Cult of the Unseeing Eye on the Circle. The impending conflict, however, was miraculously averted thanks to the efforts of the Heroes of Westwind who managed to talk down the crowds in the final hour.
+
+> The mob dispersed, although some in its ranks were less than convinced by the heroes' plea. Loghain had ordered his men to step aside those who remained ran rampant. The south of Verns burned as the inquisition spilled away from the Circle, consuming the surrounding neighborhoods. There was little in the way of mercy - for all looked guilty by the light of the pyre.
+
+* Circle of Mages is secure
+* Public executions of mages are rare
+* Septimus Blern escapes
+
+Regardless of the outcome, Rhys will ask the players to stay at the garrison rather than the inn they were previously staying at.
+
+## Audience with the King
+The next morning, the party will recieve an official audience to present themselves before King Radovid Heclair II as soon as possible. The envoy will inform them that the King wishes to thank the Heroes of Westwind personally as well as discuss some other sensitive matters regarding the Cult of the Unseeing Eye. Finally, the envoy with part by giving them a physical invitation which will let the party pass through Fort Bragg and on to the palace isle and directions to the palace.
+
+To reach the palace, the players will need to arrive at Fort Bragg, pass through the security checkpoint there, cross the Champs-Elysees and then make their way across the palace lawns and into the Palace of the White Opal.
+
+While crossing the Champs-Elysees, the players will once again run into High Chancellor Alerack, who will comment on the previous night.
+
+King Heclair's speech:
+> People of Verns. As you all know our brothers and sisters in Westwind have suffered a horrible tragedy over the past week. I speak for our city, our nation, and our Republic when I say that our deepest sympathies go out to them. Loss is always a challenge, but we as a people must begin to accept that loss is our new way of life. Make no mistake - we are at war both here and at the front. These fiends, these denizens of hell, would like nothing more than to destroy all we have built - to bring humanity to its very knees. We will not let them! The Republic's Legions will stand against the darkness and prevail! We will stand against darkness to the very end.
+
+> And so, it is with this in mind that we honor the fallen and celebrate their sacrifice, their lives, and our victory. The Cult of the Unseeing Eye has been defeated, their plans foiled. We as a people are victorious! So let us not give in to our biases. Let us not make an enemy of our neighbor. No! Let us reject cinisism and reject fear! If we cannot stand here now, as one people, then what hope do we have to face the enemy at our doorstep? To face the coming apocalypse!? We will stand togther, and we will stand resolute!
+
+> And now, allow me to introduce a group of men and women far greater than I. A group of ordinary citizens who rose to the occasion, dismantling the Unseeing Eye's apparatus in one fel blow! I present to you, good people, true heroes - the Heroes of Westwind!
+
+Give the players an opportunity to speak.
+
+> One of these brave souls, Steve Silversky, made the ultimate sacrifice for our Republic. A ranger from Tectus, and a lover of the outdoors. I have personally comissioned a memorial in his likeness by our most talented stonesmith - to be constructed right here on the palace lawn. He is represented here by his family friends - Simeon Silversky and Florial Starflower - please give them the Orleasian welcome!
+
+> Let us embrace Silversky's sacrifice. Let us cement his heroism in our minds, honor his memory, and cast aside our divisions. Today we are are Orlesian. Today we are all citizens of the Republic and as citizens, so we say: "Victory or death! For Verns! For Orleans! And for the Republic!"
+
+## The Calm
+
+### Incriminating Septimus Blern
+Go to the circle of mages to figure out what happened to Septimus Blern
+
+### Loghain's Secrets
+Digging up dirt on loghain
+
+### Loose Ends
+Cleaning up the Cult of the Unseeing Eye
+
+### The Palace
+There is an underground tunnel to the palace... where does it lead?
+
+## Apocalypse
+
+### Separated
+
+### Blowing the Bridges
+
+### Fort Brag
+
+### To the King!
