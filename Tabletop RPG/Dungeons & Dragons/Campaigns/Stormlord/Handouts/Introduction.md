@@ -42,7 +42,7 @@ The capital of Avernus, Taris is strategically valuable in connecting the northe
 
 ### Redmont
 
-Redmont makes up the western side of the republic and is known for gentle, rolling plains and fertile farmland. A feudal society, it is one of the few states without a central system of government. Instead, local lords control vast swaths of land and are constantly competing and feuding with each other for influence. As such the internal politics in Redmont can be
+Redmont makes up the western side of the republic and is known for gentle, rolling plains and fertile farmland. A feudal society, it is one of the few states without a central system of government. Instead, local lords control vast swaths of land and are constantly competing and feuding with each other for influence. As such the internal politics in Redmont can be incredibly complicated.
 
 ### Tectus
 
@@ -55,6 +55,7 @@ Making up the southern end of the Republic, the Alluvian Gulf region is of tempe
 
 #### Seabide
 The de facto capital of the Alluvian Gulf region and the largest city in th
+TODO
 
 ### Jakarta
 TODO
@@ -110,13 +111,6 @@ With the Awakening of the Eldrazi, the Shadow Thieves suffered from a mysterious
 
 ### The Cult of the Unseeing Eye
 TODO
-
-### The Branded
-The Branded are a rebel organization based in the island city of Antion who oppose the Republic's presence there and want to see Antion status as an independent city state returned. They are mostly natives to Antion, and believe that the citizens of Antion should be in control of their own destiny. 
-
-Members are typically initiated with a circular branding around the wrist - hence the name. The Branded are a carryover from and insurgent group with the same name that fought off Orlesian troops during the Sundering War and kept Antion independent until its close, when it was forced to submit to the Republic as part of the surrender of the Alluivan Gulf region. Since the surrender, many of the original Branded were imprisoned or executed, but it is rumored that their leader. Brant Eiseman, was one of the original freedom fighters and clashed openly with Orlesian soldiers. 
-
-In the last 15 years, the Branded have worked to politically undermine the current Republic-appointed governor, and to disrupt Republic operations while attempting to avoid direct conflict with the Legion. Lately, however, they have been in open conflict with the Blackfist pirates who have taken de facto control of most of the city in an attempt to protect the general populace, and have been protesting the Republic's lack of protection. The populace generally views the Branded as protectors of the people, but reckless.
 
 ### The White Hand
 Prior to the Sundering War, the White Hand was a secretive order of elite mages that were representative of some of the more powerful noble houses in Taris. The order was committed to advancing the secrets of magic and humanity's magical ability by any means necessary, often resorting to reckless or even dangerous experiments. It is said that mages of the White Hand equal or even surpass the abilities of the Circle mages of Orleans. 

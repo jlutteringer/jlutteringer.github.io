@@ -16,6 +16,8 @@ If impeded, Loghain will withdraw but the Circle still faces threats. As part of
 
 If the players are able to subvert all of the various threats to the circle, Verns will still be subject to some rioting but the Circle will largely be safe and the `Septimus' Escape` outcome will occur.
 
+Regardless of the outcome, Rhys will ask the players to stay at the garrison rather than the inn they were previously staying at.
+
 ### Events
 Below is a listing of some random encounters which can occur during a revolt. As the players explore Verns during the revolt roll to determine events.
 
@@ -30,9 +32,11 @@ Below is a listing of some random encounters which can occur during a revolt. As
 The party comes across an empty street ravaged by the riots. Amidst the smoke-filled air and the burned out houses they find a small girl, Elizah Maclan, crying. Elizah informs the party that she got separated from her family in all the chaos. Elizah's family worked for the Circle, not a mages but as scribes and have been killed in the riots. There is no easy answer here on what to do as Elizah is too young to provide much in the way of detail on extended family.
 
 #### Vigilantes
-> The screams came first. A man's paniced cry for help echoes down the emptied city streets. You come accross a vile scene. The dark silouettes of men chuckle grimly as they hoist an elven mage high into the air, tied to a long, thick beam - a makeshift funeral pyre. Others join them, longswords at their hips, and begin to lay scrap wood at the base. Torchlight frames the scene, an imminent omen of its end.
+> The screams came first. A man's paniced cry for help echoes down the emptied city streets.  
 
-The party comes across a group of rioters who have captured a mage, Sa'maesh Tharanadril, who works nearby at the Circle. The rioters are lead by a man named Fineas Dirketh and they have strung Tharanadril on a verticle pyre. As the party interrupts the rioters are gathering scrap wood for the pyre while Tharanadril calls for help. Dirketh and his crew are criminals using the riots as an excuse to loot and murder. As such they will be more difficult to reason with.
+> You come accross a vile scene. The dark silouettes of men chuckle grimly as they hoist an elven mage high into the air, tied to a long, thick beam - a makeshift funeral pyre. Others join them, longswords at their hips, and begin to lay scrap wood at the base. Torchlight frames the scene, an imminent omen of its end.
+
+The party comes across a group of rioters who have captured a mage, Sa'maesh Tharanadril, who works nearby at the Circle. The rioters are lead by a man named Fineas Dirketh and they have strung Tharanadril on a verticle pyre. As the party interrupts the rioters are gathering scrap wood for the pyre while Tharanadril calls for help. Dirketh and his crew are criminals using the riots as an excuse to loot and murder. As such they will be more difficult to reason with. Fineas was a shadow thief.
 
 With a `DC 12` perception check, make a note that these rioters are well armed and not just some common rabble.
 
@@ -107,14 +111,16 @@ Rioters have set a tavern on fire, sending the clientelle into mayhem!
 * Public executions of mages are rare
 * Septimus Blern escapes
 
-Regardless of the outcome, Rhys will ask the players to stay at the garrison rather than the inn they were previously staying at.
-
 ## Audience with the King
 The next morning, the party will recieve an official audience to present themselves before King Radovid Heclair II as soon as possible. The envoy will inform them that the King wishes to thank the Heroes of Westwind personally as well as discuss some other sensitive matters regarding the Cult of the Unseeing Eye. Finally, the envoy with part by giving them a physical invitation which will let the party pass through Fort Bragg and on to the palace isle and directions to the palace.
 
 To reach the palace, the players will need to arrive at Fort Bragg, pass through the security checkpoint there, cross the Champs-Elysees and then make their way across the palace lawns and into the Palace of the White Opal.
 
+At Ft. Bragg, the party will be approached by a man who introduces himself as Galeen Bale. Bale will inform the party that a new criminal organization is on the rise by making use of the title of Shadow Thieves. He says that he will pay the party handsomely (300g) if they manage to find out the identiy of this new kingpin impostor. Through his own investigation, he has learned that these so called Shadow Thieves are taking recruits at the Delmirth Tavern - that the party should introduce themselves to the bartender as Aran Linvale. This opens up the sidequest: `Shadow Impersonators`.
+
 While crossing the Champs-Elysees, the players will once again run into High Chancellor Alerack, who will comment on the previous night.
+
+The players will meet the King in a great dining hall along with Simeon Silversky and Florial Starflower - surviving members of Steve Silversky's family and Nastor Alastain - head of Orlesian intelligence. The King will merely introduce Alastain as his advisor and will reassure the party that they may speak freely in his presence.
 
 King Heclair's speech:
 > People of Verns. As you all know our brothers and sisters in Westwind have suffered a horrible tragedy over the past week. I speak for our city, our nation, and our Republic when I say that our deepest sympathies go out to them. Loss is always a challenge, but we as a people must begin to accept that loss is our new way of life. Make no mistake - we are at war both here and at the front. These fiends, these denizens of hell, would like nothing more than to destroy all we have built - to bring humanity to its very knees. We will not let them! The Republic's Legions will stand against the darkness and prevail! We will stand against darkness to the very end.
@@ -125,11 +131,13 @@ King Heclair's speech:
 
 Give the players an opportunity to speak.
 
-> One of these brave souls, Steve Silversky, made the ultimate sacrifice for our Republic. A ranger from Tectus, and a lover of the outdoors. I have personally comissioned a memorial in his likeness by our most talented stonesmith - to be constructed right here on the palace lawn. He is represented here by his family friends - Simeon Silversky and Florial Starflower - please give them the Orleasian welcome!
+> One of these brave souls is not here today. Steve Silversky, a ranger from Tectus, and a lover of the outdoors, made the ultimate sacrifice for our Republic. I have personally comissioned a memorial in his likeness by our most talented stonesmith - to be constructed right here on the palace lawn. May Lathandar guide his soul unto a glorius new dawn. He is represented here by his family friends - Simeon Silversky and Florial Starflower - please give them your heartfelt condolences and sacrifice.
 
 > Let us embrace Silversky's sacrifice. Let us cement his heroism in our minds, honor his memory, and cast aside our divisions. Today we are are Orlesian. Today we are all citizens of the Republic and as citizens, so we say: "Victory or death! For Verns! For Orleans! And for the Republic!"
 
 ## The Calm
+
+### Sidequest: Shadow Impersonators
 
 ### Incriminating Septimus Blern
 Go to the circle of mages to figure out what happened to Septimus Blern
