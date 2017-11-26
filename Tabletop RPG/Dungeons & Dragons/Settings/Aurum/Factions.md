@@ -1,7 +1,6 @@
 # Factions
 
 ## The Republic
-
 It was the Kingdom of Orleans, under the wise leadership of King Radovid Heclair II which architected the infantile republic. As political tensions between the six independent nations rose, Orleans, allying itself with Redmont, put its neighbors to the sword. So the federation of six independent states was brought by force, sealing the losers into a pact of cooperation which has presided over the Pontar for a decade and a half.
 
 While the sting of battle is still raw for many of the member states, this great experiment has undeniably been a success. The Orlesian Rose, a council of representatives from each state, ensures that all voices are heard and cooperation is fostered between it's members. It is Religion which serves as the major uniting force for the Republic tieing it's people together under worship of the three major deities of the Elniah - Lathandar, Helm, and Mielikki.
@@ -40,8 +39,6 @@ The Shadow Thieves are one of the largest criminal organizations in the Realm. L
 Unlike common thieves and pirates, the Shadow Thieves prefer political espionage, information gathering, smuggling contraband, and targeted assassinations over outright theft and harassing the local populace. This has somewhat protected the organization from more aggressive attempts to crack down on organized crime by the Legions.  
 
 With the Awakening of the Eldrazi, the Shadow Thieves suffered from an attack coordinated by it's leader, Les Stroud, who targetd the other guildmasters in the organization. After the attack and with much of its leadership dead, Victor Montague, a former guildmaster, took up leadership of the Shadow Thieves. Although Montague was a capable leader, the Shadow Thieves saw much of the influence they once wielded slip from their grasp. With Montague at the helm, it became public knowledge that the Shadow Thieves' prime direction was to protect the Eldrazi Seals from tampering and Montague lead his acolytes to that end, a fight which steadily reduced the numbers of the organization.
-
-
 
 ## The Cult of the Unseeing Eye
 

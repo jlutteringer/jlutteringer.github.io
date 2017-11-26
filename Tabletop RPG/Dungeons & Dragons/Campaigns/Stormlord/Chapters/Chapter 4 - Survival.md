@@ -46,7 +46,7 @@ Without aid, the Vernian Refugees will ultimately seek asylum in Avernus and the
 * Remain undetected
 * Revive Talos, the Stormlord
     * Aquire sources of strong magical energy
-    * Find a suitable host
+    * Find a suitable host for Talos' avatar
 * Revive the black dragon, Serevain
     * Siege Seabide
 * Spread the Black Blood of Helm
@@ -110,3 +110,8 @@ Without aid, the Faceless Ones will fragment and their members will disperse thr
 ### The Heart of the Stormlord
 
 ### The Stormforge
+
+### Holy Avenger, Carsomyr
+
+### Fragment of Zethothrax
+Fragment of Zuriel's sword.

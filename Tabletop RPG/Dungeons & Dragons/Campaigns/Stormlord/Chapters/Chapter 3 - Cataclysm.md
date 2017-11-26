@@ -138,6 +138,7 @@ Give the players an opportunity to speak.
 ## The Calm
 
 ### Sidequest: Shadow Impersonators
+Find information about the New Shadow Thieves for the mysterious Galeen Bayle.
 
 ### Incriminating Septimus Blern
 Go to the circle of mages to figure out what happened to Septimus Blern
@@ -151,12 +152,100 @@ Cleaning up the Cult of the Unseeing Eye
 ### The Palace
 There is an underground tunnel to the palace... where does it lead?
 
+### Recuperate
+The players can do what they please in Verns - they've earned the rest.
+
 ## Apocalypse
 
 ### Separated
 
 ### Blowing the Bridges
+A small coalition of legionaires gathers around the north end of a major bridge in Verns. The Watcher joins them as they intend to hold the line until the bridge can be destroyed. With the players help, The Watcher puts her plan into motion - she explains the situation and then gives the players a few minutes to plan. Soon the encounter will begin as the Eldrazi front arrives.
+
+#### Hold the Line
+The encounter begins as Watcher joins a group of soldiers at one end of the bridge - the objective to hold the line until the demolitionists below can plant charges on each of the three support pillars holding the bridge. While the line holds Watcher channels a healing aura with radius `2` on the bridge. Any player who ends the turn in the aura heals for `3d8` hit points.
+
+At the beginning of the encounter, a player can make a DC `15` performance check to inspire the troops, adding an additional `2` toughness to the bridge defense.
+
+##### Bridge Defense
+The soldiers on the bridge have an initial toughness of `10`. The players can assign support squads to reinforce the bridge each raising the total toughness by the remaining toughness of the squad. Each round the soldiers spend holding the Eldrazi forces at bay typtically decreases thier toughness by `3`. However, if the bridge defenses are flanked they lose `1` additional toughness at the end of the round. If the soldier's toughness reaches 0, the bridge defenses are breached and enemies will pour fourth from the bridge.
+
+##### Archer Support
+The second stories of two large homes which flank the bridge make perfect archer nests and the legions have already stationed two groups of archers there. From this vantage point the archers are able to relive some of the pressure from the bridge. As long as the archer units aren't engaged they each reduce the toughness lost by the bridge team per round by `1`. If a support squad is stationed with the archers they are able to hold off `1` enemy unit before the archers are considered to be engaged. Each archer unit begins with a toughness of `2` and loses `1` toughness for each engaged enemy at the end of each round.
+
+##### Demolition Team
+The demolition team has a small boat docked on the northern bank and plans to sail to each support pillar and arm explosives at the base. It takes `1` round to sail to a pillar and `1` round to attach the explosives. The team has a toughness of `3` and loses `1` toughness for each engaged enemy at the end of each round. While engaged, the demolition team cannot make progress. Additionally, the demolition team's boat can only hold `2` players or `1` support squad. The player's might come up with an innovative way to arm the explosives more quickly - these alternative methods should be encouraged and the DM should adjucate appropriately.
+
+##### Support Squads
+Finally, the players have `2` melee support squads which they can assign additional orders. The squad has a toughness of `4` and loses `1` toughness for each engaged enemy at the end of each round. Additionally, if the squad survives after taking damage at the end of the round it kills one unit which it is engaged with.
+
+##### Round by Round
+At the beginning of each round, roll 1d20 + current round number. If the roll is > `11`, roll `3` times to determine where the Eldrazi attack. Otherwise roll once.
+
+Roll randomly to determine which point gets attacked. Duplicated rolls mean that point is attacked by more than one enemy:
+* Left Tower
+* Right Tower
+* Flank Bridge
+* Demolition Team
+
+Then, for each attack, roll randomly on the table below to determine the type of attacking unit:
+TODO
+* Flying Dude
+* Sword arm dude
+* Zombie dudes
+* Manipulator
+
+##### Round 3
+On the beginning round 3, a DC `15` perception check will reveal that an Eldrazi prism is heading for tower. If a player is stationed in the right tower, the can make this check with advantage. 
+
+Roll the reinforce roll twice on this round.
+
+##### Round 4
+On the beginning of round 4, the Eldrazi prisim will destroy the right tower. Any squads in the tower are immediately destroyed. Any players in the tower must succede on a DC `12` dexterity saving throw or be immediately reduced to 0 hp and be buried in the rubble.
+
+Skip the Eldrazi reinforce roll for this round.
+
+##### Final Stand
+If the bridge defense fails, `4` units of Eldrazi will cross the bridge at the beginning of each subsequent round but the demolition team will be able to operate unmolested. Roll randomly on the table above to determine the type of unit.
+
+#### Zuriel
+Zuriel arrives at the beginning of the next round after the bridge is destroyed, flying down to land at its end, destroying any remaining bridge defenders in the process. Zuriel starts at the top of the initiative and will immediately cast his `Investiture of Lightning` without targeting any players.
+
+> DESCRIBE ZURIEL'S ARRIVAL - SOLDIERS ON BRIDGE
+
+> DESCRIBE ZURIEL'S ARRIVAL - NO SOLDIERS
+
+Zuriel and Watcher will focus on fighting each other, and Watcher will ask the party to destroy the Investitures. Every round, `1` additional Eldrazi unit will enter the battle, climbing up from the bridge or flying in. Like before roll on the table above for its type.
+
+##### Round 3
+At the beginning of round 3, Zuriel begins to channel `Kneel, Insect!` on Watcher, blasting her back and leaving her stunned. Until the remaining investitures are destroyed, this channel will continue.
+
+Whenever all the investitures are destroyed, Watcher immediately acts, shattering Zuriel's blade and leaving him greviously wounded. In the process, Zuriel will kill Watcher, throwing her lifeless body aside.
+
+If the players investigate the fragment of Zuriel's shattered blade, `Zethothrax`, they can discern it is a powerful magic item with a casting of `Detect Magic` or with a DC `15` Arcana check. These sources of power will have more importance later in chapter 4.
+
+> DESCRIBE WATCHER'S DEFEAT
+
+> DESCRIBE WATCHER VS ZURIEL
+
+Any remaining Eldrazi will flee, and the players will confront `Zuriel (Wounded)` who will act at the end of the initiative.
+
+> DESCRIBE ZURIELS DEATH
+
+##### Round 6
+At the beginning of round 6, if Zuriel is still channeling `Kneel, Insect!`, he will overwhelm Watcher, killing her instantly. At this point the party will likely have to retreat and Zuriel will be victorious. Be sure to emphasize the angel's overwhelming power at this point.
+
+#### Outcomes
+If the players decide to retreat before the bridge is destroyed Watcher will cover them, dieing in attempt to hold off the hordes. The players will not recover the `Holy Avenger` and the north of Verns will be breached. This will result in only half the number of unskilled and skilled laborers joining the party at the close of this chapter.
+
+If Zuriel kills Watcher before being weakend, Zuriel will survive and the players will likely not recover the `Holy Avenger` but the north of Verns will be secured. Zuriel will not pursue the party as long as they leave Watcher's sword behind.
+
+Finally, if the players flee from Zuriel after he is wounded. They will both recover both the `Holy Avenger` and protect Verns, but Zuriel will survive his wounds and eventually recover.
+
+The best outcome results in the defense of Verns, the recovery of the `Holy Avenger` and the death of the fallen angel.
 
 ### Fort Brag
 
 ### To the King!
+
+### Retreat
