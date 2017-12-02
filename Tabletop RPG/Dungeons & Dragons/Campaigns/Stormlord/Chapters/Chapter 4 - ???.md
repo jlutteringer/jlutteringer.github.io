@@ -1,4 +1,4 @@
-# Survival
+# ???
 
 ## Faction/Major Player Motivations
 
@@ -24,11 +24,12 @@ Without aid, Stroud won't be able to restore her body and will be limited to a r
 * Restore Bella Stroud's body
     * Aquire a source of strong magical energy
     * Find a suitable host
-* Restore the black dragonflight breeding program
+* Restore Stroud's black dragonflight breeding program
 * Spread Vampirism
     * Bring Volkskaya to heel
     * Undermine the Order of the Vigilant Eye
-* Undermine the New Shadow Thieves
+    * Protect the lair in Durandril
+* Defeat the New Shadow Thieves
 * Defeat Caliphus and the Sons of Thunder
 
 ### Vernian Refugees
@@ -49,12 +50,14 @@ Without aid, the Vernian Refugees will ultimately seek asylum in Avernus and the
     * Find a suitable host for Talos' avatar
 * Revive the black dragon, Serevain
     * Siege Seabide
-* Spread the Black Blood of Helm
+* Contain the Black Blood of Helm
 * Raise an army at the Stormforge in Verns
     * Recruit powerful mages from the surrounding provinces
     * Capture slaves from the surrounding provinces
 * Dominate the Pontar
     * Control Ahugin Breach
+    * Undermine the Order of the Vigilant Eye
+    * Undermine the Republic
 
 ### Avernus
 * Disband the Republic, at least as it stands
@@ -102,6 +105,17 @@ Without aid, the Faceless Ones will fragment and their members will disperse thr
     * Find workers or capture slaves from the surrounding provinces
     * Recruit powerful mages from the surrounding provinces
     * Aquire sources of strong magical energy
+
+### New Shadow Thieves
+Without aid, Galeen Bayle and his vampire minions will cripple the growth of the New Shadow Thieves and they will never accomplish their goals, eventually collapsing entirely.
+
+* Needs aid
+* Defeat the Shadow Thieves
+* Grow the guild in Ahugin Breach
+* Enable the Sons of Thunder
+    * Aquire sources of strong magical energy
+    * Prep Ahugin Breach for invasion
+    * Cut off the road to Verns
 
 ## Sources of Magical Energy
 

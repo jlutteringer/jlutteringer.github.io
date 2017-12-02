@@ -55,7 +55,7 @@ The players come across a battle between some rioters and a Circle mage, Elnior 
 
 > As far as you recall, it took only moments for your senses to return. As you shield your eyes from the bright daylight which washes over you, it is immediately apparent that you are no longer in Verns. You stand atop what looks like a huge, pinkish-crystal shard which is somehow suspended in mid air. Around you, many other sister shards float in a similar manner, suspended by nothingness. Blue skies surroud you on top and bottom, with nothing resembling a landmass in sight. In the distance, fluffy white clouds spindle through the sky like strung out cottonballs. This is truely an alien place.
 
-> The others are here, too. Scattered about the constellation of crystals, every member of your party is accounted for, including the group of rioters and the mage who presumably brought you to this place. The spellcaster in question sits with his keens splayed, and holds a hand to his side - wounded somehow in this great calamity.
+> The others are here, too. Scattered about the constellation of crystals, every member of your party is accounted for, including the group of rioters and the mage who presumably brought you to this place. The spellcaster in question sits with his knees splayed, and holds a hand to his side - wounded somehow in this great calamity.
 
 > Finally, you see something else on the horizon. A fleet of proud ships, who sail through the sky without the need for wind or water. Hanging from the masts, translucent sails sparkle in the daylight made of fabric of a thoroughly unfamiliar construction. The ships sail not for you but rather travel though this fantasy world towards some unknown destination, their hulls pushing the pinkish crystals out of their paths with the slightest of ease.
 
@@ -116,11 +116,37 @@ The next morning, the party will recieve an official audience to present themsel
 
 To reach the palace, the players will need to arrive at Fort Bragg, pass through the security checkpoint there, cross the Champs-Elysees and then make their way across the palace lawns and into the Palace of the White Opal.
 
+> Read Description in Settings > Aurum > Locations > Verns > Palace Isle > Fort Bragg
+
 At Ft. Bragg, the party will be approached by a man who introduces himself as Galeen Bale. Bale will inform the party that a new criminal organization is on the rise by making use of the title of Shadow Thieves. He says that he will pay the party handsomely (300g) if they manage to find out the identiy of this new kingpin impostor. Through his own investigation, he has learned that these so called Shadow Thieves are taking recruits at the Delmirth Tavern - that the party should introduce themselves to the bartender as Aran Linvale. This opens up the sidequest: `Shadow Impersonators`.
+
+> Read Description in Settings > Aurum > Characters > Galeen Bale
 
 While crossing the Champs-Elysees, the players will once again run into High Chancellor Alerack, who will comment on the previous night.
 
+> Read Description in Settings > Aurum > Locations > Verns > Palace Isle > Champs-Elysees
+
+> Read Description in Settings > Aurum > Locations > Verns > Palace Isle > Palace of the White Opal
+
 The players will meet the King in a great dining hall along with Simeon Silversky and Florial Starflower - surviving members of Steve Silversky's family and Nastor Alastain - head of Orlesian intelligence. The King will merely introduce Alastain as his advisor and will reassure the party that they may speak freely in his presence.
+
+King Radovid formost wished to meet the so-called "Heroes of Westwind", honor them, and mourn the loss of their companion with them. He will invite the party to dine with the four of them, and ask them to join him for a memorial service to honor the fallen citizens and soldiers - many of whom are still considered missing - who perished in the Westwind incident. The ceremony itself is not for a few hours and the party will be honored guests of the castle, able to relax and enjoy the amenities in the meantime.
+
+At the end of the dinner, Radovid will intent that the would like the players to speak to Alastain in private after the ceremony - that he has an offer for them to consider.
+
+> Read Description in Settings > Aurum > Locations > Verns > Palace Isle > Palace of the White Opal > Great Hall
+
+> Radovid faced away from you as you entered the hall, observing the palace lawn from the great window which made up the east wall, his hands folded behind his back.
+
+> Read Description in Settings > Aurum > Characters > Radovid Heclair II
+
+Describe the other characters as Radovid introduces them.
+
+> Read Description in Settings > Aurum > Characters > Nastor Alastain
+
+> The two elves in Radovid's compay sat togther, almost comically alone at the end of the huge feasting table which dominated much of the great hall. Their grief was plain - red eyes and tear streaked cheeks were common between the pair, though they tried to mantain some manner of composure in these unfamilair circumstances. The man, Simeon Silversky, bore an uncanny resemblance to your deceased companion, Steve Silversky. It was obvious through his weathered appearance that he was the man's father or close relative. The woman, Florial, would have been a prototypical example of Elven grace under any other circumstances her well kept hair and fair skin indicating a life that was spared from the hardships of her companion.
+
+> Read Description in Settings > Aurum > Locations > Verns > Palace Isle > Palace of the White Opal > Palace Lawns
 
 King Heclair's speech:
 > People of Verns. As you all know our brothers and sisters in Westwind have suffered a horrible tragedy over the past week. I speak for our city, our nation, and our Republic when I say that our deepest sympathies go out to them. Loss is always a challenge, but we as a people must begin to accept that loss is our new way of life. Make no mistake - we are at war both here and at the front. These fiends, these denizens of hell, would like nothing more than to destroy all we have built - to bring humanity to its very knees. We will not let them! The Republic's Legions will stand against the darkness and prevail! We will stand against darkness to the very end.
@@ -131,9 +157,9 @@ King Heclair's speech:
 
 Give the players an opportunity to speak.
 
-> One of these brave souls is not here today. Steve Silversky, a ranger from Tectus, and a lover of the outdoors, made the ultimate sacrifice for our Republic. I have personally comissioned a memorial in his likeness by our most talented stonesmith - to be constructed right here on the palace lawn. May Lathandar guide his soul unto a glorius new dawn. He is represented here by his family friends - Simeon Silversky and Florial Starflower - please give them your heartfelt condolences and sacrifice.
+> One of these brave souls is not here today. Steve Silversky, a ranger from Tectus, and a lover of the outdoors, made the ultimate sacrifice for our Republic. I have personally comissioned a memorial in his likeness by our most talented stonesmith - to be constructed right here on the palace lawn. May Lathandar guide his soul unto a glorius new dawn. He is survived here by his family friends - Simeon Silversky and Florial Starflower - please give them your heartfelt condolences and thanks for Mr. Silversky's unyielding dedication to this great Republic.
 
-> Let us embrace Silversky's sacrifice. Let us cement his heroism in our minds, honor his memory, and cast aside our divisions. Today we are are Orlesian. Today we are all citizens of the Republic and as citizens, so we say: "Victory or death! For Verns! For Orleans! And for the Republic!"
+> Let us embrace Silversky's sacrifice. Let us cement his heroism in our minds, honor his memory, and cast aside our divisions. Today we are all Orlesian. Today, we are all citizens of the Republic - so we say: "Victory or death! For Verns! For Orleans! And for the Republic!"
 
 ## The Calm
 
@@ -141,7 +167,6 @@ Give the players an opportunity to speak.
 Find information about the New Shadow Thieves for the mysterious Galeen Bayle.
 
 ### Incriminating Septimus Blern
-Go to the circle of mages to figure out what happened to Septimus Blern
 
 ### Loghain's Secrets
 Digging up dirt on loghain
@@ -177,7 +202,7 @@ The second stories of two large homes which flank the bridge make perfect archer
 The demolition team has a small boat docked on the northern bank and plans to sail to each support pillar and arm explosives at the base. It takes `1` round to sail to a pillar and `1` round to attach the explosives. The team has a toughness of `3` and loses `1` toughness for each engaged enemy at the end of each round. While engaged, the demolition team cannot make progress. Additionally, the demolition team's boat can only hold `2` players or `1` support squad. The player's might come up with an innovative way to arm the explosives more quickly - these alternative methods should be encouraged and the DM should adjucate appropriately.
 
 ##### Support Squads
-Finally, the players have `2` melee support squads which they can assign additional orders. The squad has a toughness of `4` and loses `1` toughness for each engaged enemy at the end of each round. Additionally, if the squad survives after taking damage at the end of the round it kills one unit which it is engaged with.
+Finally, the players have `3` melee support squads which they can assign additional orders. The squad has a toughness of `4` and loses `1` toughness for each engaged enemy at the end of each round. Additionally, if the squad survives after taking damage at the end of the round it kills one unit which it is engaged with.
 
 ##### Round by Round
 At the beginning of each round, roll 1d20 + current round number. If the roll is > `11`, roll `3` times to determine where the Eldrazi attack. Otherwise roll once.

@@ -1,7 +1,6 @@
 # Creatures
 
 ## Undead
-
 ### Skeleton
 | Features | |
 |----|----|
@@ -14,7 +13,6 @@
 | Shortbow | Basic Attack: `1d6 + 2 (+4)` |
 
 ## Humanity
-
 ### Mercenary
 | Features | |
 |----|----|
@@ -26,8 +24,64 @@
 | Longsword | Basic Attack: `1d8 + 2 (+4)` |
 | Longbow | Basic Attack: `1d6 + 1 (+3)` |
 
-## Sons of Thunder
+### Sailor
+| Features | |
+|----|----|
+| Base Health | 6 |
+| AC | 11 |
+| Prof | `+2` |
+| Statistics | STR: `0` DEX: `+1` CON: `0` INT: `0` WIS: `0` CHA: `0` |
+| Skills | STR, CON |
+| Shortsword [Basic Attack] | `1d6 +1 [slashing] (+3)` |
+| Hand Crossbow [Basic Attack, Ranged(8)] | `1d6 +1 [piercing] (+3)` |
 
+## The Republic
+
+### Republic Marine
+| Features | |
+|----|----|
+| Base Health | 20 |
+| AC | 16 |
+| Prof | `+2` |
+| Statistics | STR: `+2` DEX: `+2` CON: `+2` INT: `0` WIS: `0` CHA: `0` |
+| Skills | STR, CON |
+| Longsword [Basic Attack] | `1d8 +2 [slashing] (+4)` |
+| Heavy Crossbow [Basic Attack, Ranged(12)] | `1d6 +2 [piercing] (+4)` |
+
+### Republic Legionary (Light)
+| Features | |
+|----|----|
+| Base Health | 20 |
+| AC | 16 |
+| Prof | `+2` |
+| Statistics | STR: `+2` DEX: `+2` CON: `+2` INT: `0` WIS: `0` CHA: `0` |
+| Skills | STR, CON |
+| Longsword [Basic Attack] | `1d8 +2 [slashing] (+4)` |
+| Heavy Crossbow [Basic Attack, Ranged(12)] | `1d6 +2 [piercing] (+4)` |
+
+### Republic Legionary (Heavy)
+| Features | |
+|----|----|
+| Base Health | 20 |
+| AC | 16 |
+| Prof | `+2` |
+| Statistics | STR: `+2` DEX: `+2` CON: `+2` INT: `0` WIS: `0` CHA: `0` |
+| Skills | STR, CON |
+| Longsword [Basic Attack] | `1d8 +2 [slashing] (+4)` |
+| Heavy Crossbow [Basic Attack, Ranged(12)] | `1d6 +2 [piercing] (+4)` |
+
+### Palatial Guard
+| Features | |
+|----|----|
+| Base Health | 20 |
+| AC | 16 |
+| Prof | `+2` |
+| Statistics | STR: `+2` DEX: `+2` CON: `+2` INT: `0` WIS: `0` CHA: `0` |
+| Skills | STR, CON |
+| Longsword [Basic Attack] | `1d8 +2 [slashing] (+4)` |
+| Heavy Crossbow [Basic Attack, Ranged(12)] | `1d6 +2 [piercing] (+4)` |
+
+## Sons of Thunder
 ### Cultist
 
 | Features | |
@@ -105,7 +159,7 @@
 | Mace [Basic Attack] | `2d8 + 4 [bludgeoning] + 3d8 [lightning] (+10)` |
 | Lightning Burst [Basic Attack, Ranged(24)] | `4d8 [lightning] (+11)` |
 | Storm of the Century | Caliphus summons a massive storm, the act of which takes `10` minutes to cast. Once summoned, the storm lasts `1d4 + 1` hours and covers a `2` mile radius centered on the caster. While the storm is present Caliphus has access to Lair Actions and special abilities. See section below for details. |
-| Master Spellcaster | This creature ignores concentration rules and casting times of his spells. |
+| Master Spellcaster | This creature ignores concentration rules and casting times of its spells. |
 | Spellcasting(WIS) | This creature can cast the following spells with a spell save DC of `19`.|
 || Mage Hand, Light, Thaumaturgy |
 || 1st 4/day - Detect Magic*, Shield of Faith*, Protection from Good, Command, Healing Word, Hold Person |
@@ -199,6 +253,10 @@
 | Grasping Tendrils | Descripton |
 | Conscription | Description |
 
+### Ulamog's Despoiler
+
+### Ulamog's Crusher
+
 ## Gith
 
 ### Githyanki Warrior
@@ -235,106 +293,6 @@
 || 1/day - Hold Person |
 || 1/day - Counterspell |
 
-NPC's & Creatures
-| General |
-
-Sailor
-	Hp: 6 | Ac: 10 | Prof: 2
-	Str: 0^ | Dex: 0 | Con: 0^ | Int: 0 | Wis: 0 | Cha: 0
-
-	Shortsword: 1d6 (+2) | Shortbow: 1d6 (+2)
-
-| The Black Fist Pirates |
-
-Black Fist Matey
-	Hp: 6 | Ac: 10 | Prof: 2
-	Str: 2^ | Dex: 2 | Con: 0^ | Int: 0 | Wis: 0 | Cha: 0
-
-	Shortsword: 1d6 +2 (+4) | Shortbow: 1d6 +2 (+4)
-
-Black Fist Mercenary
-    Hp: 20 | Ac: 16 | Prof: 3
-	Str: 3^ | Dex: 2 | Con: 2^ | Int: 0 | Wis: 0 | Cha: 0
-
-	Longsword: 1d8 +3 (+6) | Longbow 1d8 +2 (+5)
-    
-Roderick Lestrange
-    Hp: 60 | Ac: 16 | Prof: 3
-	Str: 3^ | Dex: 2 | Con: 2^ | Int: 0 | Wis: 0 | Cha: 2
-
-    2 Attacks
-	Longsword: 1d8 +3 (+6) | Longbow 1d8 +2 (+5)
-    
-    Martial Advantage: If Roderick hits a target adjacent to an ally he can expend his reaction to deal an extra 2d8 damage
-    
-| Lordarion Military |
-
-| Lordarion Marines |
-
-Lordarion Marine
-	Hp: 20 | Ac: 16 | Prof: 2
-	Str: 2^ | Dex: 2 | Con: 2^ | Int: 0 | Wis: 0 | Cha: 0
-
-	Longsword: 1d8 +2 (+4) | Heavy Crossbow 1d10 +2 (+4)
-
-| The Eldrazi |
-
-Eldrazi Pawns:
-
-Manipulator
-	The manipulator is an agile spawn of the Eldrazi, about the size of a small dog. Its body is a featurless hexagonal prisim, grayish-red in color and covered in insectoid chitin plates. Six segmented legs sprout from the base as well as a long barbed tail, much like that of a scorpion.
-
-	Hp: 3 | Ac: 15 | Prof: 2
-	Str: -4 | Dex: 2^ | Con: -1 | Int: -6 | Wis: -6 | Cha: -6
-	Speed: 40
-
-	Barbed Tail: 1d4 +1 (+6)
-
-	Pack Tactics: The Manipulator gets advantage on attacks when adjacent to a friendly target.
-    
-    Mobile
-
-	Eldrazi Conscription: On a successful barbed tail attack against an incapacitated opponent, the manipulator can, as a bouns action, conscript its target to join the Eldrazi hivemind. The target makes a DC 10 constitution saving throw, on a success it takes 5d6 damage as the Manipulator tries to burrow into its spine, on a failed save the Manipulator latches onto the targets spine. For every turn the Manipulator is attached, the target must make a DC 15 Wisdom save. Upon death or a failed save, the target becomes part of the Eldrazi (as a Pawn of Ulamog).
-
-Pawn of Ulamog
-	Pawns of Ulamog are humanoids, or other intelligent creatures that can be affected by Eldrazi Conscription. Conscription grants the target greatly increased strength, stamina, and agility. Conscripted targets can take on a variety of behaviors. With more powerful Eldrazi present, they will always follow the commands of the masters. Without the influence of a stronger Eldrazi, Pawns can become crazed with violence, and attack other creatures and other Pawns with impunity. Some Pawns retain their pesonalities and thoughts, and can instead serve as sleeper agents, futhering the Eldrazi's goals.
-
-	Pawn of Ulamog (Commoner)
-		Hp: 20 | Ac: 13 | Prof: 2
-		Str: 2^ | Dex: 2^ | Con: 2 | Int: -3 | Wis: -1 | Cha: -3
-
-		Longsword: 1d8 +2 (+4) | Claws: 1d6 +2 (+4)
-		Speed 40
-
-	Pawn of Ulamog (Soldier)
-		Hp: 40 | Ac: 16 | Prof: 2
-		Str: 3^ | Dex: 3^ | Con: 3 | Int: -2 | Wis: 0 | Cha: -2
-
-		2 Attacks
-		Longsword: 1d8 +3 (+5) | Claws: 1d6 +3 (+5)
-		Speed 40
-
-	Pawn of Ulamog (Veteran)
-		Hp: 60 | Ac: 17 | Prof: 3
-		Str: 4^ | Dex: 4^ | Con: 4 | Int: 0 | Wis: +1 | Cha: 0
-
-		2 Attacks
-		Longsword: 1d8 +4 (+7) | Claws: 1d6 +4 (+7)
-		Speed 40
-
-Spawn of Ulamog
-	Spawns of Ulamog are twisted, vaguely humanoid creatures that excrete from stronger Eldrazi. They are hairless, and have a featureless head except a circular mouth with barbed teeth, accompanied by purpleish-green, slimy skin. Crawling along the ground with four clawed arms and suprising dexterity, the Spawn's legs are missshapen and useless, just deformed appendaged that trail behind it. The Spawn is a mockery of humanity, and prefers to ambush its targets, able to crawl up walls and along cielings.
-
-	Hp: 15 | Ac: 13 | Prof: 2
-	Str: 0 | Dex: 3^ | Con: 0 | Int: -1 | Wis: 2^ | Cha: -1
-	Speed: 20
-
-	Bite: 1d4 (+5) | Claws: 1d6 +3 (+5)
-
-	Pack Tactics: The Spawn gets advantage on attacks when adjacent to a friendly target.
-	Nimble Escape: The Spawn can use a disengage or a hide action as a bonus action on its turn.
-	Eviscerate: If the Spawn has advantage on its bite attack, it does an extra 2d6 damage
-
 Eldrazi Grunt
 
 Eldrazi Prowler
@@ -355,6 +313,11 @@ Rapacious One
 
 Spawnsire of Ulamog
 Ulamog's Crusher
+Ulamog's Despoiler
+Pathrazer of Ulamog
+Void Winnower
+
+Ruin Processor
 
 Eldrazi Titans:
 
