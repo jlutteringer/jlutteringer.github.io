@@ -1,5 +1,9 @@
 # The Outcast
 
-Land: Zerrikania
-Clan Name: 
-> Zerrikania is a vast desert on the west coast of the Eastern Continent. Known for an inhospitable climate and vicious wildlife, the desert is home only to the most hardy settlments, who despite centuries experience living 
+> Zerrikania, a vast desert on the west coast of the Eastern Continent. Known for an inhospitable climate and vicious wildlife, the desert is home only to the most hardy settlments, who despite centuries experience living in this hellscape still find themselves locked in a constant struggle for survival. Oral legends, passed down for centuries among the various tribes, speak of Zerrikania as a lush oasis, a cradle of civilization. They say that it was years of warfare which dried the rives and blighted the crops, reducing paradise to nought but ash and sand. It is this land that marks the tribe's inheritance - the remnants of a much greater civilization long lost to time.
+
+> Even in the present Zerrikania struggles to escape its war torn roots. Wars between the various tribes soak the sands red with blood in a never ending competition against scarcity. It is not uncommon for a tribe to sacrifice dozens of its warriors in defense of one of the few remaining oasis' which dot the land. One oasis dwarfs the other, a place like the old times, a place unscarred by war. The Oasis of Shar sits in the middle of this desert, alongside the coast. It is an unnatural and holy place, a place which is bathed in eternal darkness. The vegetation there winds into twisted shapes, almost like a cavern fungus, and a think purple moss blankets the ground. Dew hangs in the humid, almost stifling air - the Land of Shar has little want for water where it rains almost every afternoon.
+
+> So becomes our hero, Mirabelle. Born into the Crane Tribe, the zealous defenders of the Oasis of Shar and worshippers of the goddess for whom it is named.
+
+> Im not finished :(
