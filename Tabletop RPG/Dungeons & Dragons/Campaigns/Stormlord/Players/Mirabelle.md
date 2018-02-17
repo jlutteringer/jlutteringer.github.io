@@ -6,4 +6,4 @@
 
 > So becomes our hero, Mirabelle. Born into the Crane Tribe, the zealous defenders of the Oasis of Shar and worshippers of the goddess for whom it is named.
 
-> Im not finished :(
+> Im not finished :(=[]

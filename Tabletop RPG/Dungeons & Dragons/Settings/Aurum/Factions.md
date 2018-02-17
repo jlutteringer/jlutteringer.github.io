@@ -74,5 +74,6 @@ Nali's current house. Aligned with the White Hand, and the Artisan's Guild. Lead
 
 ### House Drom
 
+## Laanhone Elves
 
-
+### The Bladesingers

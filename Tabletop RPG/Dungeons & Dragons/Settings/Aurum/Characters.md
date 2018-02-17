@@ -36,3 +36,5 @@ High Chancellor of the Avernian Council and member of the Orlesian Rose
 
 ## Nastor Alastain
 > Dressed in bright, flamboyant colors including a gold-yellow jerkin worn over a deep-blue woolen doublet, Nastor Alastain seemed exactly in his element next to the opulence of the palace. He was a physically imposing man; nearly seven feet tall and bald, with a rather noticeable stomach. With his arms folded across his chest the man gave the impression of a scrubbed pig.
+
+## Martin Rutherford

@@ -149,7 +149,7 @@ Describe the other characters as Radovid introduces them.
 > Read Description in Settings > Aurum > Locations > Verns > Palace Isle > Palace of the White Opal > Palace Lawns
 
 King Heclair's speech:
-> People of Verns. As you all know our brothers and sisters in Westwind have suffered a horrible tragedy over the past week. I speak for our city, our nation, and our Republic when I say that our deepest sympathies go out to them. Loss is always a challenge, but we as a people must begin to accept that loss is our new way of life. Make no mistake - we are at war both here and at the front. These fiends, these denizens of hell, would like nothing more than to destroy all we have built - to bring humanity to its very knees. We will not let them! The Republic's Legions will stand against the darkness and prevail! We will stand against darkness to the very end.
+> People of Verns. As you all know our brothers and sisters in Westwind have suffered a terrible tragedy over the past week. I speak for our city, our nation, and our Republic when I say that our deepest sympathies go out to them. Loss is always a challenge, but we as a people must begin to accept that loss is our new way of life. Make no mistake - we are at war both here and at the front. These fiends, these denizens of hell, would like nothing more than to destroy all we have built - to bring humanity to its very knees. We will not let them! The Republic's Legions will stand against the darkness and prevail! We will stand against darkness to the very end.
 
 > And so, it is with this in mind that we honor the fallen and celebrate their sacrifice, their lives, and our victory. The Cult of the Unseeing Eye has been defeated, their plans foiled. We as a people are victorious! So let us not give in to our biases. Let us not make an enemy of our neighbor. No! Let us reject cinisism and reject fear! If we cannot stand here now, as one people, then what hope do we have to face the enemy at our doorstep? To face the coming apocalypse!? We will stand togther, and we will stand resolute!
 
@@ -170,6 +170,7 @@ Find information about the New Shadow Thieves for the mysterious Galeen Bayle.
 
 ### Loghain's Secrets
 Digging up dirt on loghain
+Drogan Steelwrought
 
 ### Loose Ends
 Cleaning up the Cult of the Unseeing Eye
@@ -182,7 +183,18 @@ The players can do what they please in Verns - they've earned the rest.
 
 ## Apocalypse
 
+Phillip will awaken in a cold sweat. He will feel a strong connection to the Eldrazi. Give him the option to resist or embrace the call. If he resists, make a Wisdom saving throw or suffer one level of exhaustion. If he embraces the power, her gains the benifits of Foresight.
+
+> Chaos reigns. The south of Verns stands brigtly ablaze against the morning's twilight, a result of the explosions which shook the city only moments before. Soot and ash fill the air contributing a sense of panic on the streets of the city which the ringing of warning bells does not abate. Soldiers from the garrison have already begun to arm themselves and stream into the streets, no doubt readying themselves for the coming storm.
+
+### The Northern Garrison
+Under the leadership of the Order forces gather at the northern garrison, ready to push south into the city. The players will consult with Rhys and her war council oh how to proceed.
+
 ### Separated
+> Suddenly a great crack of thunder shook the platoon to its very foundations. Arcing from the top of the palace, a greenish bolt of energy surged skyward, illuminating the early morning sky in a sickly green glow. It would have almost been awe inspiring was it not for the sky tearing itself asunder. All the people of Verns stared up into another ream, a realm with which you were well aquainted.
+> Now suspended in the sky above the city was a vast desert, with pockets of rocky outcroppings breaking up the rolling, sandy hills. The Eldrazi had come. Large geometric shapes, seemingly molded out of single blocks of stone, hovered in the air and slowly descended past the barrier between worlds. The craft themselves were too numerous to count. Above them was a creature so gargautuan it defied all logic. One who's name had already been burned into your minds - Emrakul. The apocalypse had come.
+
+DC 15 perception check to spot the incoming Hedron and warn the troops. If no warning, DC `12` dex save to avoid taking `1d6` damage and being trapped under rubble. Players can free trapped soldiers or other players with a DC `12` strength check.
 
 ### Blowing the Bridges
 A small coalition of legionaires gathers around the north end of a major bridge in Verns. The Watcher joins them as they intend to hold the line until the bridge can be destroyed. With the players help, The Watcher puts her plan into motion - she explains the situation and then gives the players a few minutes to plan. Soon the encounter will begin as the Eldrazi front arrives.
@@ -202,7 +214,7 @@ The second stories of two large homes which flank the bridge make perfect archer
 The demolition team has a small boat docked on the northern bank and plans to sail to each support pillar and arm explosives at the base. It takes `1` round to sail to a pillar and `1` round to attach the explosives. The team has a toughness of `3` and loses `1` toughness for each engaged enemy at the end of each round. While engaged, the demolition team cannot make progress. Additionally, the demolition team's boat can only hold `2` players or `1` support squad. The player's might come up with an innovative way to arm the explosives more quickly - these alternative methods should be encouraged and the DM should adjucate appropriately.
 
 ##### Support Squads
-Finally, the players have `3` melee support squads which they can assign additional orders. The squad has a toughness of `4` and loses `1` toughness for each engaged enemy at the end of each round. Additionally, if the squad survives after taking damage at the end of the round it kills one unit which it is engaged with.
+Finally, the players have `3` melee support squads which they can assign additional orders. The squad has a toughness of `3` and loses `1` toughness for each engaged enemy at the end of each round. Additionally, if the squad survives after taking damage at the end of the round it kills one unit which it is engaged with.
 
 ##### Round by Round
 At the beginning of each round, roll 1d20 + current round number. If the roll is > `11`, roll `3` times to determine where the Eldrazi attack. Otherwise roll once.
@@ -214,11 +226,10 @@ Roll randomly to determine which point gets attacked. Duplicated rolls mean that
 * Demolition Team
 
 Then, for each attack, roll randomly on the table below to determine the type of attacking unit:
-TODO
-* Flying Dude
-* Sword arm dude
-* Zombie dudes
-* Manipulator
+* Wrack Spawn (2)
+* Ulamog's Crusher
+* Defiler
+* Manipulator (3)
 
 ##### Round 3
 On the beginning round 3, a DC `15` perception check will reveal that an Eldrazi prism is heading for tower. If a player is stationed in the right tower, the can make this check with advantage. 

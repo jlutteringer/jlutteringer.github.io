@@ -253,6 +253,9 @@
 | Grasping Tendrils | Descripton |
 | Conscription | Description |
 
+
+### Wrack Spawn
+
 ### Ulamog's Despoiler
 
 ### Ulamog's Crusher

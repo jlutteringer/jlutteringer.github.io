@@ -36,113 +36,6 @@
 
 ## Loghain's Manor
 
-Dining Hall > Entry Hall, Back Hall, Kitchers, Back Lawn
-
-### Outer Wall
-
-#### Potential Weakness
-House in the back
-
-### Manor Lawn
-* Entry Hall
-* Back Lawn
-
-### Back Lawn
-* Manor Lawn
-* Dining Hall
-
-### Entry Hall
-* Manor Lawn
-* Study
-* Dining Hall
-
-### Back Hall
-* Study
-* Upstairs Staircase
-* Dining Hall
-* Trophy Room
-* Washroom 1
-
-### Study
-* Entry Hall
-* Back Hall
-
-### Kitchens
-* Dining Hall
-* Larder
-* Basement Staircase 1
-
-### Larder
-* Kitchens
-
-### Dining Hall
-* Entry Hall
-* Back Hall
-* Back Lawn
-* Kitchens
-
-### Master Bedroom
-* Upstairs Hall
-* Washroom 3
-
-### Bedroom 2
-* Upstairs Hall
-
-### Bedroom 3
-* Upstairs Hall
-
-### Washroom 1
-* Back Hall
-
-### Washroom 2
-* Upstairs Hall
-
-### Washroom 3
-* Master Bedroom
-
-### Upstairs Hall
-* Master Bedroom
-* Bedroom 2
-* Bedroom 3
-* Washroom 2
-
-### Trophy Room
-* Back Hall
-* Secret Basement Staircase
-
-### Secret Basement Staircase
-* Armory & Training Room
-
-### Basement Landing
-* Servant's Quarters
-* Armory & Training Room
-* Cellar
-
-### Armory & Training Room
-* Basement Landing
-* Servant's Quarters
-* Secret Room
-
-### Secret Room
-* Armory & Training Room
-
-> Oh Mighty Lord, by whom all things are set free, I cast myself utterly into thine arms and place myself unreservedly under thy all powerful protection. Comfort me and deliver me from all of the hindrances and snares of those who wish to harm me, both seen and unseen. 
-
-> Visit justice and vengeance upon those who seek my destruction. Render them powerless and devastated. Direct their malice to return upon them tenfold and to destroy them who would resent my being. 
-
-> Fill my soul with thy invincible power, strengthen me, that I may persevere in my service, and act as an agent of thy works and a vessel of thy will. 
-
-> This I ask in your name, almighty and ineffable Lord who liveth and reigneth forevermore. 
-> Ave Satanas
-
-### Servant's Quarters
-* Basement Landing
-* Armory & Training Room
-* 
-
-### Cellar
-* 
-
 ## Sewers
 ### Sewers - Glass Half Full
 #### 1. Rift Entrance
@@ -151,7 +44,7 @@ House in the back
 #### 2. Hermit's Hideway
 > It is unlikely you would even learn the fate of the helpful guide, Lucas, and his dog but you came to find his camp abandoned and littered with useless refuse.
 
-If the players search Lucas' camp, they will discover a small shining orb buried beneath the refuse with a DC 12 Investigation check. A DC 15 Arcana check will reveal it to be an Arcane Eye, a sophisticated scrying device. It is likely that whomever conjured they eye could see through it even now.
+If the players search Lucas' camp, they will discover a small shining orb buried beneath the refuse with a DC 12 Investigation check.   A DC 15 Arcana check will reveal it to be an Arcane Eye, a sophisticated scrying device. It is likely that whomever conjured they eye could see through it even now.
 
 #### 3. Twisting Passages
 
