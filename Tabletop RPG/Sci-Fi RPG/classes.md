@@ -63,32 +63,34 @@ Commando's are the versatile leaders of the battlefield, controlling enemy comba
 | Primary Attribute | Agility |
 | Weapon Proficiency | Medium |
 | Armor Proficiency | Heavy |
-| Base Health | 24 |
+| Hit Die | d10 |
 
 ### Starting Equipment
 * Carbine
 * Handgun
-* Silencer
 
 ### Abilities
 | Level | Proficiency | Features                                                                         |
 | ----- | -----       |----------------------------------                                                |
 | 1     | +2          | Tactical Visor, Overwatch                                                        |
-| 2     | +2          | Soldier's Endurance, Weapon Specialization (proficient), Tech Hardpoint (low)    |
-| 3     | +2          | Run and Gun, Tech Hardpoint (medium)                                             |
+| 2     | +2          | Soldier's Endurance, Weapon Specialization, Tech Hardpoint [Low]                 |
+| 3     | +2          | Run and Gun, Tech Hardpoint [Medium]                                             |
 
-#### Tactical Visor [grid]
+#### Tactical Visor [Grid]
 * Action: Standard
 * Endurance: High
 * Duration: 10 Rounds
 * Effect: Empowered Rounds
+
     * Target: Self
-    * Basic attacks deal an additional `1d8 [AGI]` damage
+    * Attacks deal an additional `1d8 + [AGI]` damage
     * Ignore vision-based effects such as smoke or blur which would give the soldier's attacks disadvantage
 * Effect: Advanced Targeting
     * Target: Creature
-    * Basic attacks from the caster have advantage against the affected target
-* Passive Effects
+    * Duration: 1 Round
+    * The Commando's hits mark the target with Advancet Targetng, confering advantage on the next allied attack
+* Effect: Blah
+    * 
     * Provides the same function as a Grid Integrated Visor
     * Confers disadvantage on stealth checks
     * Confers darkvision to the wearer
@@ -105,7 +107,7 @@ When activated, the visor can be used to target a specific enemy. This targeting
 * Duration: Round
 * Range: Melee
 * Target: Area[Burst[Weapon]]
-* Any creature which does not have cover and is moving in the area immediately triggers an opportunity attack from the Commando. This opportunity attack does not consume a reaction. If a target is hit in this manner, they immediately lose all remaining movement.
+* Any creature which does not have cover and is moving in the area immediately triggers an opportunity attack from the Commando. This opportunity attack does not consume a reaction. If a target is hit in this manner, it immediately loses all remaining movement.
 
 The Commando applies supressive fire over an area, locking down all combatants. For the duration, if any enemy moves out of cover they immedaitely trigger the Commando's opportunity attack. The stopping power of these shots is so great that it causes the vicim to lose all of their remaining movement if struck.
 
@@ -120,9 +122,8 @@ The Commando's conditioning makes him especially durable in combat and allows hi
 #### Run and Gun
 * Action: Bonus
 * Endurance: Low
-* Gain the effects of the dash, disengage, and dodge actions.
+* Gain the effects of the dash and disengage actions.
 * Can move after making ranged attacks.
-* Ignore cumbersome property of weapons.
 
 Commandos are the most mobile and versatile ranged combatants on the battlefield. By pushing himself to his limits, the Commando can move at an incredible speed, making lightning strikes and avoiding enemy fire.
 
@@ -145,6 +146,7 @@ Commandos are the most mobile and versatile ranged combatants on the battlefield
 | 3     | +2          | Warrior's Fury                     |
 
 #### Rage
+* 
 Each time the Marauder deals damage with a standard attack, or takes damage from an attack he gains `1` point of rage. These rage points can be used to excecute special abilities. Rage points are depleted at the end of combat.
 
 #### Rage Costs
@@ -180,7 +182,7 @@ The Marauder chooses to specialize in one of three ancient battle disciplines, g
         * Gain: Inferno Strike
 
 #### Zephyr Strike
-_"Soft o'er the shrouds aerial whispers breathe, that seemed but zephyrs to the train beneath."_  
+> "Soft o'er the shrouds aerial whispers breathe, that seemed but zephyrs to the train beneath."
 * Action: Bonus
 * Duration: Turn
 * Rage Cost: High
@@ -202,7 +204,7 @@ The Marauder interposes his shield in between his allies and his foes, granting 
 While channeling, the Marauder cannot move, change direction, or take any action. Moving the shield requires recasting the ability.
 
 #### Inferno Strike  
-_"He makes the winds his messengers, flaming fire his ministers."_
+> "He makes the winds his messengers, flaming fire his ministers."
 
 * Action: Full
 * Rage Cost: High
@@ -217,7 +219,7 @@ _"He makes the winds his messengers, flaming fire his ministers."_
 Primal fire surrounds the Marauder's weapon, surging ahead in a line as the warrior hefts it forward, striking all enemies in the area of effect. Enemies are engulfed in a roiling torrent of supernatural flame, a testament to the Mubarak faith and power.
 
 #### Warrior's Fury 
-_"Ideals are peaceful. History is violent."_
+> "Ideals are peaceful. History is violent."
 
 * Action: Bonus
 * Endurance Cost: Very High

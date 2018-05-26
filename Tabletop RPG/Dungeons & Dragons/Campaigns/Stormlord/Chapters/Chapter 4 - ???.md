@@ -45,11 +45,13 @@ Without aid, the Vernian Refugees will ultimately seek asylum in Avernus and the
 
 ### Sons of Thunder
 * Remain undetected
+    * Rise to power under the banner of the New Republic
 * Revive Talos, the Stormlord
     * Aquire sources of strong magical energy
     * Find a suitable host for Talos' avatar
 * Revive the black dragon, Serevain
     * Siege Seabide
+    * Aquire the Soul Cairn
 * Contain the Black Blood of Helm
 * Raise an army at the Stormforge in Verns
     * Recruit powerful mages from the surrounding provinces
@@ -113,7 +115,7 @@ Without aid, Galeen Bayle and his vampire minions will cripple the growth of the
 * Defeat the Shadow Thieves
 * Grow the guild in Ahugin Breach
 * Enable the Sons of Thunder
-    * Aquire sources of strong magical energy
+    * Aquire sources of magical energy
     * Prep Ahugin Breach for invasion
     * Cut off the road to Verns
 
@@ -121,11 +123,13 @@ Without aid, Galeen Bayle and his vampire minions will cripple the growth of the
 
 ### The Soul Cairn
 
+### Godslayer
+
 ### The Heart of the Stormlord
 
 ### The Stormforge
 
 ### Holy Avenger, Carsomyr
 
-### Fragment of Zethothrax
+### Fragments of Zethothrax
 Fragment of Zuriel's sword.

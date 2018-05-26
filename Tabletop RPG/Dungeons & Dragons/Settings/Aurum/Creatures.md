@@ -133,14 +133,14 @@
 | Base Health | 100 |
 | AC | 14 |
 | Prof | `+3` |
-| Statistics | STR: `+3` DEX: `+1` CON: `+3` INT: `+1` WIS: `+3` CHA: `+3` |
+| Statistics | STR: `+4` DEX: `+1` CON: `+3` INT: `+1` WIS: `+3` CHA: `+3` |
 | Skills | STR, WIS, CHA |
 | Speed | 6 |
 | Size | Large |
 | Multiattack(2) | This creature makes 2 Basic Attacks. |
-| Greatsword [Basic Attack, Reach(1)] | `1d10 +3 [slashing] (+6)` |
+| Greatsword [Basic Attack, Reach(1)] | `1d10 +4 [slashing] (+7)` |
 | Overpower [Basic Attack]| Zuriel grapples a target and then throws it up to `6`.|
-| Investititure of Lightning [Recharge(6)]| As an action, Zuriel raises his greatsword in the air, summoning `3` Investiture's of Lightning within `60`ft. Each investiture is a medium vortex of lightning energy with `12` AC and `10` hitpoints. Whenever an investiture is struck with a melee attack, the attacker immediately takes `5` lightning damage and if a creature enters the Investiture's square it must make a DC `13` DEX save or be `stunned`. That creature may repeat it's saving throw at the end of each of its turns to end the effect and destroy the investiture, or the effect ends immdediately if the investiture is destroyed. A dispel magic aimed at one of these investitures ends the effect immediately. At the end of Zuriel's turn, each remaining investiture heals him for `10` hit points. Finally each active investiture adds an additional `1d6` lightning damage to his melee attacks. |
+| Investititure of Lightning [Recharge(6)]| As an action, Zuriel raises his greatsword in the air, summoning `3` Investiture's of Lightning within `60`ft. Each investiture is a medium vortex of lightning energy with `12` AC and `15` hitpoints. Whenever an investiture is struck with a melee attack, the attacker immediately takes `5` lightning damage and if a creature enters the Investiture's square it must make a DC `14` DEX save or be `stunned`. That creature may repeat it's saving throw at the end of each of its turns to end the effect and destroy the investiture, or the effect ends immdediately if the investiture is destroyed. A dispel magic aimed at one of these investitures ends the effect immediately. At the end of Zuriel's turn, each remaining investiture heals him for `10` hit points. Finally each active investiture adds an additional `1d6` lightning damage to his melee attacks. |
 | Legendary | Zuriel has `2` legendary actions per turn and `1` legendary resistance per day. |
 | Dash [LA(1)] | Zuriel moves up to his movement speed. This movement does not provoke opportunity attacks. |
 | Attack [LA(1)] | Zuriel makes one basic attack. |
@@ -255,10 +255,46 @@
 
 
 ### Wrack Spawn
+| Features | |
+|----|----|
+| Base Health | 22 |
+| AC | 11 |
+| Prof | `+2` |
+| Statistics | STR: `+1` DEX: `-1` CON: `+3` INT: `-2` WIS: `+0` CHA: `-1` |
+| Skills | STR, CON |
+| Claw [Basic Attac]| Basic Attack: `1d6 + 1 (+3)` |
+| Multiattack(2) | Description |
+| Speed | 20 |
+| Share the Pain | Whenever a wrack spawn takes damage that does not reduce it to 0 hit points, every creature within 10 feet of it that lacks this trait takes `2` psychic damage. |
 
 ### Ulamog's Despoiler
 
 ### Ulamog's Crusher
+| Features | |
+|----|----|
+| Base Health | 45 |
+| AC | 14 |
+| Prof | `+3` |
+| Statistics | STR: `+3` DEX: `-1` CON: `+3` INT: `-1` WIS: `+0` CHA: `-1` |
+| Skills | STR, CON |
+| Glaive [Basic Attack, Reach(5)]| Basic Attack: `1d10 + 3 (+6)` |
+| Multiattack(2) | Description |
+| Void Scream | The crusher selects up to three allies within 10 feet of it. Each takes 2 psychic damage and gains advantage on melee weapon attack rolls for it's next turn. |
+| Reap the Pain | Psychic damage instead gives the Crusher temporary hit points. |
+
+### Emrakul's Defiler
+| Features | |
+|----|----|
+| Base Health | 55 |
+| AC | 14 |
+| Prof | `+3` |
+| Statistics | STR: `+1` DEX: `+3` CON: `+2` INT: `+2` WIS: `-2` CHA: `-2` |
+| Skills | STR, DEX |
+| Speed | 40, flying |
+| Psychic Desolation [Recharge 4-6]| All targets within 5ft of the Defiler make an intelligence saving throw or take `3d6 psychic` damage. Targets who fail the saving throw have disadvantage on attack rolls next turn. |
+| Reap the Pain | Psychic damage instead gives the Defiler temporary hit points. |
+| Tentacle Swipe [Basic Attack] | The defile attempts to grapple a target. On a successful grapple the target takes `2d6` damage. The Defiler can grapple up to three targets this way and is unable to fly until it's next turn. Whenever a Defiler takes damage all grappled targets are given another chance to break free. |
+| Multiattack(2) | The Defiler makes 2 Basic Attacks |
 
 ## Gith
 

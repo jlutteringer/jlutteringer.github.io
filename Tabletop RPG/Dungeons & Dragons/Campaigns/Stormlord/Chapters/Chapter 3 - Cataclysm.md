@@ -190,6 +190,9 @@ Phillip will awaken in a cold sweat. He will feel a strong connection to the Eld
 ### The Northern Garrison
 Under the leadership of the Order forces gather at the northern garrison, ready to push south into the city. The players will consult with Rhys and her war council oh how to proceed.
 
+Lela Stonecutter
+Jeffries Roth
+
 ### Separated
 > Suddenly a great crack of thunder shook the platoon to its very foundations. Arcing from the top of the palace, a greenish bolt of energy surged skyward, illuminating the early morning sky in a sickly green glow. It would have almost been awe inspiring was it not for the sky tearing itself asunder. All the people of Verns stared up into another ream, a realm with which you were well aquainted.
 > Now suspended in the sky above the city was a vast desert, with pockets of rocky outcroppings breaking up the rolling, sandy hills. The Eldrazi had come. Large geometric shapes, seemingly molded out of single blocks of stone, hovered in the air and slowly descended past the barrier between worlds. The craft themselves were too numerous to count. Above them was a creature so gargautuan it defied all logic. One who's name had already been burned into your minds - Emrakul. The apocalypse had come.
@@ -228,7 +231,7 @@ Roll randomly to determine which point gets attacked. Duplicated rolls mean that
 Then, for each attack, roll randomly on the table below to determine the type of attacking unit:
 * Wrack Spawn (2)
 * Ulamog's Crusher
-* Defiler
+* Emrakul's Defiler
 * Manipulator (3)
 
 ##### Round 3
@@ -279,6 +282,8 @@ If Zuriel kills Watcher before being weakend, Zuriel will survive and the player
 Finally, if the players flee from Zuriel after he is wounded. They will both recover both the `Holy Avenger` and protect Verns, but Zuriel will survive his wounds and eventually recover.
 
 The best outcome results in the defense of Verns, the recovery of the `Holy Avenger` and the death of the fallen angel.
+
+### Aegis Front
 
 ### Fort Brag
 

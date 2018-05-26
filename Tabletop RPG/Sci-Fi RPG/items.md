@@ -43,32 +43,133 @@ stealth disadvantage
 * Area: This weapon's attacks strike in an area. Make attacks against all targets in the area.
 * Piercing: This weapon's attacks bypass soak value.
 
-### Light Weapons
-_Handgun_  
-1d4 (medium, ballistic)
+### Weapon Types
+#### Sidearm
+> Description
+* *Specialization - Close Quarters*: When you are within short range of an enemy, and they are not using a short range or melee weapon, you have advantage on attacks with sidearms.
+* *Concealment*: You have advantage on checks to hide sidearms on your person.
+* Attacking with a sidearm ignores the disadvantage penalty for firing a ranged weapon while engaged in melee.
 
-* Concealment: You have advantage on checks to hide this weapon on your person.
-* [Specialization] Close Quarters: When you are within short range of an enemy, and they are not using a short range or melee weapoon, you have advantage on attacks with handguns.
+#### Sub-Machine Gun
+> Description
+* *Specialization - Eat Lead!*: Sub-machine guns can now be wielded with one hand. Additionally, you gain dual wield specialization with sub-machine guns.
 
-_Sub Machine Gun_  
-1d6 (medium, ballistic, two-handed)
+#### Hand Cannon
+> Description
+* *Specialization - Duelist*: While your offhand is free, range with hand cannons is raised to one range increment and attacks deal an additonal `1d8` damage.
 
-* [Specialization] Eat Lead!: Sub machine guns are now one handed. Additionally, you are treated as having dual wield specialization with sub machine guns even if you do not have dual wield specialization.
+#### Carbine
+> Description
+* *Specialization - Suppression*: Attack the target's `WILL`. On a success the target is suppressed for one round. While suppressed, the target is dazed. Moving will end the supression effect, but grant the attacker an opportunity attack with advantage.
 
-_Short Blade_  
-1d6 (melee, physical)
+#### Shotgun
+> Description
+* *Specialization - Bullet Storm*: Whenever you strike a creature with an attack, the attack also targets an adjacent creature of your choice.
+* Attacking with a shotgun ignores the disadvantage penalty for firing a ranged weapon while engaged in melee.
 
-_Riot Baton_  
-1d4 (melee, physical)
+#### Precision
+> Description
+* *Specialization - Called Shot*: Spend an action to focus on a target. For the next two rounds, attacks against that target have advantage and ignore cover.
 
-_Dagger_  
-1d4 (melee, physical)
+#### Simple Melee
+> Description
+* *Specialization - Cruelty*: Suprise attacks with simple melee weapons always critically hit.
 
-* Concealment: You have advantage on checks to hide this weapon on your person.
-* [Specialization] Cruelty: Suprise attacks with daggers always critically hit.
+#### Melee
+> Description
+* *Specialization - Collosus Slayer*: When attacking an already damaged target, deal an additional `1d8` damage.
 
-_Stun Stick_  
-1d4 (melee, energy)
+#### Siege
+> Description
+* *Specialization - Siege*: The specializations of siege weapons vary with the weapon type.
+
+#### Special
+> Description
+* *Specialization - Special*: The specializations of special weapons vary with the weapon type.
+
+### Weapon Templates
+> Description
+
+#### Handgun
+> Description
+
+* _Damage_: `1d4`, Ballistic
+* _Range_: Short
+* _Size_: One-handed
+* _Type_: Sidearm
+
+#### Sub-Machine Gun
+> Description
+
+* _Damage_: `1d6`, Ballistic
+* _Range_: Medium
+* _Size_: Two-handed
+* _Type_: Sub-Machine Gun
+
+#### Dagger
+> Description
+
+* _Damage_: `1d6`, Physical
+* _Range_: Melee
+* _Size_: One-handed, Finesse
+* _Type_: Simple Melee
+
+#### Hand Cannon
+> Description
+
+* _Damage_: `1d8`, Ballistic
+* _Range_: Short
+* _Size_: One-handed
+* _Type_: Hand Cannon
+
+#### Shotgun
+> Description
+
+* _Damage_: `2d6`, Ballistic
+* _Range_: Short
+* _Size_: Two-handed, Heavy
+* _Type_: Shotgun
+
+#### Carbine
+> Description
+
+* _Damage_: `1d10`, Ballistic
+* _Range_: Long
+* _Size_: Two-handed
+* _Type_: Carbine
+
+#### Sniper Rifle
+> Description
+
+* _Damage_: `1d12`, Ballistic
+* _Range_: Extreme
+* _Size_: Two-handed
+* _Type_: Precision
+* *Unwieldy*: The Sniper Rifle has disadvantage when attacking targets in medium range or closer.
+
+#### Bow
+> Description
+
+* _Damage_: `1d8`, Physical
+* _Range_: Long
+* _Size_: Two-handed
+* _Type_: Precision
+
+#### Longsword
+> Description
+
+* _Damage_: `2d6`, Physical
+* _Range_: Melee
+* _Size_: Two-handed
+* _Type_: Melee
+
+#### Staff
+> Description
+
+* _Damage_: `2d4`, Physical
+* _Range_: Melee, Reach
+* _Size_: Two-handed
+* _Type_: Melee
 
 ### Medium Weapons
 _Hand Cannon_  
