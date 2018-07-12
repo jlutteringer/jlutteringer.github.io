@@ -1,7 +1,7 @@
 # Factions
 
 ## The Republic
-It was the Kingdom of Orleans, under the wise leadership of King Radovid Heclair II which architected the infantile republic. As political tensions between the six independent nations rose, Orleans, allying itself with Redmont, put its neighbors to the sword. So the federation of six independent states was brought by force, sealing the losers into a pact of cooperation which has presided over the Pontar for a decade and a half.
+It was the Kingdom of Orleans, under the wise leadership of `King Radovid Heclair II which architected the infantile republic. As political tensions between the six independent nations rose, Orleans, allying itself with Redmont, put its neighbors to the sword. So the federation of six independent states was brought by force, sealing the losers into a pact of cooperation which has presided over the Pontar for a decade and a half.
 
 While the sting of battle is still raw for many of the member states, this great experiment has undeniably been a success. The Orlesian Rose, a council of representatives from each state, ensures that all voices are heard and cooperation is fostered between it's members. It is Religion which serves as the major uniting force for the Republic tieing it's people together under worship of the three major deities of the Elniah - Lathandar, Helm, and Mielikki.
 
@@ -73,7 +73,7 @@ While the Avernian government can't directly support the subersive actions taken
 An institution of higher magic learning in Avernus.
 
 ### The Alamin
-A combination of Helm, Lathander, and Mielikki
+A religious institution combining worship of Helm, Lathander, and Mielikki
 
 ### The Avernian Nobility
 #### House Durar
