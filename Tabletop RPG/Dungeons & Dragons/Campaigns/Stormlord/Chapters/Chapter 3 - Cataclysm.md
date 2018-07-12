@@ -284,9 +284,54 @@ Finally, if the players flee from Zuriel after he is wounded. They will both rec
 The best outcome results in the defense of Verns, the recovery of the `Holy Avenger` and the death of the fallen angel.
 
 ### Aegis Front
+> DESCRIBE THE DISTANT FORT BRAG
+
+> Brilliant sunlight split the storm which now raged around Fort Brag and the Third Legion, a waning sign that dawn had finally broken across the battlefield. The first rays of light came accompanied by a thunderous boom, drowning out the calamaty of strife. A great figure entered on that rolling thunder, appearing in the sky clad in gleaming platemail against the sunlight and suspended by a pair of etheral wings. The archangel spoke in regal tones, its voice commanding the attention of the battle below.
+
+> Denisens of the Mortal Realm: the heavens have not abandoned you! It is fitting, that in mankind's final hour, men and angels once more draw blades togther to fight back the darkness and usher in a glorious New Dawn. Let the halls of Mount Celestia ring with the command of Lathandar, the Morning Lord - "No longer will I stand in apathy towards my subjects. For the Golden Sun and for humanity's legacy! We will banish these creatures back to the abyss from which they crawled!"
+
+> The armies of heaven arrive.
+
+### Encounter with Drogan Steelwrought
+On the way to Fort Brag, the party will encounter Drogan Steelwrought, some hired hands, and a cart which carries the merchant's most valuable belongings. Drogan himself will be wearing his suit of modular platemail, and carrying a heavy repeating crossbow.
+
+One of the merchant's four guards will have succumbed to a manipulator, and the group will be debating on what to do with him, with Drogan strongly favoring leaving the man behind.
+
+Items of Note:
+* 2 Heavy Repeating Crossbow - As a heavy crossbow but removes the loading property.
+* Modular Platemail - As platemail, but can be donned and doffed in a single round.
+* Boots of Speed
+* 3 vials of alchemist's fire
+* 3500 gold
 
 ### Fort Brag
+> DESCRIBE THE BATTLE
+
+#### Outside the Fort
+* 1 Planetar
+* 6 Legion Soldier
+* 2 Pathrazer of Ulamog (Full health and 120 health)
+* 1 Ulamog Crusher
+* 3 Wrack Spawn
+* Each round roll `1d6` on a `6` another crusher engaged, on a 4 or 5 another wrack spawn engages
+
+Outside of the fort, characters will be unprotected from Alerack's barrier and will be subject to Caliphus' Storm of the Century ability.
+
+#### The Gates
+* Rhys Auralian
+* 1 Legion Soldier
+* 2 Ulamog Crusher
+* 2 Wrack Spawn
+
+#### The Walls
+* 2 Siege Operators
+* 2 Emrakul's Defiler
+
+// TODO need stats for ballista
+
+Loghain arrives with the Rikesgaard at the beginning of round 6, and will deal with the Pathrazer. Loghain will instruct any soldiers on the field to regroup back at Fort Brag.
 
 ### To the King!
+> DESCRIBE THE BRIDGE
 
 ### Retreat

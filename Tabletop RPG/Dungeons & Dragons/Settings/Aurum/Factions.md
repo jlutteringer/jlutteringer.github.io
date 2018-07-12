@@ -20,10 +20,17 @@ The Order of the Vigilant Eyes was formed well before the creation of the Republ
 
 Many people, even those in the Order, acknowledge that these are merely tales designed to highlight the true purpose of the order - protecting mankind from the desctruction wrought by malicious outsiders. Since the formation of the Republic, the Order has taken a more active role in the military, often serving as officers in the Legions, or leading special task forces. Recently, there has been a schism within the Order, as its Elders push against the military involvement and try to keep the Order focused on its 'true' goals.
 
+### The Circle of Mages
+Known as individually as Circle Mages, the Circle of Mages is the intitution for regulating magic, its training and use, throughout the Republic. Prior to the formation of the Republic, it was the premier guild for mages and magic related activites in Orleans, dedicated to the study and advancement of the magical sciences. In the Republic era, the Circle has grown incresingly heavy-handed and beauracratic in an effort to achive its mandate to reign in the public's use of magic. They adminster both the mage licensing system and function as the governing body for the Coweled Wizards to this effect.  
+
+The Circle is organized into nine councils, individually called Circles, corresponding to each tier of spellcasting. Each council typically has somewhere between five and ten serving mages but the actual number of council members is determined by each individual Circle. The head of the Ninth Circle and primarch of the Circle of Mages is Tolbias Storn, an Orleasian mage who was instrumental in defeating the White Hand during the Sundering War.
+
+After the Cowled Wizards's betrayl of the Republic at Spellhold, many high ranking members of the Circle were slain, including Storn. In the intervening Eldrazi Crisis the Circle of Mages would never recover, and such magic was de-facto legalized.
+
 ### Cowled Wizards
 Mostly made up of high ranking mages from the Mage Circle in Orleans, the Cowled Wizards were formed shortly after the creation of the Republic as the primary means to enforce the new regulations on arcane magics. During the Sundering war, arcane magic devastated infantry on both sides and, at the war's conclusion, the Orlesian Rose outlawed the practice of magic without an appropriate license.  
 
-The Cowled Wizards have locations in most large cities, but are headquartered in Vern. Additionally, the magical prison of Spellhold sits in Antion, and is used to house magical deviants.  
+The Cowled Wizards have locations in most large cities, but are headquartered in Vern. Additionally, the magical prison of Spellhold sits in Antion, in the Alluvian Gulf Region, and is used to house magical deviants.  
 
 After the Cowled Wizards's betrayl of the Republic at Spellhold and the subsequent destruction of the prison, the Cowled Wizards gradually faded into irrelevance. While the Repbulic's laws against magic were technically still on the books the state lacked the means of enforcement both in terms of funding and officials with the wearwithal to rebuild the organization after the deaths of most of it's senior leadership.
 
@@ -41,38 +48,40 @@ Unlike common thieves and pirates, the Shadow Thieves prefer political espionage
 With the Awakening of the Eldrazi, the Shadow Thieves suffered from an attack coordinated by it's leader, Les Stroud, who targetd the other guildmasters in the organization. After the attack and with much of its leadership dead, Victor Montague, a former guildmaster, took up leadership of the Shadow Thieves. Although Montague was a capable leader, the Shadow Thieves saw much of the influence they once wielded slip from their grasp. With Montague at the helm, it became public knowledge that the Shadow Thieves' prime direction was to protect the Eldrazi Seals from tampering and Montague lead his acolytes to that end, a fight which steadily reduced the numbers of the organization.
 
 ## The Cult of the Unseeing Eye
+A mysterious cult responsible for several instances of mass killing across the Republic, predominantly in Orleans and the Alluvian Gulf Region. It was later revealed that the cult leadership were devout followers of Talos, and were working in tandem with Les Stround to bring about return of the Eldrazi. Under the leadership of the cunning Visier Caliphus, membership in the cult has swelled and it represents an existential threat to the realm.
 
 ## The Branded
-The Branded are a rebel organization based in the island city of Antion who oppose the Republic's presence there and want to see Antion status as an idependent city state returned. They are mostly natives to Antion, and believe that the citizens of Antion should be in control of their own desity.  
+The Branded are a rebel organization based in the island city of Antion, in the Alluvian Gulf Region, who oppose the Republic's presence there and want to see Antion status as an idependent city state returned. They are mostly natives to Antion, and believe that the citizens of Antion should be in control of their own desity.  
 
 Members are typically initiated with a circular branding around the wrist - hence the name. The Branded are a carry over from and insurgent group with the same name that fought off Orlesian troops during the Sundering War and kept Antion independent until its close, when it was forced to submit to the Republic as part of the surrender of the Alluivan Gulf region. Since the surrender, many of the original Branded were imprisoned or executed, but it is rumored that their leader. Brant Eiseman, was one of the original freedom fighters and clashed openly with Orlesian soldiers.  
 
 In the last 15 years, the Branded have worked to politically undermine the current Republic-appointed governor, and to disrupt Republic operations while attempting to avoid direct conflict with the Legion. Lately, however, they have been in open conflict with the Blackfist pirates who have taken defacto control of most of the city in an attempt to protect the general populace, and have been protesting the Republic's lack of protection. The populace generally views the Branded as protectors of the people, but reckless.
 
-## Council of Faceless Lords
+## Avernus
+### Council of Faceless Lords
 
-## The White Hand
+### The White Hand
 Prior to the Sundering War, the White Hand was a secretive order of elite mages that were representative of some of the more powerful noble houses in Taris. The order was comitted to advancing the secrets of magic and humanity's magical ability by any means necessary, often resorting to reckless or even dangerous experiments. It is said that mages of the White Hand equal or even surpass the abilities of the Circle mages of Orleans.  
 
 During the war and after, the White Hand was driven underground by the Republic's new spellcasting regulations and the White Hand became more involved in political intrigue and intelligence gathering. As a punisment for atrocities comitted in the Sundering War, few Avernian mages were granted licenses by the Coweled Wizards and, unable to live under a system controlled by Orlesian mages, the White Hand continued to practice magic in secret.  
 
 While the Avernian government can't directly support the subersive actions taken by these mages, members of the White Hand enjoy significant popular support amongst the common man in Avernus, where popular opinion has it that magic is one of the greatest and most noble diciplines that can be undertaken by man.
 
-## The Artisan's Guild
+### The Artisan's Guild
 
-## The Mosseau Institute
+### The Mosseau Institute
 An institution of higher magic learning in Avernus.
 
-## The Alamin
+### The Alamin
 A combination of Helm, Lathander, and Mielikki
 
-## The Houses of Avernus
-### House Durar
+### The Avernian Nobility
+#### House Durar
 Nali's current house. Aligned with the White Hand, and the Artisan's Guild. Lead by ?.
 
-### House Ontillian
+#### House Ontillian
 
-### House Drom
+#### House Drom
 
 ## Laanhone Elves
 

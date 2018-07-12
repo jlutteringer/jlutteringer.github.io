@@ -6,6 +6,4 @@
 
 ## Choose your Attributes
 
-## Choose your Skills
-
 ## Assign Stat Values

@@ -140,7 +140,7 @@
 | Multiattack(2) | This creature makes 2 Basic Attacks. |
 | Greatsword [Basic Attack, Reach(1)] | `1d10 +4 [slashing] (+7)` |
 | Overpower [Basic Attack]| Zuriel grapples a target and then throws it up to `6`.|
-| Investititure of Lightning [Recharge(6)]| As an action, Zuriel raises his greatsword in the air, summoning `3` Investiture's of Lightning within `60`ft. Each investiture is a medium vortex of lightning energy with `12` AC and `15` hitpoints. Whenever an investiture is struck with a melee attack, the attacker immediately takes `5` lightning damage and if a creature enters the Investiture's square it must make a DC `14` DEX save or be `stunned`. That creature may repeat it's saving throw at the end of each of its turns to end the effect and destroy the investiture, or the effect ends immdediately if the investiture is destroyed. A dispel magic aimed at one of these investitures ends the effect immediately. At the end of Zuriel's turn, each remaining investiture heals him for `10` hit points. Finally each active investiture adds an additional `1d6` lightning damage to his melee attacks. |
+| Investititure of Lightning [Recharge(6)]| As an action, Zuriel raises his greatsword in the air, summoning `3` Investiture's of Lightning within `60`ft. Each investiture is a medium vortex of lightning energy with `12` AC and `10` hitpoints. Whenever an investiture is struck with a melee attack, the attacker immediately takes `5` lightning damage and if a creature enters the Investiture's square it must make a DC `14` DEX save or be `stunned`. That creature may repeat it's saving throw at the end of each of its turns to end the effect and destroy the investiture, or the effect ends immdediately if the investiture is destroyed. A dispel magic aimed at one of these investitures ends the effect immediately. At the end of Zuriel's turn, each remaining investiture heals him for `10` hit points. Finally each active investiture adds an additional `1d6` lightning damage to his melee attacks. |
 | Legendary | Zuriel has `2` legendary actions per turn and `1` legendary resistance per day. |
 | Dash [LA(1)] | Zuriel moves up to his movement speed. This movement does not provoke opportunity attacks. |
 | Attack [LA(1)] | Zuriel makes one basic attack. |
@@ -180,7 +180,8 @@
 | Features | |
 |----|----|
 | Actions | Storm of the Century takes the following actions on an initiative of `20` and `10`, losing ties. To be targeted a creature must be visible to Caliphus and outdoors. |
-| Lightning Burst | A creature takes `4d8 [lightning]` damage. |
+| Torrential Winds | Terrain within the Storm of the Century is considered difficult terrain for any characters besides Caliphus and his summoned Air Elementals. |
+| Lightning Burst | A creature makes a `DEX` save and takes `4d8 [lightning]` damage on a failure. |
 | Conjure Air Elemental [Recharge(6)] | As the spell Conjure Elemental with no concentration. |
 | Ascention [Single Use]| A swirling barrier of lightning surrounds Caliphus for one minute. Caliphus gains `100` temporary hp and an aura which inflicts `20 [lightning]` damage at the end of Caliphus' turn to all targets within a `6` radius. Additionally Caliphus is cleansed of all status effects when he gains this buff and is immune to status effects while the barrier lasts. Lightning damage will restore hit points to the barrier, but can't bring the barrier's hit points over the maximum. If the temporary hit points are expended before the duration expires, the effect ends. |
 
@@ -268,6 +269,20 @@
 | Share the Pain | Whenever a wrack spawn takes damage that does not reduce it to 0 hit points, every creature within 10 feet of it that lacks this trait takes `2` psychic damage. |
 
 ### Ulamog's Despoiler
+
+### Pathrazer of Ulamog
+| Features | |
+|----|----|
+| Base Health | 200 |
+| AC | 14 |
+| Prof | `+4` |
+| Size | Huge |
+| Statistics | STR: `+8` DEX: `+0` CON: `+6` INT: `+0` WIS: `+0` CHA: `+0` |
+| Skills | STR, CON |
+| Claw [Basic Attack, Reach(5)]| Basic Attack: `2d10 + 8 (+11)` |
+| Multiattack(3) | Description |
+| Demolisher | The Pathrazer deals double damage to structures. |
+| Rock | 10ft square must make DC `14` DEX saving throw. Take `4d10 + 8` on a fail or half on a success. |
 
 ### Ulamog's Crusher
 | Features | |
